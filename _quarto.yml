@@ -4,6 +4,6 @@ project:
   
 
 editor: visual
-format: html
+format: revealjs
 
 
