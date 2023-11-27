@@ -1,0 +1,80 @@
+---
+title: "webpage-design"
+---
+
+## TL:DR, read this lot instead
+
+Nielsen Norman Group and Gov.uk
+
+https://www.nngroup.com/articles/how-users-read-on-the-web/
+
+https://www.nngroup.com/topic/writing-web/
+
+https://www.gov.uk/guidance/government-design-principles
+
+https://www.gov.uk/guidance/content-design/writing-for-gov-uk
+
+https://southampton.on.worldcat.org/oclc/798674328 Letting go of the words Janice Redish
+
+## The WWW is 34 years old, how are people viewing?
+
+```{r}
+#| message: false
+#| warning: false
+library(tidyverse)
+library(sotoncolours)
+library(scales)
+
+dt <- read_csv("inputs/comparison-GB-yearly-2011-2022.csv", 
+               col_types = c("c","n","n")) |> 
+  pivot_longer(2:3) |> mutate(Share = value/100) |> 
+  rename(Year = Date, Platform = name)
+
+theme_set(theme_minimal(base_family ="Atkinson Hyperlegible", base_size = 14))
+
+dt |> ggplot(aes(x = Year, y = Share, colour = Platform, group = Platform)) +
+  geom_line() +
+  geom_point() +
+  scale_y_continuous(labels = label_percent()) +
+  scale_colour_uos(palette = "contrast2") +
+  labs(title = "Desktop vs Mobile Market Share United Kingdom 2011-2022", subtitle = "source: https://gs.statcounter.com") +
+  #theme_minimal(base_family ="Atkinson+Hyperlegible") +
+  theme(legend.position = "bottom") 
+
+ggsave("test-plot.png", bg = "white", width = 10, height = 7.5)
+```
+
+## What's the first thing we do on landing on a web page?
+
+Check we are where we want to be! If not, we move on.
+
+What does that imply about page design?
+
+## What is the difference between the web and other formats?
+
+-   We scan in an F-pattern.
+
+-   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
+
+## Why would we use visuals?
+
+-   To impart information that cannot be easily expressed in words e.g. trends.
+
+-   To create ambience.
+
+## Why would we not use visuals?
+
+-   They make scanning more difficult, especially on mobile devices.
+
+## How do we improve sentences?
+
+Bennett Rules:
+
+1.  Verbs are better than nouns
+2.  Adverbs are better than adjectives
+3.  Favour the Anglo-Saxon
+4.  Banish 'very' and its ilk
+5.  Abstract nouns should be fought like the devil
+6.  Avoid undue repetition
+7.  Be careful with commas.
+8.  Attend to the sound
