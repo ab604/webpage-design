@@ -1,13 +1,12 @@
 # Service design
 
-What are we trying to achieve?
+## What are we trying to achieve?
 
 
 ```{r}
 #| label: fig-find-what-works
 #| echo: false
-#| fig-cap: Find What Works, Not What's Popular poster, GOV.UK Government Digital Service. 
-#| source: https://www.flickr.com/photos/gdsteam/20955195028
+#| fig-cap: Find What Works, Not What's Popular poster, GOV.UK Government Digital Service  https://www.flickr.com/photos/gdsteam/20955195028 
 #| out.width: NULL
 
 knitr::include_graphics("img/20955195028_1c7fd77e6b_o.png", dpi = 300)
