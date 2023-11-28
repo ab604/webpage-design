@@ -17,7 +17,7 @@ book:
   chapters:
     - index.qmd
     - what-to-read-instead.qmd
-    - optimisation-and-enshittification.qmd
+    - service-design.qmd
     - how-do-people-read-webpages.qmd
     - writing-better-sentences.qmd
     - imagery-and-visuals.qmd

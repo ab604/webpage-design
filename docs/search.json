@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Webpage design",
     "section": "",
-    "text": "Preface\n\n\n\n\n\nFigure 1: The web is 34 years old."
+    "text": "Preface\n\n\n\n\n\nFigure 1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
   },
   {
     "objectID": "what-to-read-instead.html",
@@ -12,5 +12,47 @@
     "title": "1  What to read instead",
     "section": "",
     "text": "Nielsen Norman Group and Gov.uk\nhttps://www.nngroup.com/articles/how-users-read-on-the-web/\nhttps://www.nngroup.com/topic/writing-web/\nhttps://www.gov.uk/guidance/government-design-principles\nhttps://www.gov.uk/guidance/content-design/writing-for-gov-uk\nhttps://southampton.on.worldcat.org/oclc/798674328 Letting go of the words Janice Redish"
+  },
+  {
+    "objectID": "service-design.html#optimisation-and-enshittification",
+    "href": "service-design.html#optimisation-and-enshittification",
+    "title": "2  Service design",
+    "section": "2.1 Optimisation and Enshittification",
+    "text": "2.1 Optimisation and Enshittification\nThis section can be skipped, but if you are interested in thinking more about why web experience has got worse over time\nIvan Vendrov The Tyranny of the Marginal User\nCory Doctorow on The ‘Enshittification’ of TikTok"
+  },
+  {
+    "objectID": "how-do-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
+    "href": "how-do-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
+    "title": "3  How do people read webpages?",
+    "section": "3.1 What’s the first thing we do on landing on a web page?",
+    "text": "3.1 What’s the first thing we do on landing on a web page?\nCheck we are where we want to be! If not, we move on.\nWhat does that imply about page design?"
+  },
+  {
+    "objectID": "how-do-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
+    "href": "how-do-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
+    "title": "3  How do people read webpages?",
+    "section": "3.2 What is the difference between the web and other formats?",
+    "text": "3.2 What is the difference between the web and other formats?\n\nWe scan in an F-pattern.\nLong form (&gt;1,000 words) we read in chunks, look for summaries, highlights or key-points."
+  },
+  {
+    "objectID": "writing-better-sentences.html#how-do-we-improve-sentences",
+    "href": "writing-better-sentences.html#how-do-we-improve-sentences",
+    "title": "4  Writing better sentences",
+    "section": "4.1 How do we improve sentences?",
+    "text": "4.1 How do we improve sentences?\nBennett Rules: https://www.earlymoderntexts.com/assets/jfb/bengor.pdf 1. Verbs are better than nouns 2. Adverbs are better than adjectives 3. Favour the Anglo-Saxon 4. Banish ‘very’ and its ilk 5. Abstract nouns should be fought like the devil 6. Avoid undue repetition 7. Be careful with commas. 8. Attend to the sound"
+  },
+  {
+    "objectID": "imagery-and-visuals.html#why-would-we-use-visuals",
+    "href": "imagery-and-visuals.html#why-would-we-use-visuals",
+    "title": "5  Using imagery and visuals",
+    "section": "5.1 Why would we use visuals?",
+    "text": "5.1 Why would we use visuals?\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience."
+  },
+  {
+    "objectID": "imagery-and-visuals.html#why-would-we-not-use-visuals",
+    "href": "imagery-and-visuals.html#why-would-we-not-use-visuals",
+    "title": "5  Using imagery and visuals",
+    "section": "5.2 Why would we not use visuals?",
+    "text": "5.2 Why would we not use visuals?\n\nThey make scanning more difficult, especially on mobile devices."
   }
 ]

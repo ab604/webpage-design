@@ -1,1 +1,11 @@
 # Using imagery and visuals
+
+## Why would we use visuals?
+
+-   To impart information that cannot be easily expressed in words e.g. trends.
+
+-   To create ambience.
+
+## Why would we not use visuals?
+
+-   They make scanning more difficult, especially on mobile devices.
