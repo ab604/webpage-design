@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Webpage  design"
+  title: "Designing Webpages"
   author: "Alistair Bailey"
   date: last-modified
   date-format: "[Last Updated on] YYYY-MM-DD"
@@ -17,8 +17,8 @@ book:
   chapters:
     - index.qmd
     - what-to-read-instead.qmd
-    - service-design.qmd
-    - how-do-people-read-webpages.qmd
+    - general-considerations.qmd
+    - how-people-read-webpages.qmd
     - writing-better-sentences.qmd
     - imagery-and-visuals.qmd
     - references.qmd
@@ -30,8 +30,8 @@ format:
     theme:
       light: [cosmo, styles.scss]
       dark: [darkly, styles.scss]
-  pdf:
-    documentclass: scrreprt
+  #pdf:
+    #documentclass: scrreprt
 
 editor: visual
 

@@ -1,9 +1,11 @@
+---
+bibliography: references.bib
+---
+
 # Writing better sentences
 
-## How do we improve sentences?
+Bennett Rules [@bennett1997] :
 
-Bennett Rules:
-https://www.earlymoderntexts.com/assets/jfb/bengor.pdf
 1.  Verbs are better than nouns
 2.  Adverbs are better than adjectives
 3.  Favour the Anglo-Saxon

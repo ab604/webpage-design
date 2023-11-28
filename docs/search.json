@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Webpage design",
+    "title": "Designing Webpages",
     "section": "",
-    "text": "Preface\n\n\n\n\n\nFigure 1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
+    "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinant information found elsewhere about how to create effective webpages for delivering information to library users.\nThe aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow. The overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\nAnd most importantly, what are we actually trying to achieve?\n\nDefining our aims can be challenging, but we can lean on Stuart Sutherland’s definition of acting rationally (Sutherland 2007) when trying to understand if we have answered the third question in the light of the the first two:\nIf our design choices aid achieving our aims they are rational. Whereas if our design choices hinder or confound our aims, they are irrational.\n\n\n\n\nSutherland, Stuart. 2007. Irrationality / Stuart Sutherland. London: Pinter & Martin."
   },
   {
     "objectID": "what-to-read-instead.html",
@@ -14,39 +14,46 @@
     "text": "Nielsen Norman Group and Gov.uk\nhttps://www.nngroup.com/articles/how-users-read-on-the-web/\nhttps://www.nngroup.com/topic/writing-web/\nhttps://www.gov.uk/guidance/government-design-principles\nhttps://www.gov.uk/guidance/content-design/writing-for-gov-uk\nhttps://southampton.on.worldcat.org/oclc/798674328 Letting go of the words Janice Redish"
   },
   {
-    "objectID": "service-design.html#what-are-we-trying-to-achieve",
-    "href": "service-design.html#what-are-we-trying-to-achieve",
-    "title": "2  Service design",
-    "section": "2.1 What are we trying to achieve?",
-    "text": "2.1 What are we trying to achieve?\n\n\n\n\n\nFigure 2.1: Find What Works, Not What’s Popular poster, GOV.UK Government Digital Service https://www.flickr.com/photos/gdsteam/20955195028"
+    "objectID": "general-considerations.html#mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
+    "href": "general-considerations.html#mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
+    "title": "2  General considerations",
+    "section": "2.1 Mobile devices now account for 50% of webpage views in the UK",
+    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nThis matters because when considering how to create effective webpages we need to consider how our pages work on both computers with traditional keyboards and screens, as well as touch screen only devices.\n\n\n\n\n\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
   },
   {
-    "objectID": "service-design.html#optimisation-and-enshittification",
-    "href": "service-design.html#optimisation-and-enshittification",
-    "title": "2  Service design",
-    "section": "2.2 Optimisation and Enshittification",
-    "text": "2.2 Optimisation and Enshittification\nThis section can be skipped, but if you are interested in thinking more about why web experience has got worse over time\nIvan Vendrov The Tyranny of the Marginal User\nCory Doctorow on The ‘Enshittification’ of TikTok"
+    "objectID": "general-considerations.html#what-are-we-trying-to-achieve",
+    "href": "general-considerations.html#what-are-we-trying-to-achieve",
+    "title": "2  General considerations",
+    "section": "2.2 What are we trying to achieve?",
+    "text": "2.2 What are we trying to achieve?\n\n\n\n\n\nFigure 2.2: Find What Works, Not What’s Popular poster, GOV.UK Government Digital Service https://www.flickr.com/photos/gdsteam/20955195028"
   },
   {
-    "objectID": "how-do-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
-    "href": "how-do-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
+    "objectID": "general-considerations.html#optimisation-and-enshittification",
+    "href": "general-considerations.html#optimisation-and-enshittification",
+    "title": "2  General considerations",
+    "section": "2.3 Optimisation and Enshittification",
+    "text": "2.3 Optimisation and Enshittification\nThis section can be skipped, but if you are interested in thinking more about why web experience has got worse over time\nIvan Vendrov The Tyranny of the Marginal User\nCory Doctorow on The ‘Enshittification’ of TikTok"
+  },
+  {
+    "objectID": "how-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
+    "href": "how-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
     "title": "3  How do people read webpages?",
     "section": "3.1 What’s the first thing we do on landing on a web page?",
     "text": "3.1 What’s the first thing we do on landing on a web page?\nCheck we are where we want to be! If not, we move on.\nWhat does that imply about page design?"
   },
   {
-    "objectID": "how-do-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
-    "href": "how-do-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
+    "objectID": "how-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
+    "href": "how-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
     "title": "3  How do people read webpages?",
     "section": "3.2 What is the difference between the web and other formats?",
-    "text": "3.2 What is the difference between the web and other formats?\n\nWe scan in an F-pattern.\nLong form (&gt;1,000 words) we read in chunks, look for summaries, highlights or key-points."
+    "text": "3.2 What is the difference between the web and other formats?\n\nWe scan in an F-pattern.\nLong form (>1,000 words) we read in chunks, look for summaries, highlights or key-points."
   },
   {
-    "objectID": "writing-better-sentences.html#how-do-we-improve-sentences",
-    "href": "writing-better-sentences.html#how-do-we-improve-sentences",
+    "objectID": "writing-better-sentences.html",
+    "href": "writing-better-sentences.html",
     "title": "4  Writing better sentences",
-    "section": "4.1 How do we improve sentences?",
-    "text": "4.1 How do we improve sentences?\nBennett Rules: https://www.earlymoderntexts.com/assets/jfb/bengor.pdf 1. Verbs are better than nouns 2. Adverbs are better than adjectives 3. Favour the Anglo-Saxon 4. Banish ‘very’ and its ilk 5. Abstract nouns should be fought like the devil 6. Avoid undue repetition 7. Be careful with commas. 8. Attend to the sound"
+    "section": "",
+    "text": "Bennett Rules (Bennett and Gorovitz 1997) :\n\nVerbs are better than nouns\nAdverbs are better than adjectives\nFavour the Anglo-Saxon\nBanish ‘very’ and its ilk\nAbstract nouns should be fought like the devil\nAvoid undue repetition\nBe careful with commas.\nAttend to the sound\n\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
   },
   {
     "objectID": "imagery-and-visuals.html#why-would-we-use-visuals",
@@ -61,5 +68,12 @@
     "title": "5  Using imagery and visuals",
     "section": "5.2 Why would we not use visuals?",
     "text": "5.2 Why would we not use visuals?\n\nThey make scanning more difficult, especially on mobile devices."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Bennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic\nWriting.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf.\n\n\nSutherland, Stuart. 2007. Irrationality / Stuart Sutherland.\nLondon: Pinter & Martin."
   }
 ]
