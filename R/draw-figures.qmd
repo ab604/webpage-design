@@ -1,0 +1,28 @@
+## Draw a figure to show how people view the internet in the UK over time
+
+```{r}
+#| message: false
+#| warning: false
+library(tidyverse)
+library(sotoncolours)
+library(scales)
+
+dt <- read_csv("../dat/comparison-GB-yearly-2011-2022.csv",
+               col_types = c("c","n","n")) |>
+  pivot_longer(2:3) |> mutate(Share = value/100) |>
+  rename(Year = Date, Platform = name)
+
+theme_set(theme_minimal(base_family ="Atkinson Hyperlegible", base_size = 16))
+
+          theme(panel.grid.major.x = element_blank(), plot.title = element_text(size = 20, color = "#005C84",face = "bold"), plot.subtitle = element_text(size = 18, color = "#005C84",face = "bold"))
+
+dt |> ggplot(aes(x = Year, y = Share, colour = Platform, group = Platform)) +
+  geom_line(linewidth = 1.5) +
+  geom_point(size = 3) +
+  scale_y_continuous(labels = label_percent()) +
+  scale_colour_uos(palette = "contrast2") +
+  labs(title = "Desktop vs Mobile Market Share United Kingdom 2011-2022", subtitle = "source: https://gs.statcounter.com") +
+  theme(legend.position = "bottom")
+
+ggsave("../img/uk-web-views-2011-2022.png", bg = "white", width = 10, height = 7.5)
+```

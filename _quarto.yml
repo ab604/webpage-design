@@ -1,9 +1,37 @@
 project:
-  title: "webpage-design"
+  type: book
   output-dir: docs
+
+book:
+  title: "Webpage  design"
+  author: "Alistair Bailey"
+  date: last-modified
+  date-format: "[Last Updated on] YYYY-MM-DD"
+  #cover-image: cover.png
+  reader-mode: true  
+  page-footer:
+      left: |
+        This font is <a href="https://brailleinstitute.org/freefont">Atkinson Hyperlegible</a>.
+      right: |
+        This book was built with <a href="https://quarto.org/">Quarto</a>.
+  chapters:
+    - index.qmd
+    - what-to-read-instead.qmd
+    - optimisation-and-enshittification.qmd
+    - how-do-people-read-webpages.qmd
+    - writing-better-sentences.qmd
+    - imagery-and-visuals.qmd
+    - references.qmd
   
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles.scss]
+  pdf:
+    documentclass: scrreprt
 
 editor: visual
-format: revealjs
-
 

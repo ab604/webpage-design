@@ -1,0 +1,51 @@
+# Preface {.unnumbered}
+
+```{r}
+#| label: fig-uk-web-use
+#| echo: false
+#| fig-cap: |
+#|   The web is 34  years old.
+#| fig-alt: |
+#|   A figure with two lines, one for Desktops and the other for mobile devices 
+#|   showing how between 2011 and 2022 about half of all web use is  
+#| out.width: NULL
+
+knitr::include_graphics("img/uk-web-views-2011-2022.png", dpi = 300)
+```
+
+<!-- ## The WWW is 34 years old, how are people viewing? -->
+
+<!-- ## What's the first thing we do on landing on a web page? -->
+
+<!-- Check we are where we want to be! If not, we move on. -->
+
+<!-- What does that imply about page design? -->
+
+<!-- ## What is the difference between the web and other formats? -->
+
+<!-- -   We scan in an F-pattern. -->
+
+<!-- -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points. -->
+
+<!-- ## Why would we use visuals? -->
+
+<!-- -   To impart information that cannot be easily expressed in words e.g. trends. -->
+
+<!-- -   To create ambience. -->
+
+<!-- ## Why would we not use visuals? -->
+
+<!-- -   They make scanning more difficult, especially on mobile devices. -->
+
+<!-- ## How do we improve sentences? -->
+
+<!-- Bennett Rules: -->
+<!-- https://www.earlymoderntexts.com/assets/jfb/bengor.pdf -->
+<!-- 1.  Verbs are better than nouns -->
+<!-- 2.  Adverbs are better than adjectives -->
+<!-- 3.  Favour the Anglo-Saxon -->
+<!-- 4.  Banish 'very' and its ilk -->
+<!-- 5.  Abstract nouns should be fought like the devil -->
+<!-- 6.  Avoid undue repetition -->
+<!-- 7.  Be careful with commas. -->
+<!-- 8.  Attend to the sound -->
