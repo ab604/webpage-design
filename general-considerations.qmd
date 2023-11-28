@@ -1,6 +1,6 @@
 # General considerations
 
-This page considers 
+This page considers
 
 ## Mobile devices now account for 50% of webpage views in the UK
 
@@ -8,7 +8,7 @@ This page considers
 
 This matters because when considering how to create effective webpages we need to consider how our pages work on both computers with traditional keyboards and screens, as well as touch screen only devices.
 
-```{r} 
+```{r}
 #| label: fig-uk-web-use 
 #| echo: false 
 #| fig-cap: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices. 

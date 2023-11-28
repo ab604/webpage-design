@@ -1,13 +1,21 @@
 ## What to read instead
 
-Nielsen Norman Group and Gov.uk
+Given the enormous economic value of the world wide web and attracting users to ones site, there is extensive on-going research into user experience in both the commercial and public sectors.
+
+Two leading groups are the private sector [Nielsen Norman Group (NN/g)](https://www.nngroup.com/) and in the public sector the UK [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) .
+
+Both these groups provide extensive materials detailing their research and guidance on what works (and what doesn't). I encourage readers to explore their websites and beyond.
+
+Here are some links to some pages I considered highly relevant for librarians:
 
 <https://www.nngroup.com/articles/how-users-read-on-the-web/>
 
 <https://www.nngroup.com/topic/writing-web/>
 
+<https://www.nngroup.com/articles/psychology-study-guide/>
+
 <https://www.gov.uk/guidance/government-design-principles>
 
 <https://www.gov.uk/guidance/content-design/writing-for-gov-uk>
 
-<https://southampton.on.worldcat.org/oclc/798674328> Letting go of the words Janice Redish
+If you prefer a book, [Letting go of the words by Janice Redish](https://southampton.on.worldcat.org/oclc/798674328) covers many of the same topics.
