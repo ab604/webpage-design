@@ -11,3 +11,5 @@ What does that imply about page design?
 -   We scan in an F-pattern.
 
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
+
+## Are there differences between desktop/laptop and mobile devices?
