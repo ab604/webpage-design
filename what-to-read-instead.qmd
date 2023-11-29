@@ -2,7 +2,7 @@
 
 Given the enormous economic value of the world wide web and attracting users to ones site, there are considerable research efforts into user experience in both the commercial and public sectors.
 
-Two leading groups are in the private sector the [Nielsen Norman Group (NN/g)](https://www.nngroup.com/), and in the public sector the [UK Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service).
+Two leading groups are in the private sector the [Nielsen Norman Group (NN/g)](https://www.nngroup.com/){target=_blank}, and in the public sector the [UK Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service).
 
 Both these groups provide extensive materials detailing their research and guidance on what works (and what doesn't). I encourage readers to explore their websites and beyond.
 
