@@ -1,4 +1,4 @@
-# How do people read webpages?
+# How people read webpages {#sec-how-do-people-read-webpages}
 
 ## What's the first thing we do on landing on a web page?
 

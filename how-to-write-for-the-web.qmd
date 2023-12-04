@@ -2,6 +2,10 @@
 bibliography: references.bib
 ---
 
+# How to write for the web {#sec-how-to-write-for-the-web}
+
+[NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
+
 # Writing better sentences
 
 Bennett Rules [@bennett1997] :

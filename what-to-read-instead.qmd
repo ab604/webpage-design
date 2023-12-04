@@ -1,4 +1,4 @@
-## What to read instead
+# What to read instead {#sec-what-to-read-instead}
 
 Given the enormous economic value of the world wide web and attracting users to ones site, there are considerable research efforts into user experience in both the commercial and public sectors.
 

@@ -17,10 +17,10 @@ book:
   chapters:
     - index.qmd
     - what-to-read-instead.qmd
-    - general-considerations.qmd
+    - how-people-access-webpages.qmd
     - how-people-read-webpages.qmd
-    - writing-better-sentences.qmd
-    - imagery-and-visuals.qmd
+    - how-to-write-for-the-web.qmd
+    - how-to-use-imagery-and-visuals.qmd
     - references.qmd
   
 bibliography: references.bib

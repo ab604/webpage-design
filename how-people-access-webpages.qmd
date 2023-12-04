@@ -1,0 +1,43 @@
+# How people access the web {#sec-how-people-access-the-web}
+
+Before we discuss design specifics, here some general context and considerations:
+
+## Mobile devices now account for 50% of webpage views in the UK {#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk}
+
+@fig-uk-web-use shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.
+
+This matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.
+
+```{r}
+#| label: fig-uk-web-use 
+#| echo: false 
+#| fig-cap: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices. 
+#| fig-alt: A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.
+#| out.width: NULL
+
+knitr::include_graphics("img/uk-web-views-2011-2022.png", dpi = 300)
+```
+
+## Design webpages to provide a consistent experience across channels {#sec-design-webpages-to-provide-a-consistent-experience-across-channels}
+
+Broadly speaking, these are the differences between desktop and mobile web experiences:
+
+-   Desktops/Laptops are best for complex activities (using keyboard and mouse, multiple tabs etc.) and detail rich content (larger screens).
+
+-   Mobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.
+
+Given our expectation that users are likely to be using either channel when viewing our pages (@fig-uk-web-use), this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.
+
+Consistency doesn't mean identical, it means the user has the same core experience regardless of channel.
+
+What consistency means in practice is therefore determined by our overall design aims and adapting the guidance in @sec-how-do-people-read-webpages, @sec-how-to-write-for-the-web and @sec-using-imagery-and-visuals for our specific page.
+
+There is of course lots more detail on the [NN/g: Optimizing for Context in the Omnichannel User Experience](https://www.nngroup.com/articles/context-specific-cross-channel/) page, including discussions on when it's appropriate to optimise for device rather than consistency.
+
+<!-- ## Optimisation and Enshittification -->
+
+<!-- This section can be skipped, but if you are interested in thinking more about why web experience has got worse over time -->
+
+<!-- [Ivan Vendrov The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user) -->
+
+<!-- [Cory Doctorow on The 'Enshittification' of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) -->
