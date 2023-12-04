@@ -5,7 +5,7 @@
 $font-family-sans-serif: 'Atkinson Hyperlegible',Atkinson+Hyperlegible
   FreeSerif, serif !default;
 
-//$font-size-root: 18px !default;
+$font-size-root: 18px !default;
 
 $white:    #fff !default;
 $black: black !default;
@@ -23,19 +23,17 @@ $horizon5: #8D3970 !default;
 $shamrock: #1E8765 !default;
 $neutral1: #495961 !default;
 $neutral2: #758D9A !default;
-
 $link-color: $marine1 !default;
 $headings-color: $marine1 !default;
 
 /*-- scss:rules --*/
-.red {
+.highlight {
   color: $horizon2;
   font-weight: bold;
 }
 .sidebar-title {
   color: $marine1;
 }
-
 
 .header-section-number {
   color: $marine1;

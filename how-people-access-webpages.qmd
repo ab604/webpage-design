@@ -1,6 +1,6 @@
 # How people access the web {#sec-how-people-access-the-web}
 
-[Summary:]{.red} In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. Accordingly, this suggests we should design webpages to provide a consistent user experience across devices.
+[Summary:]{.highlight} In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. Accordingly, this suggests we should design webpages to provide a consistent user experience across devices.
 
 ## Mobile devices now account for 50% of webpage views in the UK {#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk}
 
