@@ -10,9 +10,8 @@ Here are some links to some pages I considered highly relevant for librarians:
 
 -   [NN/g: Writing for the Web Articles & Videos](https://www.nngroup.com/topic/writing-web/){.uri}
 
-```{=html}
 <!-- -->
-```
+
 -   [NN/g: Psychology for UX: Study Guide](https://www.nngroup.com/articles/psychology-study-guide/){.uri}: a collection of links to NN/g articles and videos about principles of human psychology and how they relates to user experience design.
 
 -   [GOV.UK: Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk){.uri}: this page covers and links to NN/g research, but from a UK public sector viewpoint
@@ -21,6 +20,6 @@ Here are some links to some pages I considered highly relevant for librarians:
 
 -   If you prefer a book, [Letting go of the words by Janice Redish](https://southampton.on.worldcat.org/oclc/798674328) [@redish2012] covers many of the same topics.
 
-## What we won't cover
+## What's not covered
 
 It's worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we'll considering here, but one would expect this to improve our webpages if we could include this.

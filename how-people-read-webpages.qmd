@@ -2,6 +2,8 @@
 
 [Summary:]{.highlight} People don't read webpages, they scan the page for relevant information.
 
+------------------------------------------------------------------------
+
 ## People scan webpages
 
 NN/g report and
@@ -11,4 +13,3 @@ NN/g report and
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
 
 ## How to structure a webpage
-

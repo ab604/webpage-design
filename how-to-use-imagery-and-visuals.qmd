@@ -1,12 +1,16 @@
 # Using imagery and visuals {#sec-using-imagery-and-visuals}
 
-## Why would we use visuals?
+[Summary:]{.highlight} Users find images that are not informative annoying. They slow down page loading and increase scrolling and scanning time, especially on mobile devices.
+
+------------------------------------------------------------------------
+
+## Misconceptions about users and images {#sec-misconceptions-about-users-and-images}
+
+## How to use images {#sec-how-to-use-images}
 
 -   To impart information that cannot be easily expressed in words e.g. trends.
 
 -   To create ambience.
-
-## Why would we not use visuals?
 
 -   They make scanning more difficult, especially on mobile devices.
 

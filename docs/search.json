@@ -7,11 +7,11 @@
     "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for delivering information to library users.\nThe aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow. The overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\nAnd most importantly, what are we actually trying to achieve?\n\nDefining our aims can be challenging, but we can lean on Stuart Sutherland’s definition of acting rationally (Sutherland 2007) when trying to understand if we have answered the third question in the light of the the first two:\nIf our design choices aid achieving our aims they are rational. Whereas if our design choices hinder or confound our aims, they are irrational.\n\n\n\n\nSutherland, Stuart. 2007. Irrationality / Stuart Sutherland. London: Pinter & Martin."
   },
   {
-    "objectID": "what-to-read-instead.html#what-we-wont-cover",
-    "href": "what-to-read-instead.html#what-we-wont-cover",
+    "objectID": "what-to-read-instead.html#whats-not-covered",
+    "href": "what-to-read-instead.html#whats-not-covered",
     "title": "1  What to read instead",
-    "section": "1.1 What we won’t cover",
-    "text": "1.1 What we won’t cover\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’ll considering here, but one would expect this to improve our webpages if we could include this.\n\n\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
+    "section": "1.1 What’s not covered",
+    "text": "1.1 What’s not covered\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’ll considering here, but one would expect this to improve our webpages if we could include this.\n\n\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
   },
   {
     "objectID": "how-people-access-webpages.html#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
@@ -39,7 +39,7 @@
     "href": "how-people-read-webpages.html#people-scan-webpages",
     "title": "3  How people read webpages",
     "section": "3.1 People scan webpages",
-    "text": "3.1 People scan webpages\nNN/g report and\n\nWe scan in an F-pattern.\nLong form (&gt;1,000 words) we read in chunks, look for summaries, highlights or key-points."
+    "text": "3.1 People scan webpages\nNN/g report and\n\nWe scan in an F-pattern.\nLong form (>1,000 words) we read in chunks, look for summaries, highlights or key-points."
   },
   {
     "objectID": "how-people-read-webpages.html#how-to-structure-a-webpage",
@@ -49,25 +49,25 @@
     "text": "3.2 How to structure a webpage"
   },
   {
-    "objectID": "how-to-write-for-the-web.html",
-    "href": "how-to-write-for-the-web.html",
+    "objectID": "how-to-write-for-the-web.html#how-to-write-better-sentences",
+    "href": "how-to-write-for-the-web.html#how-to-write-better-sentences",
     "title": "4  How to write for the web",
-    "section": "",
-    "text": "Summary: Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.\nNN/g UX Writing: Study Guide\n\n5 How to write better sentences\nBennett Rules (Bennett and Gorovitz 1997) :\n\nVerbs are better than nouns\nAdverbs are better than adjectives\nFavour the Anglo-Saxon\nBanish ‘very’ and its ilk\nAbstract nouns should be fought like the devil\nAvoid undue repetition\nBe careful with commas.\nAttend to the sound\n\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
+    "section": "4.1 How to write better sentences",
+    "text": "4.1 How to write better sentences\nMy favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe ‘Bennett Rules’ for sentences (Bennett and Gorovitz 1997).\nI’ve extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.\nA key point is that comparison is often the best way to understand whether we can make a sentence easier to read and more concise.\n\nVerbs are better than nouns. Compare:\n\nThere is a difference between waving and drowning.\nWaving differs from drowning.\n\nAdverbs are better than adjectives. Compare:\n\nShe is a clear writer.\nShe writes clearly.\n\nFavour the Anglo-Saxon. Compare:\n\nIs it possible for him to…? (possible has Latin roots)\nCan he…? (can has Anglo-Saxon roots)\n\nBanish ‘very’ and its ilk. Compare:\n\nIt’s very unlikely.\nIt’s unlikely.\n\nAbstract nouns should be fought like the devil. Compare:\n\nOur exploration of the formualations’ implications for readability reveals that each are unacceptable.\nWe explore what each formulation implies for readability and find that none are acceptable.\n\nAvoid undue repetition\nBe careful with commas.\nAttend to the sound\n\nUltimately this is about making you think. You may prefer the more verbose or Latin rooted construction, but these ‘rules’ are to help you think about why a sentence will work best for the user.\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#why-would-we-use-visuals",
-    "href": "how-to-use-imagery-and-visuals.html#why-would-we-use-visuals",
+    "objectID": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
+    "href": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
     "title": "5  Using imagery and visuals",
-    "section": "5.1 Why would we use visuals?",
-    "text": "5.1 Why would we use visuals?\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience."
+    "section": "5.1 Misconceptions about users and images",
+    "text": "5.1 Misconceptions about users and images"
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#why-would-we-not-use-visuals",
-    "href": "how-to-use-imagery-and-visuals.html#why-would-we-not-use-visuals",
+    "objectID": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
+    "href": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
     "title": "5  Using imagery and visuals",
-    "section": "5.2 Why would we not use visuals?",
-    "text": "5.2 Why would we not use visuals?\n\nThey make scanning more difficult, especially on mobile devices.\n\nhttps://www.nngroup.com/articles/imagery-in-visual-design/"
+    "section": "5.2 How to use images",
+    "text": "5.2 How to use images\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience.\nThey make scanning more difficult, especially on mobile devices.\n\nhttps://www.nngroup.com/articles/imagery-in-visual-design/"
   },
   {
     "objectID": "references.html",

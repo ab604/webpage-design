@@ -4,20 +4,79 @@ bibliography: references.bib
 
 # How to write for the web {#sec-how-to-write-for-the-web}
 
-[Summary:]{.highlight} Good writing is easy to read and understand. It uses short sentences, 
-simple vocabulary and is broken into chunks. 
+[Summary:]{.highlight} Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.
 
-[NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
+------------------------------------------------------------------------
 
-# How to write better sentences
+@sec-how-do-people-read-webpages covered how we should format and structure a webpage in the light of understanding that users scan pages rather than read them. Here we discuss the writing itself.
 
-Bennett Rules [@bennett1997] :
+As usual the question is, *"given what we know, what makes sense?"*
 
-1.  Verbs are better than nouns
-2.  Adverbs are better than adjectives
-3.  Favour the Anglo-Saxon
-4.  Banish 'very' and its ilk
-5.  Abstract nouns should be fought like the devil
+We know:
+
+-   Users scan rather than read
+
+-   Users come for information
+
+-   Users have limited cognitive capacity
+
+This implies:
+
+-   We need to make the page easy to scan, not just in structure, but through our use of language
+
+-   Jargon or complex language is a bad idea
+
+-   Be concise
+
+<!-- [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/) -->
+
+## How to write better sentences
+
+My favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe 'Bennett Rules' for sentences [@bennett1997].
+
+I've extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.
+
+A key point is that comparison is often the best way to understand whether we can make a sentence easier to read and more concise.
+
+1.  Verbs are better than nouns. Compare:
+
+    > There is a difference between waving and drowning.
+    >
+    > Waving differs from drowning.
+
+2.  Adverbs are better than adjectives. Compare:
+
+    > She is a clear writer.
+    >
+    > She writes clearly.
+
+3.  Favour the Anglo-Saxon. Compare:
+
+    > Is it possible for him to...? (*possible* has Latin roots)
+    >
+    > Can he...? (*can* has Anglo-Saxon roots)
+
+4.  Banish 'very' and its ilk. Compare:
+  
+    > It's very unlikely.
+    >
+    > It's unlikely.
+
+5.  Abstract nouns should be fought like the devil. Compare:
+
+    > Our exploration of the formualations' implications for readability reveals 
+    > that each are unacceptable.
+    >
+    > We explore what each formulation implies for readability and find 
+    > that none are acceptable.
+    >
+    
 6.  Avoid undue repetition
+
 7.  Be careful with commas.
+
 8.  Attend to the sound
+
+Ultimately this is about making you think. You may prefer the more verbose or 
+Latin rooted construction, but these 'rules' are to help you think about why a 
+sentence will work best for the user.

@@ -1,6 +1,8 @@
 # How people access the web {#sec-how-people-access-the-web}
 
-[Summary:]{.highlight} In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. Accordingly, this suggests we should design webpages to provide a consistent user experience across devices.
+[Summary:]{.highlight} In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. This suggests we should design webpages to provide a consistent user experience across devices.
+
+------------------------------------------------------------------------
 
 ## Mobile devices now account for 50% of webpage views in the UK {#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk}
 
@@ -58,11 +60,3 @@ These guidelines follow four design principles:
 The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming!
 
 Given that in the library we are concerned with pages primarily consisting of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) provides more concise guidance.
-
-<!-- ## Optimisation and Enshittification -->
-
-<!-- This section can be skipped, but if you are interested in thinking more about why web experience has got worse over time -->
-
-<!-- [Ivan Vendrov The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user) -->
-
-<!-- [Cory Doctorow on The 'Enshittification' of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) -->
