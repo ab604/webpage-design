@@ -1,16 +1,14 @@
 # How people read webpages {#sec-how-do-people-read-webpages}
 
-People don't read webpages in the traditional sense of the beginning to the end, 
-they ***scan*** the page for the information they came for.
+[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information.
 
-## What's the first thing we do on landing on a web page?
+## People scan webpages
 
-Check we are where we want to be! If not, we move on.
-
-What does that imply about page design?
-
-## What is the difference between the web and other formats?
+NN/g report and
 
 -   We scan in an F-pattern.
 
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
+
+## How to structure a webpage
+

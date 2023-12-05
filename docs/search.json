@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Designing Webpages",
+    "title": "Webpage Design",
     "section": "",
     "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for delivering information to library users.\nThe aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow. The overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\nAnd most importantly, what are we actually trying to achieve?\n\nDefining our aims can be challenging, but we can lean on Stuart Sutherland’s definition of acting rationally (Sutherland 2007) when trying to understand if we have answered the third question in the light of the the first two:\nIf our design choices aid achieving our aims they are rational. Whereas if our design choices hinder or confound our aims, they are irrational.\n\n\n\n\nSutherland, Stuart. 2007. Irrationality / Stuart Sutherland. London: Pinter & Martin."
   },
   {
-    "objectID": "what-to-read-instead.html",
-    "href": "what-to-read-instead.html",
+    "objectID": "what-to-read-instead.html#what-we-wont-cover",
+    "href": "what-to-read-instead.html#what-we-wont-cover",
     "title": "1  What to read instead",
-    "section": "",
-    "text": "Given the enormous economic value of the world wide web and attracting users to ones site, there are considerable research efforts into user experience in both the commercial and public sectors.\nTwo leading groups are in the private sector the Nielsen Norman Group (NN/g), and in the public sector the UK Government Digital Service (GDS).\nBoth these groups provide extensive materials detailing their research and guidance on what works (and what doesn’t). I encourage readers to explore their websites and beyond.\nHere are some links to some pages I considered highly relevant for librarians from the NN/g and the GDS:\nhttps://www.nngroup.com/articles/how-users-read-on-the-web/\nhttps://www.nngroup.com/topic/writing-web/\nhttps://www.nngroup.com/articles/psychology-study-guide/\nhttps://www.gov.uk/guidance/government-design-principles\nhttps://www.gov.uk/guidance/content-design/writing-for-gov-uk\nIf you prefer a book, Letting go of the words by Janice Redish (Redish 2012) covers many of the same topics.\n\n\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
+    "section": "1.1 What we won’t cover",
+    "text": "1.1 What we won’t cover\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’ll considering here, but one would expect this to improve our webpages if we could include this.\n\n\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
   },
   {
     "objectID": "how-people-access-webpages.html#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
     "href": "how-people-access-webpages.html#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
     "title": "2  How people access the web",
     "section": "2.1 Mobile devices now account for 50% of webpage views in the UK",
-    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nThis matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.\n\n\n\n\n\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
+    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nIn November 2023 GOV.UK reported that over 60% of their visits are from mobile devices.\nThis matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.\n\n\n\n\n\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
   },
   {
     "objectID": "how-people-access-webpages.html#sec-design-webpages-to-provide-a-consistent-experience-across-channels",
@@ -28,25 +28,32 @@
     "text": "2.2 Design webpages to provide a consistent experience across channels\nBroadly speaking, these are the differences between desktop and mobile web experiences:\n\nDesktops/Laptops are best for complex activities (using keyboard and mouse, multiple tabs etc.) and detail rich content (larger screens).\nMobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.\n\nGiven our expectation that users are likely to be using either channel when viewing our pages (Figure 2.1), this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.\nConsistency doesn’t mean identical, it means the user has the same core experience regardless of channel.\nWhat consistency means in practice is therefore determined by our overall design aims and adapting the guidance in Chapter 3, Chapter 4 and Chapter 5 for our specific page.\nThere is of course lots more detail on the NN/g: Optimizing for Context in the Omnichannel User Experience page, including discussions on when it’s appropriate to optimise for device rather than consistency."
   },
   {
-    "objectID": "how-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
-    "href": "how-people-read-webpages.html#whats-the-first-thing-we-do-on-landing-on-a-web-page",
-    "title": "3  How people read webpages",
-    "section": "3.1 What’s the first thing we do on landing on a web page?",
-    "text": "3.1 What’s the first thing we do on landing on a web page?\nCheck we are where we want to be! If not, we move on.\nWhat does that imply about page design?"
+    "objectID": "how-people-access-webpages.html#sec-designing-for-accessibility",
+    "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
+    "title": "2  How people access the web",
+    "section": "2.3 Designing for accessibility",
+    "text": "2.3 Designing for accessibility\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:\n\nvision\nhearing\nmobility\nthinking or understanding\n\nThese guidelines follow four design principles:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming!\nGiven that in the library we are concerned with pages primarily consisting of text and links, the University of Washington Accessibility Checklist provides more concise guidance."
   },
   {
-    "objectID": "how-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
-    "href": "how-people-read-webpages.html#what-is-the-difference-between-the-web-and-other-formats",
+    "objectID": "how-people-read-webpages.html#people-scan-webpages",
+    "href": "how-people-read-webpages.html#people-scan-webpages",
     "title": "3  How people read webpages",
-    "section": "3.2 What is the difference between the web and other formats?",
-    "text": "3.2 What is the difference between the web and other formats?\n\nWe scan in an F-pattern.\nLong form (>1,000 words) we read in chunks, look for summaries, highlights or key-points."
+    "section": "3.1 People scan webpages",
+    "text": "3.1 People scan webpages\nNN/g report and\n\nWe scan in an F-pattern.\nLong form (&gt;1,000 words) we read in chunks, look for summaries, highlights or key-points."
+  },
+  {
+    "objectID": "how-people-read-webpages.html#how-to-structure-a-webpage",
+    "href": "how-people-read-webpages.html#how-to-structure-a-webpage",
+    "title": "3  How people read webpages",
+    "section": "3.2 How to structure a webpage",
+    "text": "3.2 How to structure a webpage"
   },
   {
     "objectID": "how-to-write-for-the-web.html",
     "href": "how-to-write-for-the-web.html",
     "title": "4  How to write for the web",
     "section": "",
-    "text": "NN/g UX Writing: Study Guide\n\n5 Writing better sentences\nBennett Rules (Bennett and Gorovitz 1997) :\n\nVerbs are better than nouns\nAdverbs are better than adjectives\nFavour the Anglo-Saxon\nBanish ‘very’ and its ilk\nAbstract nouns should be fought like the devil\nAvoid undue repetition\nBe careful with commas.\nAttend to the sound\n\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
+    "text": "Summary: Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.\nNN/g UX Writing: Study Guide\n\n5 How to write better sentences\nBennett Rules (Bennett and Gorovitz 1997) :\n\nVerbs are better than nouns\nAdverbs are better than adjectives\nFavour the Anglo-Saxon\nBanish ‘very’ and its ilk\nAbstract nouns should be fought like the devil\nAvoid undue repetition\nBe careful with commas.\nAttend to the sound\n\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
   },
   {
     "objectID": "how-to-use-imagery-and-visuals.html#why-would-we-use-visuals",

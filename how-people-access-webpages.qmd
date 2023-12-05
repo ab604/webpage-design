@@ -6,6 +6,8 @@
 
 @fig-uk-web-use shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.
 
+In November 2023 [GOV.UK reported](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/) that over 60% of their visits are from mobile devices.
+
 This matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.
 
 ```{r}
@@ -33,6 +35,29 @@ Consistency doesn't mean identical, it means the user has the same core experien
 What consistency means in practice is therefore determined by our overall design aims and adapting the guidance in @sec-how-do-people-read-webpages, @sec-how-to-write-for-the-web and @sec-using-imagery-and-visuals for our specific page.
 
 There is of course lots more detail on the [NN/g: Optimizing for Context in the Omnichannel User Experience](https://www.nngroup.com/articles/context-specific-cross-channel/) page, including discussions on when it's appropriate to optimise for device rather than consistency.
+
+## Designing for accessibility {#sec-designing-for-accessibility}
+
+The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:
+
+-   vision
+
+-   hearing
+
+-   mobility
+
+-   thinking or understanding
+
+These guidelines follow four design principles:
+
+1.  Perceivable
+2.  Operable
+3.  Understandable
+4.  Robust
+
+The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming!
+
+Given that in the library we are concerned with pages primarily consisting of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) provides more concise guidance.
 
 <!-- ## Optimisation and Enshittification -->
 
