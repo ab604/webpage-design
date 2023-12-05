@@ -36,7 +36,7 @@ My favourite resource for improving writing is a short paper by Jonathan Bennett
 
 I've extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.
 
-A key point is that comparison is often the best way to understand whether we can make a sentence easier to read and more concise.
+A key point is that comparison is often the best way to understand whether we can improve a sentence. 
 
 1.  Verbs are better than nouns. Compare:
 
@@ -77,6 +77,8 @@ A key point is that comparison is often the best way to understand whether we ca
 
 8.  Attend to the sound
 
-Ultimately this is about making you think. You may prefer the more verbose or 
-Latin rooted construction, but these 'rules' are to help you think about why a 
-sentence will work best for the user.
+Ultimately this is about making you think. 
+
+You may decide a more verbose or Latin rooted construction works best. But these 
+'rules' are to help you think about how to write sentences that the user will 
+find easy to read and understand.
