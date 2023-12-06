@@ -30,13 +30,13 @@ This implies:
 
 <!-- [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/) -->
 
-## How to write better sentences
+## How to write better sentences {#sec-how-to-write-better-sentences}
 
 My favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe 'Bennett Rules' for sentences [@bennett1997].
 
 I've extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.
 
-A key point is that comparison is often the best way to understand whether we can improve a sentence. 
+A key point is that comparison is often the best way to understand whether we can improve a sentence.
 
 1.  Verbs are better than nouns. Compare:
 
@@ -57,28 +57,27 @@ A key point is that comparison is often the best way to understand whether we ca
     > Can he...? (*can* has Anglo-Saxon roots)
 
 4.  Banish 'very' and its ilk. Compare:
-  
+
     > It's very unlikely.
     >
     > It's unlikely.
 
 5.  Abstract nouns should be fought like the devil. Compare:
 
-    > Our exploration of the formualations' implications for readability reveals 
-    > that each are unacceptable.
+    > Our exploration of the formulations' implications for readability reveals that each are unacceptable.
     >
-    > We explore what each formulation implies for readability and find 
-    > that none are acceptable.
-    >
-    
+    > We explore what each formulation implies for readability and find that none are acceptable.
+
 6.  Avoid undue repetition
 
 7.  Be careful with commas.
 
 8.  Attend to the sound
 
-Ultimately this is about making you think. 
+Ultimately this is about making you think.
 
-You may decide a more verbose or Latin rooted construction works best. But these 
-'rules' are to help you think about how to write sentences that the user will 
-find easy to read and understand.
+You may decide a more verbose or Latin rooted construction works best. But these 'rules' are to help you think about how to write sentences that the user will find easy to read and understand.
+
+## Make link text informative {#sec-make-link-text-informative}
+
+When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link.

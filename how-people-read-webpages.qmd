@@ -1,14 +1,20 @@
 # How people read webpages {#sec-how-do-people-read-webpages}
 
-[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information.
+[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, and format and compose the text, to make scanning easy.
 
 ------------------------------------------------------------------------
 
 ## People scan webpages
 
-NN/g report [@howpeop2021]
+NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021] in which they detail the results of their large scale eye tracking studies.
 
--   We scan in an F-pattern.
+-   This is how NN/g describe scanning versus reading [@pernice2021]:
+
+    > The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.
+
+-   The hypothesis they present for why we scan is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path): human behaviour seeks out the most efficient (lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading.
+
+-   We scan in a variety of gaze patterns depending on the type of page we are viewing.
 
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
 

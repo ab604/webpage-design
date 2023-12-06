@@ -6,14 +6,12 @@ bibliography: references.bib
 
 This short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for delivering information to library users.
 
-The aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow. The overarching questions under consideration are:
+The aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow.
+
+The overarching questions under consideration are:
 
 -   What do we know about how users engage with webpages?
 
 -   What do we know about human cognition that applies to webpage design?
 
--   And most importantly, what are we actually trying to achieve?
-
-Defining our aims can be challenging, but we can lean on Stuart Sutherland's definition of acting rationally [@sutherland2007] when trying to understand if we have answered the third question in the light of the the first two:
-
-If our design choices aid achieving our aims they are rational. Whereas if our design choices hinder or confound our aims, they are irrational.
+Our goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.
