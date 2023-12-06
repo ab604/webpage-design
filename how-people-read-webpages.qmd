@@ -6,7 +6,7 @@
 
 ## People scan webpages
 
-NN/g report and
+NN/g report [@howpeop2021]
 
 -   We scan in an F-pattern.
 
