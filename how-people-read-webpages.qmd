@@ -19,3 +19,15 @@ NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
 
 ## How to structure a webpage
+
+-   Inverted pyramid, with summary
+
+-   Informative headings
+
+-   Chunks, bullets and callouts
+
+-   Bolding and highlight
+
+-   Helpful visuals
+
+-   Boring is good
