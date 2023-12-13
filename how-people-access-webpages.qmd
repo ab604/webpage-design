@@ -19,7 +19,9 @@ This matters because when considering how to create effective webpages we need t
 #| fig-alt: A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.
 #| out.width: NULL
 
-knitr::include_graphics("img/uk-web-views-2011-2022.png", dpi = 300)
+#knitr::include_graphics("img/uk-web-views-2011-2022.png", dpi = 300)
+knitr::include_graphics("img/web-access-graph.gif")
+
 ```
 
 ## Design webpages to provide a consistent experience across channels {#sec-design-webpages-to-provide-a-consistent-experience-across-channels}

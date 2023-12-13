@@ -39,14 +39,14 @@
     "href": "how-people-read-webpages.html#people-scan-webpages",
     "title": "3  How people read webpages",
     "section": "3.1 People scan webpages",
-    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\n\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\n\nThe acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.\n\nThe hypothesis they present for why we scan is similar to that of desire lines: human behaviour seeks out the most efficient (lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading.\nWe scan in a variety of gaze patterns depending on the type of page we are viewing.\nLong form (>1,000 words) we read in chunks, look for summaries, highlights or key-points."
+    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\n\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\n\nThe acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.\n\nThe hypothesis they present for why we scan is similar to that of desire lines: human behaviour seeks out the most efficient (lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading.\nWe scan in a variety of gaze patterns depending on the type of page we are viewing.\nLong form (&gt;1,000 words) we read in chunks, look for summaries, highlights or key-points."
   },
   {
     "objectID": "how-people-read-webpages.html#how-to-structure-a-webpage",
     "href": "how-people-read-webpages.html#how-to-structure-a-webpage",
     "title": "3  How people read webpages",
     "section": "3.2 How to structure a webpage",
-    "text": "3.2 How to structure a webpage\n\n\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group."
+    "text": "3.2 How to structure a webpage\n\nInverted pyramid, with summary\nInformative headings\nChunks, bullets and callouts\nBolding and highlight\nHelpful visuals\nBoring is good\n\n\n\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group."
   },
   {
     "objectID": "how-to-write-for-the-web.html#sec-how-to-write-better-sentences",
