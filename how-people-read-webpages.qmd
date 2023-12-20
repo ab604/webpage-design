@@ -16,10 +16,19 @@ NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/
 
 -   We scan in a variety of gaze patterns depending on the type of page we are viewing.
 
+## Types of scanning patterns
+
+## How to structure a webpage for scanability
+
+### Use informative headings
+
+Headings are usually in
+
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
 
-## How to structure a webpage
-
+```{=html}
+<!-- -->
+```
 -   Inverted pyramid, with summary
 
 -   Informative headings

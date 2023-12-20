@@ -41,38 +41,38 @@ A key point is that comparison is often the best way to understand whether we ca
 1.  Verbs are better than nouns. Compare:
 
     > There is a difference between waving and drowning.
-    >
+
     > Waving differs from drowning.
 
 2.  Adverbs are better than adjectives. Compare:
 
     > She is a clear writer.
-    >
+
     > She writes clearly.
 
 3.  Favour the Anglo-Saxon. Compare:
 
     > Is it possible for him to...? (*possible* has Latin roots)
-    >
+
     > Can he...? (*can* has Anglo-Saxon roots)
 
 4.  Banish 'very' and its ilk. Compare:
 
     > It's very unlikely.
-    >
+
     > It's unlikely.
 
 5.  Abstract nouns should be fought like the devil. Compare:
 
     > Our exploration of the formulations' implications for readability reveals that each are unacceptable.
-    >
+
     > We explore what each formulation implies for readability and find that none are acceptable.
 
-6.  Avoid undue repetition
+6.  Avoid undue repetition.
 
 7.  Be careful with commas.
 
-8.  Attend to the sound
+8.  Attend to the sound. Test your writing by reading it aloud.
 
 Ultimately this is about making you think.
 
