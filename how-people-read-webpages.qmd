@@ -14,11 +14,21 @@ NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/
 
 -   The hypothesis they present for why we scan is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path): human behaviour seeks out the most efficient (lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading.
 
--   We scan in a variety of gaze patterns depending on the type of page we are viewing.
-
-## Types of scanning patterns
+-   We scan in a variety of [gaze patterns](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/) and therefore we should design and structure our pages for ease of scanning.
 
 ## How to structure a webpage for scanability
+
+University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes reading.
+
+<https://www.nngroup.com/articles/best-font-for-online-reading/>
+
+<https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/>
+
+<https://www.nngroup.com/articles/formatting-long-form-content/>
+
+### Which content 
+
+Both NN/g and the GDS
 
 ### Use informative headings
 
@@ -26,9 +36,8 @@ Headings are usually in
 
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
 
-```{=html}
 <!-- -->
-```
+
 -   Inverted pyramid, with summary
 
 -   Informative headings
