@@ -1,10 +1,10 @@
 # How people read webpages {#sec-how-do-people-read-webpages}
 
-[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, and format and compose the text, to make scanning easy.
+[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, formatting and composing the text, to make scanning easy.
 
 ------------------------------------------------------------------------
 
-## People scan webpages
+## People scan webpages {#sec-people-scan-webpages}
 
 NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021] in which they detail the results of their large scale eye tracking studies.
 
@@ -16,9 +16,31 @@ NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/
 
 -   We scan in a variety of [gaze patterns](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/) and therefore we should design and structure our pages for ease of scanning.
 
-## How to structure a webpage for scanability
+University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text. Users are unlikely to do this, so we need to facilitate their identification of the parts relevant to them before they give up.
 
-University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes reading.
+## The unconsidered webpage is not worth creating {#sec-the-unconsidered-webpage-is-not-worth-creating}
+
+In @sec-how-to-write-for-the-web I outline some practical ways to improve writing, but before creating a webpage it's worth spending time considering:
+
+-   the purpose of the page
+
+-   what the user will be looking for
+
+-   how and at what level of detail to present the content to them
+
+Careful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long winded page that no-one reads.
+
+## How to structure a webpage for ease of scanning {#sec-how-to-structure-a-webpage-for-ease-of-scanning}
+
+### The most important information comes first {#sec-the-most-important-information-comes-first}
+
+It might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.
+
+The UK Government Digital Service [redesigned their website](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/) to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.
+
+Hence the summaries at the start of each chapter page.
+
+This approach is also reflected in the [inverted pyramid](https://www.nngroup.com/articles/inverted-pyramid/) strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.
 
 <https://www.nngroup.com/articles/best-font-for-online-reading/>
 
@@ -26,15 +48,13 @@ University of Southampton Library webpages are predominantly text and links. A q
 
 <https://www.nngroup.com/articles/formatting-long-form-content/>
 
-### Which content 
-
-Both NN/g and the GDS
-
 ### Use informative headings
 
 Headings are usually in
 
 -   Long form (\>1,000 words) we read in chunks, look for summaries, highlights or key-points.
+
+Informative headings also help with accessibility.
 
 <!-- -->
 
