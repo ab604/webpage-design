@@ -4,104 +4,179 @@
     "href": "index.html",
     "title": "Webpage Design",
     "section": "",
-    "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for delivering information to library users.\nThe aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow.\nThe overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\n\nOur goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves."
+    "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for delivering information to library users.\nThe aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow.\nThe overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\n\nOur goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "what-to-read-instead.html",
+    "href": "what-to-read-instead.html",
+    "title": "1  What to read instead",
+    "section": "",
+    "text": "1.1 What’s not covered\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’re considering in scope here, but one would expect this to improve our webpages if we could include this too.\nIf data driven design is of interest to you this November 2023 blog post from the GDS details how they used data from their existing pages to guide the update of GOV.UK webpages.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
+    ]
   },
   {
     "objectID": "what-to-read-instead.html#whats-not-covered",
     "href": "what-to-read-instead.html#whats-not-covered",
     "title": "1  What to read instead",
-    "section": "1.1 What’s not covered",
-    "text": "1.1 What’s not covered\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’re considering in scope here, but one would expect this to improve our webpages if we could include this too.\nIf data driven design is of interest to you this November 2023 blog post from the GDS details how they used data from their existing pages to guide the update of GOV.UK webpages.\n\n\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
+    "section": "",
+    "text": "Pernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
+    ]
   },
   {
-    "objectID": "how-people-access-webpages.html#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
-    "href": "how-people-access-webpages.html#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk",
+    "objectID": "how-people-access-webpages.html",
+    "href": "how-people-access-webpages.html",
     "title": "2  How people access the web",
-    "section": "2.1 Mobile devices now account for 50% of webpage views in the UK",
-    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nIn November 2023 GOV.UK reported that over 60% of their visits are from mobile devices.\nThis matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.\n\n\n\n\n\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
+    "section": "",
+    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nIn November 2023 GOV.UK reported that over 60% of their visits are from mobile devices.\nThis matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
+    ]
   },
   {
     "objectID": "how-people-access-webpages.html#sec-design-webpages-to-provide-a-consistent-experience-across-channels",
     "href": "how-people-access-webpages.html#sec-design-webpages-to-provide-a-consistent-experience-across-channels",
     "title": "2  How people access the web",
     "section": "2.2 Design webpages to provide a consistent experience across channels",
-    "text": "2.2 Design webpages to provide a consistent experience across channels\nBroadly speaking, these are the differences between desktop and mobile web experiences:\n\nDesktops/Laptops are best for complex activities (using keyboard and mouse, multiple tabs etc.) and detail rich content (larger screens).\nMobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.\n\nGiven our expectation that users are likely to be using either channel when viewing our pages (Figure 2.1), this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.\nConsistency doesn’t mean identical, it means the user has the same core experience regardless of channel (and/or page).\nWhat consistency means in practice is therefore determined by our overall design aims and adapting the guidance in Chapter 3, Chapter 4 and Chapter 5 for our specific page.\nThere is of course lots more detail on the NN/g: Optimizing for Context in the Omnichannel User Experience page, including discussions on when it’s appropriate to optimise for device rather than consistency."
+    "text": "2.2 Design webpages to provide a consistent experience across channels\nBroadly speaking, these are the differences between desktop and mobile web experiences:\n\nDesktops/Laptops are best for complex activities (using keyboard and mouse, multiple tabs etc.) and detail rich content (larger screens).\nMobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.\n\nGiven our expectation that users are likely to be using either channel when viewing our pages (Figure 2.1), this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.\nConsistency doesn’t mean identical, it means the user has the same core experience regardless of channel (and/or page).\nWhat consistency means in practice is therefore determined by our overall design aims and adapting the guidance in Chapter 3, Chapter 4 and Chapter 5 for our specific page.\nThere is of course lots more detail on the NN/g: Optimizing for Context in the Omnichannel User Experience page, including discussions on when it’s appropriate to optimise for device rather than consistency.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
+    ]
   },
   {
     "objectID": "how-people-access-webpages.html#sec-designing-for-accessibility",
     "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
     "title": "2  How people access the web",
     "section": "2.3 Designing for accessibility",
-    "text": "2.3 Designing for accessibility\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:\n\nvision\nhearing\nmobility\nthinking or understanding\n\nThese guidelines follow four design principles:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming!\nGiven that in the library we are concerned with pages primarily consisting of text and links, the University of Washington Accessibility Checklist provides more concise guidance."
+    "text": "2.3 Designing for accessibility\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:\n\nvision\nhearing\nmobility\nthinking or understanding\n\nThese guidelines follow four design principles:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming!\nGiven that in the library we are concerned with pages primarily consisting of text and links, the University of Washington Accessibility Checklist provides more concise guidance.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
+    ]
+  },
+  {
+    "objectID": "how-people-read-webpages.html",
+    "href": "how-people-read-webpages.html",
+    "title": "3  How people read webpages",
+    "section": "",
+    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\nThe hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.\nThe behaviour is similar to that of desire lines, humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.\nNN/g observe we scan in a variety of gaze patterns and therefore we should design and structure our pages for ease of scanning.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
+    ]
   },
   {
     "objectID": "how-people-read-webpages.html#sec-people-scan-webpages",
     "href": "how-people-read-webpages.html#sec-people-scan-webpages",
     "title": "3  How people read webpages",
-    "section": "3.1 People scan webpages",
-    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\n\nThe acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.\n\nThe hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.\nThe behaviour is similar to that of desire lines, humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.\nNN/g observe we scan in a variety of gaze patterns and therefore we should design and structure our pages for ease of scanning."
+    "section": "",
+    "text": "The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
+    ]
   },
   {
     "objectID": "how-people-read-webpages.html#sec-working-memory",
     "href": "how-people-read-webpages.html#sec-working-memory",
     "title": "3  How people read webpages",
     "section": "3.2 Working memory",
-    "text": "3.2 Working memory\nOur working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two items of information Miller (1994). More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information Ma, Husain, and Bays (2014).\nWhat is clear is that capacity is limited and that this relates to cognitive load in terms of the quantity and/or difficulty of the information we can retain in the short-term i.e. seconds to minutes.\nUniversity of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.\nAs users are unlikely to read entire pages, let alone retain the contents, we need to facilitate their parsing of the constitute parts to identify the information relevant to their visit.\nPage structure, well-written content (Chapter 4) and consistency between pages can all reduce the effort required to sort and extract information."
+    "text": "3.2 Working memory\nOur working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two items of information (Miller 1994). More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information (Ma, Husain, and Bays 2014).\nWhat is clear is that capacity is limited and that this relates to cognitive load in terms of the quantity and/or difficulty of the information we can retain in the short-term i.e. seconds to minutes.\nUniversity of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.\nAs users are unlikely to read entire pages, let alone retain the contents, we need to facilitate their parsing of the constitute parts to identify the information relevant to their visit.\nPage structure, well-written content (Chapter 4) and consistency between pages can all reduce the effort required to sort and extract information.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
+    ]
   },
   {
     "objectID": "how-people-read-webpages.html#sec-the-unconsidered-webpage-is-not-worth-creating",
     "href": "how-people-read-webpages.html#sec-the-unconsidered-webpage-is-not-worth-creating",
     "title": "3  How people read webpages",
     "section": "3.3 The unconsidered webpage is not worth creating",
-    "text": "3.3 The unconsidered webpage is not worth creating\nIn Chapter 4 I outline some practical ways to improve writing, but before creating a webpage it’s worth spending time considering:\n\nthe purpose of the page\nwhat the user will be looking for\nhow and at what level of detail to present the content to them\n\nCareful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long winded page that no-one reads. For the reasons outlined in Section 3.2."
+    "text": "3.3 The unconsidered webpage is not worth creating\nIn Chapter 4 I outline some practical ways to improve writing, but before creating a webpage it’s worth spending time considering:\n\nthe purpose of the page\nwhat the user will be looking for\nhow and at what level of detail to present the content to them\n\nCareful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long winded page that no-one reads. For the reasons outlined in Section 3.2.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
+    ]
   },
   {
     "objectID": "how-people-read-webpages.html#sec-how-to-structure-a-webpage-for-ease-of-scanning",
     "href": "how-people-read-webpages.html#sec-how-to-structure-a-webpage-for-ease-of-scanning",
     "title": "3  How people read webpages",
     "section": "3.4 How to structure a webpage for ease of scanning",
-    "text": "3.4 How to structure a webpage for ease of scanning\n\n3.4.1 The most important information comes first\nIt might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.\nThe UK Government Digital Service redesigned their website to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.\nHence the summaries at the start of each chapter page.\nThis approach is also reflected in the inverted pyramid strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.\nhttps://www.nngroup.com/articles/formatting-long-form-content/\n\n\n3.4.2 Use informative headings\nHeadings are usually in\nInformative headings also help with accessibility.\n\n\n3.4.3 Chunks, bullets, summaries and callouts\n\n\n3.4.4 Bolding and highlight\n\n\n3.4.5 Helpful visuals\nGood visuals\n\n\n3.4.6 Fonts matter\nBut not as much as you might think.\nhttps://www.nngroup.com/articles/best-font-for-online-reading/\n\n\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing Concepts of Working Memory.” Nature Neuroscience 17 (3): 347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.” Psychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group."
+    "text": "3.4 How to structure a webpage for ease of scanning\n\n3.4.1 The most important information comes first\nIt might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.\nThe UK Government Digital Service redesigned their website to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.\nHence the Summary at the start of this chapter page.\nThis approach is also reflected in the inverted pyramid strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.\nhttps://www.nngroup.com/articles/formatting-long-form-content/\n\n\n3.4.2 Use informative headings\nHeadings are usually in\nInformative headings also help with accessibility.\n\n\n3.4.3 Chunks, bullets, summaries and callouts\n\n\n3.4.4 Bolding and highlight\n\n\n3.4.5 Helpful visuals\nGood visuals\n\n\n3.4.6 Fonts matter\nBut not as much as you might think.\nhttps://www.nngroup.com/articles/best-font-for-online-reading/\n\n\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing Concepts of Working Memory.” Nature Neuroscience 17 (3): 347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.” Psychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
+    ]
+  },
+  {
+    "objectID": "how-to-write-for-the-web.html",
+    "href": "how-to-write-for-the-web.html",
+    "title": "4  How to write for the web",
+    "section": "",
+    "text": "4.1 How to write better sentences\nMy favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe ‘Bennett Rules’ for sentences (Bennett and Gorovitz 1997).\nI’ve extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.\nA key point is that comparison is often the best way to understand whether we can improve a sentence.\nAs discussed in Section 3.3 , the purpose of these rules is provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
+    ]
   },
   {
     "objectID": "how-to-write-for-the-web.html#sec-how-to-write-better-sentences",
     "href": "how-to-write-for-the-web.html#sec-how-to-write-better-sentences",
     "title": "4  How to write for the web",
-    "section": "4.1 How to write better sentences",
-    "text": "4.1 How to write better sentences\nMy favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe ‘Bennett Rules’ for sentences (Bennett and Gorovitz 1997).\nI’ve extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.\nA key point is that comparison is often the best way to understand whether we can improve a sentence.\n\nVerbs are better than nouns. Compare:\n\nThere is a difference between waving and drowning.\n\n\nWaving differs from drowning.\n\nAdverbs are better than adjectives. Compare:\n\nShe is a clear writer.\n\n\nShe writes clearly.\n\nFavour the Anglo-Saxon. Compare:\n\nIs it possible for him to…? (possible has Latin roots)\n\n\nCan he…? (can has Anglo-Saxon roots)\n\nBanish ‘very’ and its ilk. Compare:\n\nIt’s very unlikely.\n\n\nIt’s unlikely.\n\nAbstract nouns should be fought like the devil. Compare:\n\nOur exploration of the formulations’ implications for readability reveals that each are unacceptable.\n\n\nWe explore what each formulation implies for readability and find that none are acceptable.\n\nAvoid undue repetition.\nBe careful with commas. I’d extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.\nAttend to the sound. Test your writing by reading it aloud.\n\nAs discussed in Section 3.3 , the purpose of these rules is provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand."
+    "section": "",
+    "text": "Verbs are better than nouns. Compare:\n\nThere is a difference between waving and drowning.\n\n\nWaving differs from drowning.\n\nAdverbs are better than adjectives. Compare:\n\nShe is a clear writer.\n\n\nShe writes clearly.\n\nFavour the Anglo-Saxon. Compare:\n\nIs it possible for him to…? (possible has Latin roots)\n\n\nCan he…? (can has Anglo-Saxon roots)\n\nBanish ‘very’ and its ilk. Compare:\n\nIt’s very unlikely.\n\n\nIt’s unlikely.\n\nAbstract nouns should be fought like the devil. Compare:\n\nOur exploration of the formulations’ implications for readability reveals that each are unacceptable.\n\n\nWe explore what each formulation implies for readability and find that none are acceptable.\n\nAvoid undue repetition.\nBe careful with commas. I’d extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.\nAttend to the sound. Test your writing by reading it aloud.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
+    ]
   },
   {
     "objectID": "how-to-write-for-the-web.html#sec-make-link-text-informative",
     "href": "how-to-write-for-the-web.html#sec-make-link-text-informative",
     "title": "4  How to write for the web",
     "section": "4.2 Make link text informative",
-    "text": "4.2 Make link text informative\nWhen linking, rather than “here”, “more” or “go”, use descriptive text or the page title as the link."
+    "text": "4.2 Make link text informative\nWhen linking, rather than “here”, “more” or “go”, use descriptive text or the page title as the link.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
+    ]
   },
   {
     "objectID": "how-to-write-for-the-web.html#sec-editing-your-own-words",
     "href": "how-to-write-for-the-web.html#sec-editing-your-own-words",
     "title": "4  How to write for the web",
     "section": "4.3 Editing your own words",
-    "text": "4.3 Editing your own words\nIdeally you’d have an editor available to review and copyedit your words, but this isn’t always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: 10 editing hacks - Part 1 and 10 editing hacks - Part 2.\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf."
+    "text": "4.3 Editing your own words\nIdeally you’d have an editor available to review and copyedit your words, but this isn’t always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: 10 editing hacks - Part 1 and 10 editing hacks - Part 2.\n\n\n\n\nBennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic Writing.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
+    ]
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
-    "href": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
+    "objectID": "how-to-use-imagery-and-visuals.html",
+    "href": "how-to-use-imagery-and-visuals.html",
     "title": "5  Using imagery and visuals",
-    "section": "5.1 Misconceptions about users and images",
-    "text": "5.1 Misconceptions about users and images"
+    "section": "",
+    "text": "5.1 Misconceptions about users and images",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
+    ]
   },
   {
     "objectID": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
     "href": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
     "title": "5  Using imagery and visuals",
     "section": "5.2 How to use images",
-    "text": "5.2 How to use images\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience.\nThey make scanning more difficult, especially on mobile devices.\n\nhttps://www.nngroup.com/articles/imagery-in-visual-design/"
+    "text": "5.2 How to use images\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience.\nThey make scanning more difficult, especially on mobile devices.\n\nhttps://www.nngroup.com/articles/imagery-in-visual-design/",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
+    ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Bennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic\nWriting.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf.\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing\nConcepts of Working Memory.” Nature Neuroscience 17 (3):\n347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus\nTwo: Some Limits on Our Capacity for Processing Information.”\nPsychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How\nPeople Read Online : The Eyetracking Evidence. 2nd edition.\nFremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content\nThat Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534."
+    "text": "Bennett, Jonathan, and Samuel Gorovitz. 1997. “Improving Academic\nWriting.” Teaching Philosophy 20 (2): 105–20. https://www.earlymoderntexts.com/assets/jfb/bengor.pdf.\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing\nConcepts of Working Memory.” Nature Neuroscience 17 (3):\n347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus\nTwo: Some Limits on Our Capacity for Processing Information.”\nPsychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How\nPeople Read Online : The Eyetracking Evidence. 2nd edition.\nFremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content\nThat Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]

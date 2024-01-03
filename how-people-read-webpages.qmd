@@ -1,8 +1,8 @@
 # How people read webpages {#sec-how-do-people-read-webpages}
 
-[Summary:]{.highlight} People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, formatting and composing the text, to make scanning easy.
-
-------------------------------------------------------------------------
+::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, formatting and composing the text, to make scanning easy.
+:::
 
 ## People scan webpages {#sec-people-scan-webpages}
 
@@ -20,7 +20,7 @@ NN/g observe we scan in a variety of [gaze patterns](https://www.nngroup.com/art
 
 ## Working memory {#sec-working-memory}
 
-Our working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two items of information @miller1994. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information @ma2014.
+Our working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two items of information [@miller1994]. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information [@ma2014].
 
 What is clear is that capacity is limited and that this relates to cognitive load in terms of the quantity and/or difficulty of the information we can retain in the short-term i.e. seconds to minutes.
 
@@ -50,7 +50,7 @@ It might seem obvious, but putting the most popular or important information the
 
 The UK Government Digital Service [redesigned their website](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/) to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.
 
-Hence the summaries at the start of each chapter page.
+Hence the Summary at the start of this chapter page.
 
 This approach is also reflected in the [inverted pyramid](https://www.nngroup.com/articles/inverted-pyramid/) strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.
 

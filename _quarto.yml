@@ -1,6 +1,12 @@
 project:
   type: book
   output-dir: docs
+  
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Summary
+      key: summ
 
 book:
   title: "Webpage Design"
@@ -22,7 +28,8 @@ book:
     - how-to-write-for-the-web.qmd
     - how-to-use-imagery-and-visuals.qmd
     - references.qmd
-  
+
+
 bibliography: references.bib
 
 format:
@@ -35,6 +42,9 @@ format:
   
   #pdf:
     #documentclass: scrreprt
+    
+
+
 
 editor: visual
 
