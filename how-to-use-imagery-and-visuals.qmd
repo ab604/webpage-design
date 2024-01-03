@@ -1,8 +1,8 @@
 # Using imagery and visuals {#sec-using-imagery-and-visuals}
 
-[Summary:]{.highlight} Users find images that are not informative annoying. They slow down page loading and increase scrolling and scanning time, especially on mobile devices.
-
-------------------------------------------------------------------------
+::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+Users find images that are not informative annoying. They slow down page loading and increase scrolling and scanning time, especially on mobile devices.
+:::
 
 ## Misconceptions about users and images {#sec-misconceptions-about-users-and-images}
 

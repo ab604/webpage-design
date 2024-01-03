@@ -4,9 +4,9 @@ bibliography: references.bib
 
 # How to write for the web {#sec-how-to-write-for-the-web}
 
-[Summary:]{.highlight} Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.
-
-------------------------------------------------------------------------
+::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.
+:::
 
 @sec-how-do-people-read-webpages covered how we should format and structure a webpage in the light of understanding that users scan pages rather than read them. Here we discuss the writing itself.
 
