@@ -8,15 +8,15 @@
 
 NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021] in which they detail the results of their large scale eye tracking studies.
 
--   This is how NN/g describe scanning versus reading [@pernice2021]:
+This is how NN/g describe scanning versus reading [@pernice2021]:
 
-    > The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.
+> The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.
 
--   The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.
+The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.
 
-    The behaviour is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path), humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.
+The behaviour is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path), humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.
 
--   NN/g observe we scan in a variety of [gaze patterns](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/) and therefore we should design and structure our pages for ease of scanning.
+NN/g observe we scan in a variety of [gaze patterns](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/) and therefore we should design and structure our pages for ease of scanning.
 
 ## Working memory {#sec-working-memory}
 
@@ -26,9 +26,9 @@ What is clear is that capacity is limited and that this relates to cognitive loa
 
 University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.
 
-Users are unlikely to read entire pages, let alone retain the contents, so we need to facilitate their parsing of the constitute parts so they can identify the information relevant to their visit.
+As users are unlikely to read entire pages, let alone retain the contents, we need to facilitate their parsing of the constitute parts to identify the information relevant to their visit.
 
-This can by done by minimising cognitive load through page structure, well-written content (@sec-how-to-write-for-the-web) and consistency between pages.
+Page structure, well-written content (@sec-how-to-write-for-the-web) and consistency between pages can all reduce the effort required to sort and extract information.
 
 ## The unconsidered webpage is not worth creating {#sec-the-unconsidered-webpage-is-not-worth-creating}
 
