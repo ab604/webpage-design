@@ -10,7 +10,7 @@ bibliography: references.bib
 
 @sec-how-do-people-read-webpages covered how we should format and structure a webpage in the light of understanding that users scan pages rather than read them. Here we discuss the writing itself.
 
-As usual the question is, *"given what we know, what makes sense?"*
+The question we seek to answer is, *"given what we know, what makes sense?"*
 
 We know:
 
@@ -28,7 +28,7 @@ This implies:
 
 -   Be concise
 
-<!-- [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/) -->
+NN/g have a page collating articles and videos specifically related to writing for the web based on their research: [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
 
 ## How to write better sentences {#sec-how-to-write-better-sentences}
 
@@ -70,14 +70,16 @@ A key point is that comparison is often the best way to understand whether we ca
 
 6.  Avoid undue repetition.
 
-7.  Be careful with commas.
+7.  Be careful with commas. *I'd extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.*
 
 8.  Attend to the sound. Test your writing by reading it aloud.
 
-Ultimately this is about making you think.
-
-You may decide a more verbose or Latin rooted construction works best. But these 'rules' are to help you think about how to write sentences that the user will find easy to read and understand.
+As discussed in @sec-the-unconsidered-webpage-is-not-worth-creating , the purpose of these rules is provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand.
 
 ## Make link text informative {#sec-make-link-text-informative}
 
 When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link.
+
+## Editing your own words {#sec-editing-your-own-words}
+
+Ideally you'd have an editor available to review and copyedit your words, but this isn't always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).

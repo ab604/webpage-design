@@ -16,6 +16,12 @@ NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/
 
 -   We scan in a variety of [gaze patterns](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/) and therefore we should design and structure our pages for ease of scanning.
 
+## Working memory
+
+Our working memory is how we store information in the short term. George Miller famously proposed in 1956 that we can hold seven plus or minus two items of information in mind @miller1994. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information @ma2014. What is clear is that capacity is limited and this is related to cognitive load.
+
+So what to do to minimize CL?
+
 University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text. Users are unlikely to do this, so we need to facilitate their identification of the parts relevant to them before they give up.
 
 ## The unconsidered webpage is not worth creating {#sec-the-unconsidered-webpage-is-not-worth-creating}
