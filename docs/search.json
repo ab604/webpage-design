@@ -64,7 +64,7 @@
     "href": "how-people-read-webpages.html",
     "title": "3  How people read webpages",
     "section": "",
-    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\nThe hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.\nThe behaviour is similar to that of desire lines, humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.\nNN/g observe we scan in a variety of gaze patterns and therefore we should design and structure our pages for ease of scanning.",
+    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web (Pernice, Whitenton, and Nielsen 2021) in which they detail the results of their large scale eye tracking studies.\nThis is how NN/g describe scanning versus reading (Pernice, Whitenton, and Nielsen 2021):\nThe hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise. NN/g estimate users will only read around 20% of the text on the average webpage.\nThe behaviour is similar to that of desire lines, humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.\nNN/g observe we scan in a variety of gaze patterns and therefore we should design and structure our pages for ease of scanning.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
     ]
@@ -104,7 +104,7 @@
     "href": "how-people-read-webpages.html#sec-how-to-structure-a-webpage-for-ease-of-scanning",
     "title": "3  How people read webpages",
     "section": "3.4 How to structure a webpage for ease of scanning",
-    "text": "3.4 How to structure a webpage for ease of scanning\n\n3.4.1 The most important information comes first\nIt might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.\nThe UK Government Digital Service redesigned their website to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.\nHence the Summary at the start of this chapter page.\nThis approach is also reflected in the inverted pyramid strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.\nhttps://www.nngroup.com/articles/formatting-long-form-content/\n\n\n3.4.2 Use informative headings\nHeadings are usually in\nInformative headings also help with accessibility.\n\n\n3.4.3 Chunks, bullets, summaries and callouts\n\n\n3.4.4 Bolding and highlight\n\n\n3.4.5 Helpful visuals\nGood visuals\n\n\n3.4.6 Fonts matter\nBut not as much as you might think.\nhttps://www.nngroup.com/articles/best-font-for-online-reading/\n\n\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing Concepts of Working Memory.” Nature Neuroscience 17 (3): 347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.” Psychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.",
+    "text": "3.4 How to structure a webpage for ease of scanning\n\n3.4.1 The most important information comes first\nIt might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.\nThe UK Government Digital Service redesigned their website to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.\nHence the Summary at the start of this chapter page.\nThis approach is also reflected in the inverted pyramid strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.\nhttps://www.nngroup.com/articles/formatting-long-form-content/\n\n\n3.4.2 Use informative headings\nHeadings are usually in\nInformative headings also help with accessibility.\n\n\n3.4.3 Chunks, bullets, summaries and callouts\n\n\n3.4.4 Bolding and highlight\n\n\n3.4.5 Helpful visuals\nA helpful visual is one that imparts information in\n\n\n3.4.6 Fonts matter\nBut not as much as you might think.\nhttps://www.nngroup.com/articles/best-font-for-online-reading/\n\n\n\n\nMa, Wei Ji, Masud Husain, and Paul M. Bays. 2014. “Changing Concepts of Working Memory.” Nature Neuroscience 17 (3): 347–56. https://doi.org/10.1038/nn.3655.\n\n\nMiller, George A. 1994. “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information.” Psychological Review 101 (2): 343–52. https://doi.org/10.1037/0033-295X.101.2.343.\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
     ]
@@ -154,17 +154,37 @@
     "href": "how-to-use-imagery-and-visuals.html",
     "title": "5  Using imagery and visuals",
     "section": "",
-    "text": "5.1 Misconceptions about users and images",
+    "text": "5.1 When to use images\nUsers are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support the users aims either by informing or orientating the user.\nBe wary of using images that don’t do either or these things. Never rely on imagery alone to provide information. This will exclude users who cannot see or access the image.\nImages can make scanning more difficult and increase scrolling time, especially on mobile devices.\nTherefore use images sparingly, and remember users are just as likely to be accessing from a mobile device than a desktop or laptop computer (Section 2.1).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
-    "href": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
+    "objectID": "how-to-use-imagery-and-visuals.html#types-of-images",
+    "href": "how-to-use-imagery-and-visuals.html#types-of-images",
     "title": "5  Using imagery and visuals",
-    "section": "5.2 How to use images",
-    "text": "5.2 How to use images\n\nTo impart information that cannot be easily expressed in words e.g. trends.\nTo create ambience.\nThey make scanning more difficult, especially on mobile devices.\n\nhttps://www.nngroup.com/articles/imagery-in-visual-design/",
+    "section": "5.2 Types of images",
+    "text": "5.2 Types of images\n\n5.2.1 Informative images\n\nPhotographs:\nIllustrations:\nIcons and logos:\nInfographics and data visualisations:\n\n\n\n5.2.2 Decorative images\nDecorative images are those which don’t inform or orientate. They are used to create ambiance and should not have alt text for screen readers.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
+    ]
+  },
+  {
+    "objectID": "how-to-use-imagery-and-visuals.html#making-imagery-accessible",
+    "href": "how-to-use-imagery-and-visuals.html#making-imagery-accessible",
+    "title": "5  Using imagery and visuals",
+    "section": "5.3 Making imagery accessible",
+    "text": "5.3 Making imagery accessible",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
+    ]
+  },
+  {
+    "objectID": "how-to-use-imagery-and-visuals.html#further-reading",
+    "href": "how-to-use-imagery-and-visuals.html#further-reading",
+    "title": "5  Using imagery and visuals",
+    "section": "5.4 Further reading",
+    "text": "5.4 Further reading\nhttps://www.nngroup.com/articles/imagery-in-visual-design/\nhttps://design-system.service.gov.uk/styles/images/\nhttps://www.gov.uk/guidance/content-design/images",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]

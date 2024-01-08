@@ -15,11 +15,9 @@ This matters because when considering how to create effective webpages we need t
 ```{r}
 #| label: fig-uk-web-use 
 #| echo: false 
-#| fig-cap: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices. 
-#| fig-alt: A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.
+#| fig-cap: "The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices."
+#| fig-alt: "A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022."
 #| out.width: NULL
-
-#knitr::include_graphics("img/uk-web-views-2011-2022.png", dpi = 300)
 knitr::include_graphics("img/web-access-graph.gif")
 
 ```

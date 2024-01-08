@@ -12,7 +12,7 @@ This is how NN/g describe scanning versus reading [@pernice2021]:
 
 > The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.
 
-The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise.
+The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise. NN/g estimate [users will only read around 20% of the text](https://www.nngroup.com/articles/how-little-do-users-read/) on the average webpage.
 
 The behaviour is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path), humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.
 
@@ -68,7 +68,7 @@ Informative headings also help with accessibility.
 
 ### Helpful visuals
 
-Good visuals
+A helpful visual is one that imparts information in
 
 ### Fonts matter
 

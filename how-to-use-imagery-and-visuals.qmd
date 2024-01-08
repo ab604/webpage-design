@@ -1,17 +1,41 @@
 # Using imagery and visuals {#sec-using-imagery-and-visuals}
 
 ::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
-Users find images that are not informative annoying. They slow down page loading and increase scrolling and scanning time, especially on mobile devices.
+Use images sparingly. Imagery can be useful for creating ambiance or help impart information, but they should not be used to provide information alone. Images slow down page loading and increase scrolling and scanning time, especially on mobile devices.
 :::
 
-## Misconceptions about users and images {#sec-misconceptions-about-users-and-images}
+## When to use images {#sec-misconceptions-about-users-and-images}
 
-## How to use images {#sec-how-to-use-images}
+Users are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support the users aims either by informing or orientating the user.
 
--   To impart information that cannot be easily expressed in words e.g. trends.
+Be wary of using images that don't do either or these things. Never rely on imagery alone to provide information. This will exclude users who cannot see or access the image.
 
--   To create ambience.
+Images can make scanning more difficult and increase scrolling time, especially on mobile devices.
 
--   They make scanning more difficult, especially on mobile devices.
+Therefore use images sparingly, and remember users are just as likely to be accessing from a mobile device than a desktop or laptop computer (@sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk).
+
+## Types of images
+
+### Informative images
+
+-   Photographs:
+
+-   Illustrations:
+
+-   Icons and logos:
+
+-   Infographics and data visualisations:
+
+### Decorative images
+
+Decorative images are those which don't inform or orientate. They are used to create ambiance and should not have alt text for screen readers.
+
+## Making imagery accessible
+
+## Further reading
 
 <https://www.nngroup.com/articles/imagery-in-visual-design/>
+
+<https://design-system.service.gov.uk/styles/images/>
+
+<https://www.gov.uk/guidance/content-design/images>
