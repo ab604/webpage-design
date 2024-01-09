@@ -28,7 +28,7 @@ Therefore use images sparingly, and remember users are just as likely to be acce
 
 ### Decorative images
 
-Decorative images are those which don't inform or orientate. They are used to create ambiance and should not have alt text for screen readers.
+Decorative images are those which don't inform, but may help orientate the user. They are used to create ambiance and should not have alt text for screen readers.
 
 ## Making imagery accessible
 

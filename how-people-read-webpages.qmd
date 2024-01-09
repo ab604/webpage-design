@@ -20,15 +20,15 @@ NN/g observe we scan in a variety of [gaze patterns](https://www.nngroup.com/art
 
 ## Working memory {#sec-working-memory}
 
-Our working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two items of information [@miller1994]. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information [@ma2014].
+Our working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two units of information [@miller1994]. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information [@ma2014].
 
 What is clear is that capacity is limited and that this relates to cognitive load in terms of the quantity and/or difficulty of the information we can retain in the short-term i.e. seconds to minutes.
 
-University of Southampton Library webpages are predominantly text and links. A quick browse suggested that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.
+University of Southampton Library webpages are predominantly text and links. A quick browse suggests that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.
 
-As users are unlikely to read entire pages, let alone retain the contents, we need to facilitate their parsing of the constitute parts to identify the information relevant to their visit.
+Users are unlikely to read entire pages, let alone retain the contents. They wish to quickly identify the 20% relevant to their visit and move on.
 
-Page structure, well-written content (@sec-how-to-write-for-the-web) and consistency between pages can all reduce the effort required to sort and extract information.
+Page structure, well-written content (@sec-how-to-write-for-the-web) and consistency between pages can all reduce the effort required to sort, extract and retain information.
 
 ## The unconsidered webpage is not worth creating {#sec-the-unconsidered-webpage-is-not-worth-creating}
 
@@ -56,27 +56,34 @@ This approach is also reflected in the [inverted pyramid](https://www.nngroup.co
 
 <https://www.nngroup.com/articles/formatting-long-form-content/>
 
-### Use informative headings
+### Use informative headings {#sec-use-informative-headings}
 
-Headings are usually in
+Because users scan for information, headings act as markers to help users navigate. This is also true for those using screen readers. Therefore it's worth spending time thinking about how to make each heading informative and concise.
 
-Informative headings also help with accessibility.
+### Chunks, bullets and callouts {#sec-chunks-bullets-and-callouts}
 
-### Chunks, bullets, summaries and callouts
+A chunk, bullet or callout can be considered a unit of information we can hold in our working memory (@sec-working-memory).
 
-### Bolding and highlight
+A chunk of text is usually a short paragraph such as this, surrounded by white space so that it is distinct and therefore easier to pick out when scanning.
+
+Bullets or numbered lists are a way of grouping related units of information, whilst callouts such as the summary at the top of this page highlight important units of information.
+
+### Bolding and highlight {#sec-bolding-and-highlight}
+
+Use bold font or highlighting text through colour and shape are examples of the vonRostoff
 
 ### Helpful visuals
 
-@sec-using-imagery-and-visuals discusses how to use imagery and visuals in more detail. A helpful visual is one that imparts information in
+@sec-using-imagery-and-visuals discusses how to use imagery and visuals in more detail. A helpful visual is one that supports the users aims either by informing or orientating them.
 
-### Fonts matter. But not as much as you might think. 
+### Fonts matter. But there is no best font. {#sec-fonts-matter}
 
 A study by Adobe using English text found reading speeds varied by around a third on average between the best and worst of 16 fonts tested [@wallace2022]. However, they report large variation between individual users reading speed and each font tested, and that other factors such as age, font familiarity and size were important for reading speed. The Adobe study is summarised in [NN/g Best font for online reading](https://www.nngroup.com/articles/best-font-for-online-reading/){.uri}.
 
-These findings have several implications:
+This study implies that to account for individual variation it would be preferable to enable users to choose their own font for reading. However that's generally not possible on a webpage (e-readers often do facilitate font choice).
 
-1.  To account for individual variation it would be preferable to enable users to choose their own font for reading.
-2.  
+Therefore to maximise accessibility (see @sec-designing-for-accessibility) what matters is to choose a legible font and size.
 
-For accessibility
+There is no WCAG standard for font size, but but for reference the GDS use a default paragraph font size is 19px on large screens and 16px on small screens following the recommendations of the [British Dyslexia Society](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) not use fonts smaller than 12pt, approximately equivalent to 16px or 1rem.
+
+Here I have set a base font size of 18px and am using the [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) font designed by the Braille Institute.

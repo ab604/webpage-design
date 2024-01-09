@@ -40,6 +40,18 @@ There is of course lots more detail on the [NN/g: Optimizing for Context in the 
 
 ## Designing for accessibility {#sec-designing-for-accessibility}
 
+::: {#accessiblity-checklist .callout-tip}
+## A minimal checklist for an accessible text and links webpage
+
+-   Are the headings sufficiently informative to enable navigation using a screen reader?
+
+-   Is the contrast ratio between text colour and background colour accessible?
+
+-   Is the font size accessible and legible? (See @sec-fonts-matter)
+
+-   Have any visuals got the correct alt-text?
+:::
+
 The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:
 
 -   vision
@@ -59,4 +71,4 @@ These guidelines follow four design principles:
 
 The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming!
 
-Given that in the library we are concerned with pages primarily consisting of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) provides more concise guidance.
+Given that in the library we are concerned with pages primarily consisting of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) provides more concise guidance, but with more detail than the minimal list at the start of this section.
