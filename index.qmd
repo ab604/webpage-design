@@ -4,9 +4,9 @@ bibliography: references.bib
 
 # Preface {.unnumbered}
 
-This short book has been created as a resource for librarians at the University of Southampton and aims to aggregates the most pertinent information found elsewhere about how to create effective webpages for library users.
+This short book has been created as a resource for librarians at the University of Southampton. It aims to aggregate the most pertinent information available about how to create effective webpages for library users.
 
-The aim here is to encourage you to consider what we know about what works and why, rather than create a rigid framework that you must follow.
+The material presented here encourages you to consider what we know about what works and why, rather than present a rigid framework that you must follow.
 
 The overarching questions under consideration are:
 
