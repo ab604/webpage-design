@@ -8,27 +8,21 @@ bibliography: references.bib
 Good writing is easy to read and understand. It uses short sentences, simple vocabulary and is broken into chunks.
 :::
 
-@sec-how-do-people-read-webpages covered how we should format and structure a webpage in the light of understanding that users scan pages rather than read them. Here we discuss the writing itself.
+@sec-how-do-people-read-webpages discussed the observations that:
 
-The question we seek to answer is, *"given what we know, what makes sense?"*
+-   Users scan rather than read (@sec-people-scan-webpages).
 
-We know:
+-   Users have finite cognitive capacity (@sec-working-memory).
 
--   Users scan rather than read
+And how page structure can make scanning easier and information easier to retain.
 
--   Users come for information
+However, we can also address these issues through our writing, primarily by:
 
--   Users have limited cognitive capacity
+-   Removing or reducing our use of jargon or complex language.
 
-This implies:
+-   Being more concise.
 
--   We need to make the page easy to scan, not just in structure, but through our use of language
-
--   Jargon or complex language is a bad idea
-
--   Be concise
-
-NN/g have a page collating articles and videos specifically related to writing for the web based on their research: [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
+NN/g also have a page collating articles and videos specifically related to writing for the web based on their research: [NN/g UX Writing: Study Guide](https://www.nngroup.com/articles/ux-writing-study-guide/)
 
 ## How to write better sentences {#sec-how-to-write-better-sentences}
 
@@ -78,8 +72,8 @@ As discussed in @sec-the-unconsidered-webpage-is-not-worth-creating , the purpos
 
 ## Make link text informative {#sec-make-link-text-informative}
 
-When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link.
+When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link such as this link to [Wikipedia's photo of a domestic rabbit stretched out on a carpet](https://en.wikipedia.org/wiki/Domestic_rabbit#/media/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg).
 
 ## Editing your own words {#sec-editing-your-own-words}
 
-Ideally you'd have an editor available to review and copyedit your words, but this isn't always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).
+Ideally you'd have an editor available to review and copy-edit your words, but this isn't always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).

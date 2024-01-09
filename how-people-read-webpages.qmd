@@ -1,7 +1,7 @@
 # How people read webpages {#sec-how-do-people-read-webpages}
 
-::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
-People don't read webpages, they scan the page for relevant information. This suggests we should structure our pages, formatting and composing the text, to make scanning easy.
+::: {#reading-summary .callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+People don't read webpages, they scan. Structure can make scanning easier and information easier to retain. Use chunks with informative headings. Use bullets, callouts and helpful visuals. Choose legible fonts of at least 16px size.
 :::
 
 ## People scan webpages {#sec-people-scan-webpages}
@@ -62,7 +62,7 @@ Because users scan for information, headings act as markers to help users naviga
 
 ### Chunks, bullets and callouts {#sec-chunks-bullets-and-callouts}
 
-A chunk, bullet or callout can be considered a unit of information we can hold in our working memory (@sec-working-memory).
+Chunks of text, bullet or callout can be considered a unit of information we can hold in our working memory (@sec-working-memory).
 
 A chunk of text is usually a short paragraph such as this, surrounded by white space so that it is distinct and therefore easier to pick out when scanning.
 
@@ -70,7 +70,9 @@ Bullets or numbered lists are a way of grouping related units of information, wh
 
 ### Bolding and highlight {#sec-bolding-and-highlight}
 
-Use bold font or highlighting text through colour and shape are examples of the vonRostoff
+Use bold font or highlighting text through colour and shape are examples of the [Von Restorff effect](https://en.wikipedia.org/wiki/Von_Restorff_effect) where the isolation of the words using colour, shape or weight makes them more prominent and memorable.
+
+The Von Restorff effect relies on the difference between the thing you want to isolate and everything else, so it becomes ineffective if overused.
 
 ### Helpful visuals
 

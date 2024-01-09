@@ -1,18 +1,18 @@
 # Using imagery and visuals {#sec-using-imagery-and-visuals}
 
 ::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
-Use images sparingly. Imagery can be useful for creating ambiance or help impart information, but they should not be used to provide information alone. Images slow down page loading and increase scrolling and scanning time, especially on mobile devices.
+Use images carefully. Imagery can help create ambiance, impart information or orientate the user. But images should not be used to provide information alone. Images slow down page loading and increase scrolling and scanning time, especially on mobile devices.
 :::
 
-## When to use images {#sec-misconceptions-about-users-and-images}
+## How to use images {#sec-misconceptions-about-users-and-images}
 
 Users are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support the users aims either by informing or orientating the user.
 
-Be wary of using images that don't do either or these things. Never rely on imagery alone to provide information. This will exclude users who cannot see or access the image.
+Be wary of using images that don't do either or these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image (See @sec-designing-for-accessibility).
 
-Images can make scanning more difficult and increase scrolling time, especially on mobile devices.
+Images can also make scanning more difficult and increase scrolling time, especially on mobile devices. Remember that users are just as likely to be accessing from a mobile device than a desktop or laptop computer (@sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk).
 
-Therefore use images sparingly, and remember users are just as likely to be accessing from a mobile device than a desktop or laptop computer (@sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk).
+Therefore use images carefully and consider the trade-off in either including or excluding an image or visualisation.
 
 ## Types of images
 
