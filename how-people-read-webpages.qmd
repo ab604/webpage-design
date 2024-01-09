@@ -68,10 +68,15 @@ Informative headings also help with accessibility.
 
 ### Helpful visuals
 
-A helpful visual is one that imparts information in
+@sec-using-imagery-and-visuals discusses how to use imagery and visuals in more detail. A helpful visual is one that imparts information in
 
-### Fonts matter
+### Fonts matter. But not as much as you might think. 
 
-But not as much as you might think.
+A study by Adobe using English text found reading speeds varied by around a third on average between the best and worst of 16 fonts tested [@wallace2022]. However, they report large variation between individual users reading speed and each font tested, and that other factors such as age, font familiarity and size were important for reading speed. The Adobe study is summarised in [NN/g Best font for online reading](https://www.nngroup.com/articles/best-font-for-online-reading/){.uri}.
 
-<https://www.nngroup.com/articles/best-font-for-online-reading/>
+These findings have several implications:
+
+1.  To account for individual variation it would be preferable to enable users to choose their own font for reading.
+2.  
+
+For accessibility
