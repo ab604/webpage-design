@@ -14,8 +14,14 @@ Here are some links to some pages I consider relevant for librarians creating we
 -   [GOV.UK: Government Design Principles](https://www.gov.uk/guidance/government-design-principles){.uri}: as the link title says, this page covers the principles of design which may be relevant for thinking about whether a webpage needs to exist at all.
 -   If you prefer a book [Letting go of the words by Janice Redish](https://southampton.on.worldcat.org/oclc/798674328) [@redish2012] covers many of the same topics. And NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021].
 
-## What's not covered
+## What's not covered {#sec-whats-not-covered}
+
+### User testing {#sec-user-testing}
 
 It's worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we're considering in scope here, but one would expect this to improve our webpages if we could include this too.
 
 If data driven design is of interest to you this November 2023 blog post from the GDS details [how they used data from their existing pages to guide the update of GOV.UK webpages](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/).
+
+### Videos and other media
+
+Here the scope does extend to webpages that include images, but not to video or other media. However, most of the considerations that apply to images, apply to videos and other media (See @sec-using-imagery-and-visuals).

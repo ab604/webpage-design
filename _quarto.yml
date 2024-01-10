@@ -39,7 +39,7 @@ format:
     link-external-newwindow: true
     theme:
       light: [cosmo, styles.scss]
-      dark: [dark.scss]
+      dark: [cosmo, dark.scss]
   
   #pdf:
     #documentclass: scrreprt

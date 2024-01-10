@@ -47,7 +47,7 @@ $success:       $marine2 !default;
 $light:         body-mix(65%) !default;
 $dark:          body-mix(95%) !default;
 
-$min-contrast-ratio:   1.9 !default;
+$min-contrast-ratio:   4.5 !default;
 
 // Links
 $link-color:                $success !default;
@@ -68,3 +68,17 @@ $link-color:                $success !default;
 .quarto-title-meta-heading {
   color: $marine2;
 }
+
+//.nav-footer {
+//  color: $white ;
+//}
+
+//.margin-sidebar {
+//  color: $white ;
+//}
+
+//.menu-text {
+//  color: $white;
+//}
+
+

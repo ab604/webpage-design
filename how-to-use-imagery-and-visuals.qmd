@@ -4,18 +4,18 @@
 There are lots of trade-offs when using imagery. Imagery can help create ambiance, impart information or orientate the user. But images should not be used to provide information alone. Images slow down page loading and increase scrolling and scanning time, especially on mobile devices.
 :::
 
-## How to use images {#sec-misconceptions-about-users-and-images}
+## How to use images {#sec-how-to-use-images}
 
-Users are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support the users aims either by informing or orientating the user.
+Users are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support these aims either by informing or orientating the user.
 
-Be wary of using images that don't do either or these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image (See @sec-designing-for-accessibility).
+Be wary of using images that don't do either or these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image. Likewise images that contain text are difficult for some users to read, so should be avoided if possible (See @sec-designing-for-accessibility).
 
 Images can also make scanning more difficult and increase scrolling time, especially on mobile devices. Remember that users are just as likely to be accessing from a mobile device than a desktop or laptop computer (@sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk).
 
 Therefore use images carefully and consider the trade-off in either including or excluding an image or visualisation.
 
 ::: callout-tip
-"Services usually work best without relying on images. Focus on writing clear, simple content for your service first." [GOV.UK Design System: Images](https://design-system.service.gov.uk/styles/images/)
+*Services usually work best without relying on images. Focus on writing clear, simple content for your service first.* [GOV.UK Design System: Images](https://design-system.service.gov.uk/styles/images/)
 :::
 
 ## Types of images
@@ -24,22 +24,34 @@ Therefore use images carefully and consider the trade-off in either including or
 
 -   Photographs: if you need to show a lifelike representation of something such as a piece of equipment or room that can be booked.
 
--   Illustrations: useful for implication of a complex process.
+-   Illustrations: useful for conveying complex process or information that is difficult to describe.
 
--   Icons and logos: used to represent menus, actions or objects and can orientate the user on the page as they are easy to scan. However, icons don't have universal meaning and are open to misinterpretation.
+-   Icons and logos: used to represent menus, actions or objects and can orientate the user on the page as they are easy to scan. However, icons don't have universal meaning and are open to misinterpretation. If you use icons, ensure they are consistent across pages.
 
--   Infographics and data visualisations:
+-   Infographics and data visualisations: as the name implies, these are images used to summarise data, usually to show a trend or pattern of complex information in a simplified form. Good visualisations have informative titles and annotations to clarify their purpose.
 
-### Decorative images
+### Decorative images {#sec-decorative-images}
 
-Decorative images are those which don't inform, but may help orientate the user. They are used to create ambiance and should not have alt text for screen readers.
+Decorative imagery are images which are used to create ambiance and should be marked as decorative without alt text so that they are ignored by screen readers.
 
-## Making imagery accessible
+## Making imagery accessible {#sec-making-imagery-accessible}
 
-## Further reading
+Alternative text, or alt text is read aloud by screen readers or displayed when an image fails to load. All images should include alt text that explains the meaning and the context of the image to the user.
 
-<https://www.nngroup.com/articles/imagery-in-visual-design/>
+::: {.callout-tip title="Writing good alt text"}
+*Good alt text:*
 
-<https://design-system.service.gov.uk/styles/images/>
+-   *tells people what information the image provides*
+-   *describes the content and function of the image*
+-   *is specific, meaningful and concise*
 
-<https://www.gov.uk/guidance/content-design/images>
+*Use normal punctuation, like commas and full stops, so the text is easy to read and understand.*
+
+*Generally, aim for no more than 2 sentences of alt text.* [GOV.UK Design System: Images](https://design-system.service.gov.uk/styles/images/)
+:::
+
+## Further reading {#sec-further-reading}
+
+The use of imagery is a topic in itself that I encourage the reader to explore. In this book we are only considering webpages that comprise of largely text and links. The GDS have detailed guidance for these type of webpages in their [style guide for images](https://design-system.service.gov.uk/styles/images/) and [content guide for images](https://www.gov.uk/guidance/content-design/images).
+
+NN/g cover a broader set of uses in their article on their research into [using imagery in visual design](https://www.nngroup.com/articles/imagery-in-visual-design/).

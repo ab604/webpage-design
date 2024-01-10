@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Webpage Design",
     "section": "",
-    "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton. It aims to aggregate the most pertinent information available about how to create effective webpages for library users.\nThe material presented here encourages you to consider what we know about what works and why, rather than present a rigid framework that you must follow.\nThe overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\n\nOur goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.",
+    "text": "Preface\nThis short book has been created as a resource for librarians at the University of Southampton. It aims to aggregate the most pertinent information available about how to create effective webpages for library users.\nAs library webpages consist largely of text and links, they are the focus of this book. The scope does extend to images, but not to video or other media. However, most of the considerations that apply to images, apply to videos and other media.\nThe material presented here encourages you to consider what we know about what works and why, rather than present a rigid framework that you must follow.\nThe overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition that applies to webpage design?\n\nOur goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.",
     "crumbs": [
       "Preface"
     ]
@@ -14,17 +14,17 @@
     "href": "what-to-read-instead.html",
     "title": "1  What to read instead",
     "section": "",
-    "text": "1.1 What’s not covered\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’re considering in scope here, but one would expect this to improve our webpages if we could include this too.\nIf data driven design is of interest to you this November 2023 blog post from the GDS details how they used data from their existing pages to guide the update of GOV.UK webpages.",
+    "text": "1.1 What’s not covered",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
     ]
   },
   {
-    "objectID": "what-to-read-instead.html#whats-not-covered",
-    "href": "what-to-read-instead.html#whats-not-covered",
+    "objectID": "what-to-read-instead.html#sec-whats-not-covered",
+    "href": "what-to-read-instead.html#sec-whats-not-covered",
     "title": "1  What to read instead",
     "section": "",
-    "text": "Pernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534.",
+    "text": "1.1.1 User testing\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’re considering in scope here, but one would expect this to improve our webpages if we could include this too.\nIf data driven design is of interest to you this November 2023 blog post from the GDS details how they used data from their existing pages to guide the update of GOV.UK webpages.\n\n\n1.1.2 Videos and other media\nHere the scope does extend to webpages that include images, but not to video or other media. However, most of the considerations that apply to images, apply to videos and other media (See Chapter 5).\n\n\n\n\nPernice, Kara, Kathryn Whitenton, and Jakob Nielsen. 2021. How People Read Online : The Eyetracking Evidence. 2nd edition. Fremont, CA: Nielsen Norman Group.\n\n\nRedish, Janice. 2012. Letting Go of the Words : Writing Web Content That Works. [Waltham, MA]: Morgan Kaufmann. http://site.ebrary.com/id/10578534.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
     "title": "2  How people access the web",
     "section": "2.3 Designing for accessibility",
-    "text": "2.3 Designing for accessibility\n\n\n\n\n\n\nA minimal checklist for an accessible text and links webpage\n\n\n\n\nAre the headings sufficiently informative to enable navigation using a screen reader?\nIs the contrast ratio between text colour and background colour accessible?\nIs the font size accessible and legible? (See Section 3.4.6)\nHave any visuals got the correct alt-text?\n\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:\n\nvision\nhearing\nmobility\nthinking or understanding\n\nThese guidelines follow four design principles:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming!\nGiven that in the library we are concerned with pages primarily consisting of text and links, the University of Washington Accessibility Checklist provides more concise guidance, but with more detail than the minimal list at the start of this section.",
+    "text": "2.3 Designing for accessibility\n\n\n\n\n\n\nA minimal checklist for an accessible text and links webpage\n\n\n\n\nAre the headings sufficiently informative to enable navigation using a screen reader?\nIs the contrast ratio between text colour and background colour accessible?\nIs the font size accessible and legible? (See Section 3.4.6)\nHave any visuals got alt text? (See Section 5.3)\nHave you checked you page using an accessibility checker? (Such as WAVE Web Accessibility Evaluation Tool)\n\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:\n\nvision\nhearing\nmobility\nthinking or understanding\n\nThese guidelines follow four design principles:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including their WAVE Web Accessibility Evaluation Tool which can highlight issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance, but with more detail than the minimal list at the start of this section.\nIt may not be possible to achieve perfect accessibility due to the trade-offs one encounters between competing user needs, but the important thing is to try.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
     ]
@@ -154,17 +154,17 @@
     "href": "how-to-use-imagery-and-visuals.html",
     "title": "5  Using imagery and visuals",
     "section": "",
-    "text": "5.1 How to use images\nUsers are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support the users aims either by informing or orientating the user.\nBe wary of using images that don’t do either or these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image (See Section 2.3).\nImages can also make scanning more difficult and increase scrolling time, especially on mobile devices. Remember that users are just as likely to be accessing from a mobile device than a desktop or laptop computer (Section 2.1).\nTherefore use images carefully and consider the trade-off in either including or excluding an image or visualisation.",
+    "text": "5.1 How to use images\nUsers are primarily visiting Library webpages are to access information or services. Therefore images and visuals should support these aims either by informing or orientating the user.\nBe wary of using images that don’t do either or these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image. Likewise images that contain text are difficult for some users to read, so should be avoided if possible (See Section 2.3).\nImages can also make scanning more difficult and increase scrolling time, especially on mobile devices. Remember that users are just as likely to be accessing from a mobile device than a desktop or laptop computer (Section 2.1).\nTherefore use images carefully and consider the trade-off in either including or excluding an image or visualisation.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
-    "href": "how-to-use-imagery-and-visuals.html#sec-misconceptions-about-users-and-images",
+    "objectID": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
+    "href": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
     "title": "5  Using imagery and visuals",
     "section": "",
-    "text": "Tip\n\n\n\n“Services usually work best without relying on images. Focus on writing clear, simple content for your service first.” GOV.UK Design System: Images",
+    "text": "Tip\n\n\n\nServices usually work best without relying on images. Focus on writing clear, simple content for your service first. GOV.UK Design System: Images",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
@@ -174,27 +174,27 @@
     "href": "how-to-use-imagery-and-visuals.html#types-of-images",
     "title": "5  Using imagery and visuals",
     "section": "5.2 Types of images",
-    "text": "5.2 Types of images\n\n5.2.1 Informative images\n\nPhotographs: if you need to show a lifelike representation of something such as a piece of equipment or room that can be booked.\nIllustrations: useful for implication of a complex process.\nIcons and logos: used to represent menus, actions or objects and can orientate the user on the page as they are easy to scan. However, icons don’t have universal meaning and are open to misinterpretation.\nInfographics and data visualisations:\n\n\n\n5.2.2 Decorative images\nDecorative images are those which don’t inform, but may help orientate the user. They are used to create ambiance and should not have alt text for screen readers.",
+    "text": "5.2 Types of images\n\n5.2.1 Informative images\n\nPhotographs: if you need to show a lifelike representation of something such as a piece of equipment or room that can be booked.\nIllustrations: useful for conveying complex process or information that is difficult to describe.\nIcons and logos: used to represent menus, actions or objects and can orientate the user on the page as they are easy to scan. However, icons don’t have universal meaning and are open to misinterpretation. If you use icons, ensure they are consistent across pages.\nInfographics and data visualisations: as the name implies, these are images used to summarise data, usually to show a trend or pattern of complex information in a simplified form. Good visualisations have informative titles and annotations to clarify their purpose.\n\n\n\n5.2.2 Decorative images\nDecorative imagery are images which are used to create ambiance and should be marked as decorative without alt text so that they are ignored by screen readers.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#making-imagery-accessible",
-    "href": "how-to-use-imagery-and-visuals.html#making-imagery-accessible",
+    "objectID": "how-to-use-imagery-and-visuals.html#sec-making-imagery-accessible",
+    "href": "how-to-use-imagery-and-visuals.html#sec-making-imagery-accessible",
     "title": "5  Using imagery and visuals",
     "section": "5.3 Making imagery accessible",
-    "text": "5.3 Making imagery accessible",
+    "text": "5.3 Making imagery accessible\nAlternative text, or alt text is read aloud by screen readers or displayed when an image fails to load. All images should include alt text that explains the meaning and the context of the image to the user.\n\n\n\n\n\n\nWriting good alt text\n\n\n\nGood alt text:\n\ntells people what information the image provides\ndescribes the content and function of the image\nis specific, meaningful and concise\n\nUse normal punctuation, like commas and full stops, so the text is easy to read and understand.\nGenerally, aim for no more than 2 sentences of alt text. GOV.UK Design System: Images",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#further-reading",
-    "href": "how-to-use-imagery-and-visuals.html#further-reading",
+    "objectID": "how-to-use-imagery-and-visuals.html#sec-further-reading",
+    "href": "how-to-use-imagery-and-visuals.html#sec-further-reading",
     "title": "5  Using imagery and visuals",
     "section": "5.4 Further reading",
-    "text": "5.4 Further reading\nhttps://www.nngroup.com/articles/imagery-in-visual-design/\nhttps://design-system.service.gov.uk/styles/images/\nhttps://www.gov.uk/guidance/content-design/images",
+    "text": "5.4 Further reading\nThe use of imagery is a topic in itself that I encourage the reader to explore. In this book we are only considering webpages that comprise of largely text and links. The GDS have detailed guidance for these type of webpages in their style guide for images and content guide for images.\nNN/g cover a broader set of uses in their article on their research into using imagery in visual design.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
     ]
