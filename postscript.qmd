@@ -10,15 +10,11 @@ Obviously, adding something to an existing situation is often the right way to s
 
 I assume there is something cognitively painful about subtraction as compared with a cognitive reward of addition that biases us towards addition. A form of [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)?
 
-Anyhow, if you are reading this you may be wondering what that's got to do with webpage design? Everything, I'd say. But it also has a lot to do with lots of other things we do at work or at home so I thought I add this little rant at the end (see what I did there?)
+Anyhow, if you are reading this you may be wondering what that's got to do with webpage design? Everything, I'd say. But it also has a lot to do with lots of other things we do at work or at home so I thought I mention it here as a general issue.
 
-For example: PowerPoint slide design. 99.999% of presentations I sit through (screaming inside) have too many slides and/or slides too with much information on each one.
+For example: PowerPoint slide design. Many presentations have too many slides and/or slides too with much information on each one. Which I assume is a result of successive additions aimed at improving the presentation, when in fact it has the opposite effect. The result is slides that are difficult to read or understand, especially when the presenter is also talking. Most, if not all, presentations and slides would be strengthened by having less in them.
 
-They've literally wasted their time and my time. Can't read them, don't understand them.
-
-How often do people consider subtracting slides, text and images to strengthen their presentations? Presumably the presenter wants me to understand, but is too biased towards keeping the kitchen sink to imagine a better world without it.
-
-So when you next are writing, scheduling meetings, cooking, planning your weekend etc. consider removing words, slides, sections, ingredients, commitments or activities as the way to improve life.
+So when you next are creating a webpage, writing, scheduling meetings, cooking, planning your weekend etc. consider removing words, slides, sections, ingredients, commitments or activities and see if it improves things, rather than adding more.
 
 ::: {.callout-tip title="Antoine de Saint-Exupéry, 1939" icon="true" appearance="simple"}
 *"...perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away..."*
