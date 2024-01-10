@@ -68,7 +68,7 @@ Bullets or numbered lists are a way of grouping related units of information, wh
 
 ### Bolding and highlight {#sec-bolding-and-highlight}
 
-Use bold font or highlighting text through colour and shape are examples of the [Von Restorff effect](https://en.wikipedia.org/wiki/Von_Restorff_effect) where the isolation of the words using colour, shape or weight makes them more prominent and memorable.
+Use **bold font** or [highlighting text]{.highlight} through colour and/or shape are examples of the [Von Restorff effect](https://en.wikipedia.org/wiki/Von_Restorff_effect) where the isolation of the words using colour, shape or weight makes them more prominent and memorable.
 
 The Von Restorff effect relies on the difference between the thing you want to isolate and everything else, so it becomes ineffective if overused.
 
