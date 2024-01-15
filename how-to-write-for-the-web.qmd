@@ -81,3 +81,11 @@ Links with descriptive text are helpful for anyone using a screen reader and for
 It is difficult to edit ones own words. Over-familiarity leads to word-blindness and an inability to spot typos. And it is difficult to step outside of oneself and consider how our words come across to someone else.
 
 Ideally one would have an editor available to review and copy-edit our words, but this isn't always possible. If you are unable to recruit a trusted colleague to review your writing, Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).
+
+Perhaps the key advice being:
+
+1.  Take a break to overcome word-blindness. Take a walk or leave it overnight.
+2.  Start editing with the big picture: overall structure, headings, formatting - with the question, "*Is this acheiving what I set out to do?*" in mind.
+3.  Then move onto finer grained edits: paragraphs, sentences, words. Returning to the question in 2.
+4.  Check for consistency in writing style. Both within your page and compared with other pages on the site your page will inhabit.
+5.  Back-up or version control your writing such that you can reinstate any changes if you change your mind.
