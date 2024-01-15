@@ -85,7 +85,7 @@ Ideally one would have an editor available to review and copy-edit our words, bu
 Perhaps the key advice being:
 
 1.  Take a break to overcome word-blindness. Take a walk or leave it overnight.
-2.  Start editing with the big picture: overall structure, headings, formatting - with the question, "*Is this acheiving what I set out to do?*" in mind.
+2.  Start editing with the big picture: overall structure, headings, formatting - with the question, "*Is this acheiving what I set out to do?* " in mind.
 3.  Then move onto finer grained edits: paragraphs, sentences, words. Returning to the question in 2.
 4.  Check for consistency in writing style. Both within your page and compared with other pages on the site your page will inhabit.
 5.  Back-up or version control your writing such that you can reinstate any changes if you change your mind.
