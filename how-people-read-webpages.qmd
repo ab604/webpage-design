@@ -95,9 +95,9 @@ Points (pt) is an absolute length (for font size) originating in typography, suc
 
 Pixels (px) are absolute numbers, but a pixel is defined by the viewing device, such that 1px might be one dot on a display with few dots, but represented by multiple dots on a display comprising of many dots. So whilst 16px should be around 12pt or 4.2 mm on most screens, the screen resolution (number of dots) will determine the actual size.
 
-Relative to font-size of the root element (rem) means scale the font size relative to a defined absolute font size in px - the root element. So if we define a font size of 16px, 1 rem is 16px and 2 rem is 32px etc. And 2rem would be around 24pt or 8.4 mm on most screens.
+Relative to font-size of the root element (rem) means scale the font size relative to a defined absolute font size in px - the root element. So if we define a root font size of 16px, 1rem is 16px and 2rem is 32px etc. And 2rem would be around 24pt or 8.4 mm on most screens.
 
-**TL:DR define a root font of at least 16px (personally I'd go with 18px) and ensure all other font sizes on your page are at least 1 rem.**
+**TL:DR define a root font size of at least 16px (personally I'd go with 18px) and ensure all other font sizes on your page are at least 1 rem.**
 :::
 
 Suggested fonts for legibility are sans serif fonts such as Calibri, Arial or a serif font such as Garamond, but remember to be consistent across pages on the same site [@wallace2022].
