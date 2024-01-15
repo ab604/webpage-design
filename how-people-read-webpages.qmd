@@ -12,7 +12,7 @@ This is how NN/g describe scanning versus reading [@pernice2021]:
 
 > The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.
 
-The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is different kind of task to reading a story or learning a subject step-wise. NN/g estimate [users will only read around 20% of the text](https://www.nngroup.com/articles/how-little-do-users-read/) on the average webpage.
+The hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is a different kind of task to reading a story or learning a subject step-wise. NN/g estimate [users will only read around 20% of the text](https://www.nngroup.com/articles/how-little-do-users-read/) on the average webpage.
 
 The behaviour is similar to that of [desire lines](https://en.wikipedia.org/wiki/Desire_path), humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.
 
@@ -40,7 +40,7 @@ In @sec-how-to-write-for-the-web I outline some practical ways to improve writin
 
 -   how and at what level of detail to present the content to them
 
-Careful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long winded page that no-one reads. For the reasons outlined in @sec-working-memory. See also the [postscript](#sec-postscript).
+Careful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long-winded page that no-one reads. (See @sec-working-memory and also the [postscript](#sec-postscript).)
 
 ## How to structure a webpage for ease of scanning {#sec-how-to-structure-a-webpage-for-ease-of-scanning}
 
@@ -68,22 +68,38 @@ Bullets or numbered lists are a way of grouping related units of information, wh
 
 ### Bolding and highlight {#sec-bolding-and-highlight}
 
-Use **bold font** or [highlighting text]{.highlight} through colour and/or shape are examples of the [Von Restorff effect](https://en.wikipedia.org/wiki/Von_Restorff_effect) where the isolation of the words using colour, shape or weight makes them more prominent and memorable.
+Using **bold font** or [highlighting text]{.highlight} through colour and/or shape are examples of the [Von Restorff effect](https://en.wikipedia.org/wiki/Von_Restorff_effect) where the isolation of the words using colour, shape or weight makes them more prominent and memorable.
 
 The Von Restorff effect relies on the difference between the thing you want to isolate and everything else, so it becomes ineffective if overused.
 
 ### Helpful visuals
 
-@sec-using-imagery-and-visuals discusses how to use imagery and visuals in more detail. A helpful visual is one that supports the users aims either by informing or orientating them.
+@sec-using-imagery-and-visuals discusses how to use imagery and visuals in more detail. A helpful visual is one that supports the user's aims either by informing or orientating them.
 
 ### Fonts matter. But there is no best font. {#sec-fonts-matter}
 
-A study by Adobe using English text found reading speeds varied by around a third on average between the best and worst of 16 fonts tested [@wallace2022]. However, they report large variation between individual users reading speed and each font tested, and that other factors such as age, font familiarity and size were important for reading speed. The Adobe study is summarised in [NN/g Best font for online reading](https://www.nngroup.com/articles/best-font-for-online-reading/){.uri}.
+A study by Adobe using English text found reading speeds varied by around a third on average between the best and worst of 16 fonts tested [@wallace2022]. However, they report large variation between individual user's reading speed and each font tested, and that other factors such as age, font familiarity and size were important for reading speed. The Adobe study is summarised in [NN/g Best font for online reading](https://www.nngroup.com/articles/best-font-for-online-reading/){.uri}.
 
 This study implies that to account for individual variation it would be preferable to enable users to choose their own font for reading. However that's generally not possible on a webpage (e-readers often do facilitate font choice).
 
 Therefore to maximise accessibility (see @sec-designing-for-accessibility) what matters is to choose a legible font and size.
 
-There is no WCAG standard for font size or font face, but but for reference the GDS use a default paragraph font size is 19px on large screens and 16px on small screens. This follows the recommendations of the [British Dyslexia Society](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) not use fonts smaller than 12pt, approximately equivalent to 16px or 1rem. Suggested fonts for legibility are serif fonts such as Calibri, Arial or Garamond, but remember to be consistent across pages on the same site.
+There is no WCAG standard for font size or font face, but for reference the GDS use a default paragraph font size of 19px on large screens and 16px on small screens. This follows the recommendations of the [British Dyslexia Society](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) to not use fonts smaller than 12pt, approximately equivalent to 16px/1rem.
 
-Here I have set a base font size of 18px and am using the [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) font designed by the Braille Institute.
+::: callout-note
+## An aside: pt, px and rem
+
+Cascading Style Sheets (CSS) specify the presentation of styling of webpages and have several ways of expressing units of length. This [W3 consortium tutorial page on CSS units of length](https://www.w3schools.com/cssref/css_units.php) has full details and examples.
+
+Points (pt) is an absolute length (for font size) originating in typography, such that a 12pt font is around 4.2 mm in size. (Try measuring the letters for a12pt font your screen in Word or Outlook.)
+
+Pixels (px) are absolute numbers, but a pixel is defined by the viewing device, such that 1px might be one dot on a display with few dots, but represented by multiple dots on a display comprising on many dots. So whilst 16px should be around 12pt or 4.2 mm on most screens, the screen resolution (number of dots) will determine the actual size.
+
+Relative to font-size of the root element (rem) means the scale the font relative to a defined absolute font size in px - the root element. So if we define a font size of 16px, 1 rem is 16px and 2 rem is 32px etc. And 2rem would be around 24pt or 8.4 mm on most screens.
+
+**TL:DR define a root font of at least 16px (personally I'd go with 18px) and ensure all other font sizes on your page are at least 1 rem.**
+:::
+
+Suggested fonts for legibility are sans serif fonts such as Calibri, Arial or a serif font such as Garamond, but remember to be consistent across pages on the same site [@wallace2022].
+
+Here I have set a root font size of 18px and am using the [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) font designed by the Braille Institute.

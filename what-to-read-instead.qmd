@@ -1,18 +1,22 @@
 # What to read instead {#sec-what-to-read-instead}
 
-Given the enormous economic value of the world wide web and attracting users to ones site, there are considerable research efforts into user experience (UX) design in both the commercial and public sectors.
+::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+If you don't have the time or inclination to read the rest of this book, on this page are links to the source material and notes about a couple of things I didn't include.
+:::
+
+Given the enormous economic value of the world wide web and attracting users to one's site, there are considerable research efforts into user experience (UX) design in both the commercial and public sectors.
 
 Two leading groups are the [Nielsen Norman Group](https://www.nngroup.com/){target="_blank"} (NN/g), a private sector company based in the USA, and in the UK public sector the [GOV.UK: Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service).
 
 Both these groups provide extensive materials detailing their research and guidance on what works (and what doesn't). I encourage readers to explore their websites and beyond.
 
-Here are some links to some pages I consider relevant for librarians creating webpages:
+Here are some links to pages I consider relevant for librarians creating webpages:
 
 -   [NN/g: Writing for the Web Articles & Videos](https://www.nngroup.com/topic/writing-web/){.uri}
--   [NN/g: Psychology for UX: Study Guide](https://www.nngroup.com/articles/psychology-study-guide/){.uri}: a collection of links to NN/g articles and videos about principles of human psychology and how they relates to user experience design.
+-   [NN/g: Psychology for UX: Study Guide](https://www.nngroup.com/articles/psychology-study-guide/){.uri}: a collection of links to NN/g articles and videos about principles of human psychology and how they relate to user experience design.
 -   [GOV.UK: Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk){.uri}: this page covers and links to NN/g research, but from a UK public sector viewpoint
--   [GOV.UK: Government Design Principles](https://www.gov.uk/guidance/government-design-principles){.uri}: as the link title says, this page covers the principles of design which may be relevant for thinking about whether a webpage needs to exist at all.
--   If you prefer a book [Letting go of the words by Janice Redish](https://southampton.on.worldcat.org/oclc/798674328) [@redish2012] covers many of the same topics. And NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021].
+-   [GOV.UK: Government Design Principles](https://www.gov.uk/guidance/government-design-principles){.uri}: this page covers the principles of design which may be relevant for thinking about whether a webpage needs to exist at all.
+-   If you prefer books [Letting go of the words by Janice Redish](https://southampton.on.worldcat.org/oclc/798674328) [@redish2012] covers many of the same topics and NN/g publish a book called [How People Read on the Web](https://www.nngroup.com/reports/how-people-read-web-eyetracking-evidence/) [@pernice2021].
 
 ## What's not covered {#sec-whats-not-covered}
 
@@ -20,7 +24,7 @@ Here are some links to some pages I consider relevant for librarians creating we
 
 It's worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we're considering in scope here, but one would expect this to improve our webpages if we could include this too.
 
-If data driven design is of interest to you this November 2023 blog post from the GDS details [how they used data from their existing pages to guide the update of GOV.UK webpages](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/).
+If data-driven design is of interest to you this November 2023 blog post from the GDS details [how they used data from their existing pages to guide the update of GOV.UK webpages](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/).
 
 ### Videos and other media
 

@@ -28,7 +28,7 @@ NN/g also have a page collating articles and videos specifically related to writ
 
 My favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe 'Bennett Rules' for sentences [@bennett1997].
 
-I've extracted the Bennett Rules here, but I encourage you read the whole thing as it provides greater context and explanation.
+I've extracted the Bennett Rules here, but I encourage you to read the whole thing as it provides greater context and explanation.
 
 A key point is that comparison is often the best way to understand whether we can improve a sentence.
 
@@ -64,16 +64,20 @@ A key point is that comparison is often the best way to understand whether we ca
 
 6.  Avoid undue repetition.
 
-7.  Be careful with commas. *I'd extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.*
+7.  Be careful with commas. I'd extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.
 
 8.  Attend to the sound. Test your writing by reading it aloud.
 
-As discussed in @sec-the-unconsidered-webpage-is-not-worth-creating , the purpose of these rules is provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand.
+As discussed in @sec-the-unconsidered-webpage-is-not-worth-creating , the purpose of these rules is to provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand.
 
 ## Make link text informative {#sec-make-link-text-informative}
 
 When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link such as this link to [Wikipedia's photo of a domestic rabbit stretched out on a carpet](https://en.wikipedia.org/wiki/Domestic_rabbit#/media/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg).
 
+Links with descriptive text are helpful for anyone using a screen reader and for all users in understanding what a link leads to.
+
 ## Editing your own words {#sec-editing-your-own-words}
 
-Ideally you'd have an editor available to review and copy-edit your words, but this isn't always possible. Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).
+It is difficult to edit ones own words. Over-familiarity leads to word-blindness and an inability to spot typos. And it is difficult to step outside of oneself and consider how our words come across to someone else.
+
+Ideally one would have an editor available to review and copy-edit our words, but this isn't always possible. If you are unable to recruit a trusted colleague to review your writing, Hannah Boursnell has written a two part blog with advice on how to edit your own work: [10 editing hacks - Part 1](https://www.hannahboursnell.com/blog/10editinghacks) and [10 editing hacks - Part 2](https://www.hannahboursnell.com/blog/10editinghacks2).

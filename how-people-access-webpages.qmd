@@ -1,7 +1,7 @@
 # How people access the web {#sec-how-people-access-the-web}
 
 ::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
-In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. This suggests we should design webpages to provide a consistent user experience across devices.
+In the UK, people are now as likely to access the web via a mobile device as they are a traditional desktop or laptop computer. We should design webpages to provide a consistent user experience across devices.
 :::
 
 ## Mobile devices now account for 50% of webpage views in the UK {#sec-mobile-devices-now-account-for-50-of-webpage-views-in-the-uk}
@@ -10,7 +10,9 @@ In the UK, people are now as likely to access the web via a mobile device as the
 
 In November 2023 [GOV.UK reported](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/) that over 60% of their visits are from mobile devices.
 
-This matters because when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.
+However, Google Analytics data for the University of Southampton Library pages shows that in the 12 months between January 2023 to January 2024 approximately 70% of visits are from devices with traditional keyboards. My assumption is that this reflects a greater proportion of users carrying out activities best suited to devices with keyboards and larger screens at the same time as they are accessing the Library website than across the web as a whole.
+
+In general, when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.
 
 ```{r}
 #| label: fig-uk-web-use 
@@ -30,7 +32,7 @@ Broadly speaking, these are the differences between desktop and mobile web exper
 
 -   Mobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.
 
-Given our expectation that users are likely to be using either channel when viewing our pages (@fig-uk-web-use), this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.
+Our data indicates users accessing library pages are more likely to be using desktops than mobile devices for any given visit, but many users have both types of device and may visit using either and different times. Therefore if we have the choice, this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.
 
 Consistency doesn't mean identical, it means the user has the same core experience regardless of channel (and/or page).
 
@@ -49,27 +51,19 @@ There is of course lots more detail on the [NN/g: Optimizing for Context in the 
 
 -   Have any visuals got alt text? (See @sec-making-imagery-accessible)
 
--   Have you checked you page using an accessibility checker? (Such as [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/))
+-   Have you checked your page using an accessibility checker? (Such as [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/))
 :::
 
-The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are a set of recommendations for web accessibility to improve inclusion of users with impairments to their:
+The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are a set of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding
 
--   vision
-
--   hearing
-
--   mobility
-
--   thinking or understanding
-
-These guidelines follow four design principles:
+These guidelines follow four design principles that pages should be:
 
 1.  Perceivable
 2.  Operable
 3.  Understandable
 4.  Robust
 
-The University is expected to meet the WCAG AA standard for accessibility.
+The University of Southampton is expected to meet the WCAG AA standard for accessibility.
 
 The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming! [WebAIM](https://webaim.org/) provide an in-depth [WCAG 2.2. AA checklist](https://webaim.org/standards/wcag/checklist) too that is slightly easier to use.
 
@@ -77,4 +71,4 @@ WebAIM also provide many tools, including their [WAVE Web Accessibility Evaluati
 
 As library pages primarily consist of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) may provide sufficiently concise guidance, but with more detail than the minimal list at the start of this section.
 
-It may not be possible to achieve perfect accessibility due to the trade-offs one encounters between competing user needs, but the important thing is to try.
+It may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.
