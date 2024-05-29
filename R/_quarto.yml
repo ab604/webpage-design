@@ -1,0 +1,19 @@
+format: 
+    html:
+      theme: [cosmo, bad.scss]
+         #light: [cosmo, ../styles.scss]
+         #dark: [cosmo, ../dark.scss]
+      code-fold: true
+      code-link: true
+      embed-resources: true
+      toc: true
+      page-layout: full
+knitr:
+  opts_chunk:
+    results: hide
+execute: 
+  eval: true
+  cache: true
+date: last-modified
+date-format: "[Last Updated on] YYYY-MM-DD"
+author: "Alistair Bailey"

@@ -1,0 +1,5 @@
+format: 
+    html:
+      embed-resources: true
+      toc: true
+      page-layout: full

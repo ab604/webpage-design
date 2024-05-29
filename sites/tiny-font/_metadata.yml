@@ -1,0 +1,9 @@
+format: 
+    html:
+      theme: [cosmo, tiny.scss]
+      code-fold: true
+      code-link: true
+      embed-resources: true
+      toc: true
+      page-layout: full
+      
