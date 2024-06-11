@@ -42,6 +42,10 @@ There is of course lots more detail on the [NN/g: Optimizing for Context in the 
 
 ## Designing for accessibility {#sec-designing-for-accessibility}
 
+It's impossible to anticipate every accessibility need, so an important consideration: **Is there a clear method by which users can contact you with accessibility issues?**
+
+For example, an email address or messaging service.
+
 ::: {#accessiblity-checklist .callout-tip title="A minimal checklist for an accessible text and links webpage"}
 -   Are the headings sufficiently informative to enable navigation using a screen reader?
 
