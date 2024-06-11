@@ -1,12 +1,13 @@
 ## Example webpages
 
 ::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
+
 **The links here are not to real web pages**
 
-They've been created to illustrate the ideas outlined in the previous chapters and to enable you to compare the effects of different designs on user experience.
+These examples have been created to illustrate the ideas outlined in the previous chapters and to enable you to compare the effects of different choices on user experience.
 :::
 
-## Structure Examples
+## Structure and Appearance Examples
 
 This section demonstrates how webpage structure alters user experience.
 
@@ -16,6 +17,9 @@ This [Baseline Welcome Page](https://ab604.github.io/webpage-design/main/uos-exa
 
 It's not intended to be perfect either in form or content, but to provide a baseline for comparison to the variations below.
 
+Compare and contrast the structure of the baseline design to these first
+two examples:
+
 ### Variation 1
 
 [Welcome Page Variation 1](https://ab604.github.io/webpage-design/wot/uos-wot.html)
@@ -24,7 +28,7 @@ It's not intended to be perfect either in form or content, but to provide a base
 
 [Welcome Page Variation 2](https://ab604.github.io/webpage-design/more-than-text/uos-mtt.html)
 
-## Appearance Examples
+The next two examples illustrate the effect of appearance on user experience:
 
 ### Variation 3
 
@@ -34,9 +38,17 @@ It's not intended to be perfect either in form or content, but to provide a base
 
 [Welcome Page Variation 4](https://ab604.github.io/webpage-design/tiny-font/uos-tiny.html)
 
-## Language Examples
+Imagine we discovered that the most important things to users in order of popularity were:
 
-I asked [Claude Sonnet]() to describe Rule 59 of the Highway Code. This was the response:
+1. Student Life
+2. Library
+3. Research
+
+How might we use this knowledge to improve our baseline webpage?
+
+## Language Example
+
+I asked [Claude Sonnet](https://claude.ai) to describe Rule 59 of the Highway Code. This was the response:
 
 > Rule 59 of the Highway Code provides guidance on proper clothing and protective gear for cyclists. It states the following:
 >
@@ -48,11 +60,15 @@ I asked [Claude Sonnet]() to describe Rule 59 of the Highway Code. This was the 
 >
 > In summary, Rule 59 advises cyclists to wear appropriate clothing that does not pose an entanglement hazard, choose visible and reflective garments for increased conspicuity, and always wear a properly fitted and approved cycle helmet to protect against head injuries.
 
-Now compare these two versions of Rule 59 based on the actual text and consider what would improve them:
+Try interpreting this description to write Rule 59.
+
+To illustrate the effect of language on user experience I created two versions of Rule 59 based on the actual text. Are they good writing? How would you describe them? 
+
+Expand the box to read the first version:
 
 ```{=html}
 <a data-bs-toggle="collapse" data-bs-target="#collapseV1" aria-expanded="false" aria-controls="collapseV1">
-<strong>Show variation 1 of Rule 59</strong>
+<strong>Show Version 1 of Rule 59</strong>
 </a> <br>
 <div class="collapse" id="collapseV1">
   <div class="card card-body">
@@ -65,9 +81,11 @@ It is advisable to don a cranial protective apparatus conforming to current regu
 </div>  
 ```
 
+Expand the box to read the second version:
+
 ```{=html}
 <a data-bs-toggle="collapse" data-bs-target="#collapseV2" aria-expanded="false" aria-controls="collapseV1">
-<strong>Show variation 2 of Rule 59</strong>
+<strong>Show Version 2 of Rule 59</strong>
 </a> <br>
 <div class="collapse" id="collapseV2">
   <div class="card card-body">
@@ -93,8 +111,13 @@ Below is the actual text from the Highway Code. What makes this good writing?
 Light-coloured or fluorescent clothing can help other road users to see you in daylight and poor light, while reflective clothing and/or accessories (belt, arm or ankle bands) can increase your visibility in the dark.
 </p>
 <p>
-You should wear a cycle helmet that conforms to current regulations, is the correct size and securely fastened. Evidence suggests that a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.
-</p>
+You should wear a cycle helmet that conforms to current regulations, is the correct size and securely fastened. Evidence suggests that a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.</p>
   </div>
 </div>  
 ```
+
+## Accessibility
+
+We already touched on accessibility in terms of structure and language. 
+
+[Welcome Page Variation 5](https://ab604.github.io/accordian-website/)
