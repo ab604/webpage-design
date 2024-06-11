@@ -30,6 +30,10 @@ As a University of Southampton student, you're part of a global community, with 
 
 The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.
 
+-   The Library is open 7 days a week from 0800 to 2200.
+
 ### Library Resources and Services
 
 The library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.
+
+![The University Campus. The Library is Building 36.](highfield-map.png){fig-alt="The University Campus. The Library is Building 36." fig-align="center"}
