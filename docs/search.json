@@ -54,7 +54,7 @@
     "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
     "title": "2  How people access the web",
     "section": "2.3 Designing for accessibility",
-    "text": "2.3 Designing for accessibility\n\n\n\n\n\n\nA minimal checklist for an accessible text and links webpage\n\n\n\n\nAre the headings sufficiently informative to enable navigation using a screen reader?\nIs the contrast ratio between text colour and background colour accessible?\nIs the font size accessible and legible? (See Section 3.4.6)\nHave any visuals got alt text? (See Section 5.3)\nHave you checked your page using an accessibility checker? (Such as WAVE Web Accessibility Evaluation Tool)\n\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding\nThese guidelines follow four design principles that pages should be:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University of Southampton is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including their WAVE Web Accessibility Evaluation Tool which can highlight issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance, but with more detail than the minimal list at the start of this section.\nIt may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.",
+    "text": "2.3 Designing for accessibility\nIt’s impossible to anticipate every accessibility need, so an important consideration: Is there a clear method by which users can contact you with accessibility issues?\nFor example, an email address or messaging service.\n\n\n\n\n\n\nA minimal checklist for an accessible text and links webpage\n\n\n\n\nAre the headings sufficiently informative to enable navigation using a screen reader?\nIs the contrast ratio between text colour and background colour accessible?\nIs the font size accessible and legible? (See Section 3.4.6)\nHave any visuals got alt text? (See Section 5.3)\nHave you checked your page using an accessibility checker? (Such as WAVE Web Accessibility Evaluation Tool)\n\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are a set of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding\nThese guidelines follow four design principles that pages should be:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University of Southampton is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including their WAVE Web Accessibility Evaluation Tool which can highlight issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance, but with more detail than the minimal list at the start of this section.\nIt may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
     ]
@@ -197,6 +197,16 @@
     "text": "5.4 Further reading\nThe use of imagery is a topic in itself that I encourage the reader to explore. In this book we are only considering webpages that comprise of largely text and links. The GDS have detailed guidance for these type of webpages in their style guide for images and content guide for images.\nNN/g cover a broader set of uses in their article on their research into using imagery in visual design.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
+    ]
+  },
+  {
+    "objectID": "example-web-pages.html",
+    "href": "example-web-pages.html",
+    "title": "6  Example webpages",
+    "section": "",
+    "text": "Here are links to\nUoS example page",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
     ]
   },
   {

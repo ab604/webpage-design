@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.534">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -154,6 +154,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./example-web-pages.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Example webpages</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./postscript.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Postscript</span></a>
   </div>
@@ -250,13 +256,15 @@ Figure&nbsp;2.1: The world wide web turned 34 years old in 2023. The grey line s
 </section>
 <section id="sec-designing-for-accessibility" class="level2" data-number="2.3">
 <h2 data-number="2.3" class="anchored" data-anchor-id="sec-designing-for-accessibility"><span class="header-section-number">2.3</span> Designing for accessibility</h2>
-<div class="callout callout-style-default callout-tip callout-titled" title="A minimal checklist for an accessible text and links webpage">
+<p>It’s impossible to anticipate every accessibility need, so an important consideration: <strong>Is there a clear method by which users can contact you with accessibility issues?</strong></p>
+<p>For example, an email address or messaging service.</p>
+<div id="accessiblity-checklist" class="callout callout-style-default callout-tip callout-titled" title="A minimal checklist for an accessible text and links webpage">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="" id="accessiblity-checklist"></a>A minimal checklist for an accessible text and links webpage
+A minimal checklist for an accessible text and links webpage
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -612,7 +620,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
