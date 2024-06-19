@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display&family=Oswald:wght@200..700&display=swap');
+@import url("https://use.typekit.net/hkg2wfa.css");
 
 // PDF: EB Garamond, Newsprint: Libre Franklin, Web: Roboto, Readbility: Noto sans
 
 // fonts
-$font-family-sans-serif: 'Noto Sans','EB Garamond', 'Libre Franklin', 'Roboto',
+$font-family-sans-serif: 'Noto Sans','EB Garamond', 
+'Libre Franklin', 'Roboto', 'Oswald', 'franklin-gothic-atf',
   FreeSerif, serif !default;
 
 $font-size-root: 18px !default;
@@ -29,13 +31,20 @@ $neutral2: #758D9A !default;
 $link-color: $marine1 !default;
 $headings-color: $marine1 !default;
 
+
+.franklin {
+font-family: "franklin-gothic-atf", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 900
 
 .libre-franklin-regular {
   font-family: "Libre Franklin", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -45,7 +54,7 @@ $headings-color: $marine1 !default;
 .noto-sans-regular {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -56,7 +65,7 @@ $headings-color: $marine1 !default;
 .eb-garamond-regular {
   font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 

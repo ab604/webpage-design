@@ -48,7 +48,9 @@ How might we use this knowledge to improve our baseline webpage?
 
 ## Font comparison
 
-The next page compares 
+The next page compares five of [16 fonts previously tested on 350 participants](https://dl.acm.org/doi/10.1145/3502222#d1e6099) to see how they changed reading experience.
+
+See which one you prefer and compare your preferences to the study participants.
 
 [Font comparison](https://ab604.github.io/webpage-design/font-comparison/font-comparison.html)
 
