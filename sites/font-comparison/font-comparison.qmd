@@ -1,41 +1,37 @@
-# [Cheeky boar leaves nudist grunting in laptop chase]{style="font-family:'EB Garamond'"}<br>
-[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.**
-<br>
-The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.
-<br>
-Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.
-<br>
-"Nature strikes back!" she wrote, adding that the man laughed it all off.
-<br>
-"He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'EB Garamond'"}
+::: {.callout-note collapse="true" title="Expand for link to original BBC News page"}
+[Cheeky boar leaves nudist grunting in laptop chase](https://www.bbc.co.uk/news/world-europe-53692475)
+:::
 
+```{r}
+#| label: fig-bbc
+#| fig-cap: Photo by Adele landauer
+#| echo: false
+knitr::include_graphics("https://ichef.bbci.co.uk/news/976/cpsprodpb/DCA4/production/_113848465_mediaitem113848464.jpg.webp")
+```
+
+# [Cheeky boar leaves nudist grunting in laptop chase]{style="font-family:'EB Garamond'"}<br>
+
+[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.** <br> The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers. <br> Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook. <br> "Nature strikes back!" she wrote, adding that the man laughed it all off. <br> "He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'EB Garamond'"}
+
+::: {.callout-note collapse="true" title="Expand to see font name"}
 [PDF Font: EB Garamond]{style="font-family:'EB Garamond'"}
+:::
 
 # [Cheeky boar leaves nudist grunting in laptop chase]{style="font-family:'Libre Franklin'"}<br>
-[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.**
-<br>
-The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.
-<br>
-Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.
-<br>
-"Nature strikes back!" she wrote, adding that the man laughed it all off.
-<br>
-"He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'Libre Franklin'"}
 
+[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.** <br> The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers. <br> Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook. <br> "Nature strikes back!" she wrote, adding that the man laughed it all off. <br> "He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'Libre Franklin'"}
+
+::: {.callout-note collapse="true" title="Expand to see font name"}
 [Newsprint Font: Libre Franklin]{style="font-family:'Libre Franklin'"}
+:::
 
 # [Cheeky boar leaves nudist grunting in laptop chase]{style="font-family:'Roboto'"}<br>
-[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.**
-<br>
-The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.
-<br>
-Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.
-<br>
-"Nature strikes back!" she wrote, adding that the man laughed it all off.
-<br>
-"He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'Roboto'"}
 
+[**A nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.** <br> The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers. <br> Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook. <br> "Nature strikes back!" she wrote, adding that the man laughed it all off. <br> "He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."]{style="font-family:'Roboto'"}
+
+::: {.callout-note collapse="true" title="Expand to see font name"}
 [Web Font: Roboto]{style="font-family:'Roboto'"}
+:::
 
 # Cheeky boar leaves nudist grunting in laptop chase
 
@@ -49,6 +45,6 @@ Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee 
 
 "He gave it his all", with not a stitch on, she reported. "I then showed the photos to the man, he laughed soundly and authorised me to make them public."
 
+::: {.callout-note collapse="true" title="Expand to see font name"}
 Readability Font: Noto Sans
-
-[BBC original page](https://www.bbc.co.uk/news/world-europe-53692475)
+:::

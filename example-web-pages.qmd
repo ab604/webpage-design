@@ -46,6 +46,12 @@ Imagine we discovered that the most important things to users in order of popula
 
 How might we use this knowledge to improve our baseline webpage?
 
+## Font comparison
+
+The next page compares 
+
+[Font comparison](https://ab604.github.io/webpage-design/font-comparison/font-comparison.html)
+
 ## Language Example
 
 I asked [Claude Sonnet](https://claude.ai) to describe Rule 59 of the Highway Code. This was the response:
