@@ -1,0 +1,11 @@
+format: 
+    html:
+      theme: [cosmo, fonts.scss]
+      title: "BBC News: Cheeky boar"
+      date: 2020-08-07
+      code-fold: true
+      code-link: true
+      embed-resources: true
+      toc: false
+      page-layout: full
+      
