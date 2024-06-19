@@ -22,21 +22,21 @@ two examples:
 
 ### Variation 1
 
-[Welcome Page Variation 1](https://ab604.github.io/webpage-design/wot/uos-wot.html)
+[Welcome Page Variation 1](https://ab604.github.io/webpage-design/wot/uos-wot.html){target="_blank"}
 
 ### Variation 2
 
-[Welcome Page Variation 2](https://ab604.github.io/webpage-design/more-than-text/uos-mtt.html)
+[Welcome Page Variation 2](https://ab604.github.io/webpage-design/more-than-text/uos-mtt.html){target="_blank"}
 
 The next two examples illustrate the effect of appearance on user experience:
 
 ### Variation 3
 
-[Welcome Page Variation 3](https://ab604.github.io/webpage-design/sevillana/uos-sevillana.html)
+[Welcome Page Variation 3](https://ab604.github.io/webpage-design/sevillana/uos-sevillana.html){target="_blank"}
 
 ### Variation 4
 
-[Welcome Page Variation 4](https://ab604.github.io/webpage-design/tiny-font/uos-tiny.html)
+[Welcome Page Variation 4](https://ab604.github.io/webpage-design/tiny-font/uos-tiny.html){target="_blank"}
 
 Imagine we discovered that the most important things to users in order of popularity were:
 
@@ -52,7 +52,7 @@ The next page compares five of [16 fonts previously tested on 350 participants](
 
 See which one you prefer and compare your preferences to the study participants.
 
-[Font comparison](https://ab604.github.io/webpage-design/font-comparison/font-comparison.html)
+[Font comparison](https://ab604.github.io/webpage-design/font-comparison/font-comparison.html){target="_blank"}
 
 ## Language Example
 
@@ -128,4 +128,4 @@ You should wear a cycle helmet that conforms to current regulations, is the corr
 
 We already touched on accessibility in terms of structure and language. 
 
-[Welcome Page Variation 5](https://ab604.github.io/accordian-website/)
+[Welcome Page Variation 5](https://ab604.github.io/accordian-website/){target="_blank"}
