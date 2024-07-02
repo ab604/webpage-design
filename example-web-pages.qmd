@@ -50,6 +50,13 @@ How might we use this knowledge to improve our baseline webpage?
 
 The next page compares five of [16 fonts previously tested on 350 participants](https://dl.acm.org/doi/10.1145/3502222#d1e6099) to see how they changed reading experience.
 
+The key findings were that the font does affect reading speed, but different people
+preferred different fonts, and font preference didn't necessarily mean it was the 
+fastest to read. Reading speed was most affected by age of the reader.
+
+They cite a study that [found using a font size of 18 point](https://dl.acm.org/doi/10.1145/3315002.3317568) improved reading speed and 
+comprehension, but this would be equivalent to 24px and 37% bigger than the text you are currently reading, so would have a big impact on the amount of text visible on the screen and the amount of scrolling required to read the text.
+
 See which one you prefer and compare your preferences to the study participants.
 
 [Font comparison](https://ab604.github.io/webpage-design/font-comparison/font-comparison.html){target="_blank"}
@@ -126,6 +133,30 @@ You should wear a cycle helmet that conforms to current regulations, is the corr
 
 ## Accessibility
 
-We already touched on accessibility in terms of structure and language. 
+We already touched on accessibility throughout, but let's just look at how to 
+identify issues in practice.
+
+Utah State University host [WebAIM](https://webaim.org/). They are separate from
+the official body which is part of the world wide web consortium [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/), but have a long standing involvement with accessibility on the web.
+
+I've created a deliberately inaccessible version of a Library homepage:
 
 [Welcome Page Variation 5](https://ab604.github.io/accordian-website/){target="_blank"}
+
+But we can also look at existing real webpages to explore accessibility issues. 
+One of the easiest ways is to put the URL of our page of interest into the search box of the 
+[WebAIM WAVE](https://wave.webaim.org/) page, or from the same page install the 
+WebAIM WAVE tool into our browser and right-click (on Windows) to run it on any page.
+
+Here's a few to consider, but you could always pick your favourite pages:
+
+1. [University of Southampton Library Homepage](https://library.soton.ac.uk/homepage)
+2. [University of Southampton Library Academic Skills page](https://library.soton.ac.uk/sash)
+3. [University of Oxford Bodleian Library](https://www.bodleian.ox.ac.uk/home)
+4. [RNIB homepage](https://www.rnib.org.uk/)
+
+The point here is not to criticise anyone, but to illustrate the challenges in
+meeting the accessibility guidelines without any errors or warnings.
+
+
+

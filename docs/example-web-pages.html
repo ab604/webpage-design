@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.5.47">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Webpage Design - 6&nbsp; Example webpages</title>
+<title>6&nbsp; Example webpages – Webpage Design</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,13 +80,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./example-web-pages.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Example webpages</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -267,6 +267,8 @@ Summary
 <section id="font-comparison" class="level2" data-number="6.2">
 <h2 data-number="6.2" class="anchored" data-anchor-id="font-comparison"><span class="header-section-number">6.2</span> Font comparison</h2>
 <p>The next page compares five of <a href="https://dl.acm.org/doi/10.1145/3502222#d1e6099">16 fonts previously tested on 350 participants</a> to see how they changed reading experience.</p>
+<p>The key findings were that the font does affect reading speed, but different people preferred different fonts, and font preference didn’t necessarily mean it was the fastest to read. Reading speed was most affected by age of the reader.</p>
+<p>They cite a study that <a href="https://dl.acm.org/doi/10.1145/3315002.3317568">found using a font size of 18 point</a> improved reading speed and comprehension, but this would be equivalent to 24px and 37% bigger than the text you are currently reading, so would have a big impact on the amount of text visible on the screen and the amount of scrolling required to read the text.</p>
 <p>See which one you prefer and compare your preferences to the study participants.</p>
 <p><a href="https://ab604.github.io/webpage-design/font-comparison/font-comparison.html" target="_blank">Font comparison</a></p>
 </section>
@@ -325,8 +327,19 @@ You should wear a cycle helmet that conforms to current regulations, is the corr
 </section>
 <section id="accessibility" class="level2" data-number="6.4">
 <h2 data-number="6.4" class="anchored" data-anchor-id="accessibility"><span class="header-section-number">6.4</span> Accessibility</h2>
-<p>We already touched on accessibility in terms of structure and language.</p>
+<p>We already touched on accessibility throughout, but let’s just look at how to identify issues in practice.</p>
+<p>Utah State University host <a href="https://webaim.org/">WebAIM</a>. They are separate from the official body which is part of the world wide web consortium <a href="https://www.w3.org/WAI/">W3C Web Accessibility Initiative (WAI)</a>, but have a long standing involvement with accessibility on the web.</p>
+<p>I’ve created a deliberately inaccessible version of a Library homepage:</p>
 <p><a href="https://ab604.github.io/accordian-website/" target="_blank">Welcome Page Variation 5</a></p>
+<p>But we can also look at existing real webpages to explore accessibility issues. One of the easiest ways is to put the URL of our page of interest into the search box of the <a href="https://wave.webaim.org/">WebAIM WAVE</a> page, or from the same page install the WebAIM WAVE tool into our browser and right-click (on Windows) to run it on any page.</p>
+<p>Here’s a few to consider, but you could always pick your favourite pages:</p>
+<ol type="1">
+<li><a href="https://library.soton.ac.uk/homepage">University of Southampton Library Homepage</a></li>
+<li><a href="https://library.soton.ac.uk/sash">University of Southampton Library Academic Skills page</a></li>
+<li><a href="https://www.bodleian.ox.ac.uk/home">University of Oxford Bodleian Library</a></li>
+<li><a href="https://www.rnib.org.uk/">RNIB homepage</a></li>
+</ol>
+<p>The point here is not to criticise anyone, but to illustrate the challenges in meeting the accessibility guidelines without any errors or warnings.</p>
 
 
 </section>
@@ -511,18 +524,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -554,7 +556,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -562,10 +586,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -609,7 +638,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -885,7 +918,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./how-to-use-imagery-and-visuals.html" class="pagination-link  aria-label=" &lt;span="" imagery="" and="" visuals&lt;="" span&gt;"="">
+      <a href="./how-to-use-imagery-and-visuals.html" class="pagination-link" aria-label="Using imagery and visuals">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Using imagery and visuals</span></span>
       </a>          
   </div>

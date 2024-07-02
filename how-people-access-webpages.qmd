@@ -48,19 +48,29 @@ It's impossible to anticipate every accessibility need, so an important consider
 
 For example, an email address or messaging service.
 
-::: {#accessiblity-checklist .callout-tip title="A minimal checklist for an accessible text and links webpage"}
--   Are the headings sufficiently informative to enable navigation using a screen reader?
+::: {#accessiblity-checklist .callout-tip title="Common accessibility issues"}
+These are the most common accessibility issues encountered by Digital Scholarship's Kiki Kuijjer:
 
--   Is the contrast ratio between text colour and background colour accessible?
+-   Embedded links not distinguishable
 
--   Is the font size accessible and legible? (See @sec-fonts-matter)
+    Links embedded in text should be distinguishable from the surrounding text - either through styling (like an underline) or by making sure there is sufficient contrast with the surrounding text (see [Accessibility Insights: Link in text block](https://accessibilityinsights.io/info-examples/web/needs-review/link-in-text-block/)).
 
--   Have any visuals got alt text? (See @sec-making-imagery-accessible)
+-   Insufficient colour contrast
 
--   Have you checked your page using an accessibility checker? (Such as [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/))
+    Text, graphics, and user interface components must have sufficient colour contrast with the background (see the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) for required contrast ratios).
+
+-   Alt-text missing
+
+    Images must have alt-text, unless they are decorative, in which case a null text alternative (alt="") must be provided (See @sec-making-imagery-accessible and the [WAI Images Tutorial](https://www.w3.org/WAI/tutorials/images/)).
+
+-   Not keyboard accessible
+
+    Users must be able to navigate to navigate to all interactive components using a keyboard only (see [WCAG Success Criterion 2.1.1: Keyboard (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html)).
+
+You can check your page for potential issues using an accessibility checker such as the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/).
 :::
 
-The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are a set of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding
+The World Wide Web Consortium (W3C) [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) are the official source of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding
 
 These guidelines follow four design principles that pages should be:
 
@@ -71,10 +81,10 @@ These guidelines follow four design principles that pages should be:
 
 The University of Southampton is expected to meet the WCAG AA standard for accessibility.
 
-The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming! [WebAIM](https://webaim.org/) provide an in-depth [WCAG 2.2. AA checklist](https://webaim.org/standards/wcag/checklist) too that is slightly easier to use.
+The WCAG provide a [Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) which has examples, but is ironically a bit overwhelming! Utah University host [WebAIM](https://webaim.org/) provide an in-depth [WCAG 2.2. AA checklist](https://webaim.org/standards/wcag/checklist) too that is slightly easier to use.
 
-WebAIM also provide many tools, including their [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) which can highlight issues on your page.
+WebAIM also provide many tools, including the previously mentioned [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) which highlights potential issues on your page.
 
-As library pages primarily consist of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) may provide sufficiently concise guidance, but with more detail than the minimal list at the start of this section.
+As library pages primarily consist of text and links, the [University of Washington Accessibility Checklist](https://www.washington.edu/accesstech/checklist/) may provide sufficiently concise guidance.
 
 It may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.

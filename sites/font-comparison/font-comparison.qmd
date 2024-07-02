@@ -2,7 +2,7 @@
 #| label: fig-bbc
 #| fig-cap: Photo by Adele landauer
 #| echo: false
-knitr::include_graphics("https://ichef.bbci.co.uk/news/976/cpsprodpb/DCA4/production/_113848465_mediaitem113848464.jpg.webp")
+knitr::include_graphics("https://i.guim.co.uk/img/media/321ebebbc74a396d10f7c7c1a775f515858beeae/0_231_2048_1228/master/2048.jpg?width=1900&dpr=2&s=none")
 ```
 
 # [Cheeky boar leaves nudist grunting in laptop chase]{style="font-family:'EB Garamond'"}<br>
