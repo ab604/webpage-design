@@ -1,7 +1,6 @@
 ## Example webpages
 
 ::: {.callout-important .unnumbered title="Summary" appearance="simple" icon="false"}
-
 **The links here are not to real web pages**
 
 These examples have been created to illustrate the ideas outlined in the previous chapters and to enable you to compare the effects of different choices on user experience.
@@ -17,8 +16,7 @@ This [Baseline Welcome Page](https://ab604.github.io/webpage-design/main/uos-exa
 
 It's not intended to be perfect either in form or content, but to provide a baseline for comparison to the variations below.
 
-Compare and contrast the structure of the baseline design to these first
-two examples:
+Compare and contrast the structure of the baseline design to these first two examples:
 
 ### Variation 1
 
@@ -40,9 +38,9 @@ The next two examples illustrate the effect of appearance on user experience:
 
 Imagine we discovered that the most important things to users in order of popularity were:
 
-1. Student Life
-2. Library
-3. Research
+1.  Student Life
+2.  Library
+3.  Research
 
 How might we use this knowledge to improve our baseline webpage?
 
@@ -50,12 +48,9 @@ How might we use this knowledge to improve our baseline webpage?
 
 The next page compares five of [16 fonts previously tested on 350 participants](https://dl.acm.org/doi/10.1145/3502222#d1e6099) to see how they changed reading experience.
 
-The key findings were that the font does affect reading speed, but different people
-preferred different fonts, and font preference didn't necessarily mean it was the 
-fastest to read. Reading speed was most affected by age of the reader.
+The key findings were that the font does affect reading speed, but different people preferred different fonts, and font preference didn't necessarily mean it was the fastest to read. Reading speed was most affected by age of the reader.
 
-They cite a study that [found using a font size of 18 point](https://dl.acm.org/doi/10.1145/3315002.3317568) improved reading speed and 
-comprehension, but this would be equivalent to 24px and 37% bigger than the text you are currently reading, so would have a big impact on the amount of text visible on the screen and the amount of scrolling required to read the text.
+They cite a study that [found using a font size of 18 point](https://dl.acm.org/doi/10.1145/3315002.3317568) improved reading speed and comprehension, but this would be equivalent to 24px and 37% bigger than the text you are currently reading, so would have a big impact on the amount of text visible on the screen and the amount of scrolling required to read the text.
 
 See which one you prefer and compare your preferences to the study participants.
 
@@ -77,7 +72,7 @@ I asked [Claude Sonnet](https://claude.ai) to describe Rule 59 of the Highway Co
 
 Try interpreting this description to write Rule 59.
 
-To illustrate the effect of language on user experience I created two versions of Rule 59 based on the actual text. Are they good writing? How would you describe them? 
+To illustrate the effect of language on user experience I created two versions of Rule 59 based on the actual text. Are they good writing? How would you describe them?
 
 Expand the box to read the first version:
 
@@ -95,7 +90,6 @@ It is advisable to don a cranial protective apparatus conforming to current regu
   </div>
 </div>  
 ```
-
 Expand the box to read the second version:
 
 ```{=html}
@@ -111,7 +105,6 @@ Furthermore, it is highly recommended that you wear a cycle helmet that conforms
   </div>
 </div>  
 ```
-
 Below is the actual text from the Highway Code. What makes this good writing?
 
 ```{=html}
@@ -130,33 +123,23 @@ You should wear a cycle helmet that conforms to current regulations, is the corr
   </div>
 </div>  
 ```
-
 ## Accessibility
 
-We already touched on accessibility throughout, but let's just look at how to 
-identify issues in practice.
+We already touched on accessibility throughout, but let's just look at how to identify issues in practice.
 
-Utah State University host [WebAIM](https://webaim.org/). They are separate from
-the official body which is part of the world wide web consortium [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/), but have a long standing involvement with accessibility on the web.
+Utah State University host [WebAIM](https://webaim.org/). They are separate from the official body which is part of the world wide web consortium [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/), but have a long standing involvement with accessibility on the web.
 
 I've created a deliberately inaccessible version of a Library homepage:
 
 [Welcome Page Variation 5](https://ab604.github.io/accordian-website/){target="_blank"}
 
-But we can also look at existing real webpages to explore accessibility issues. 
-One of the easiest ways is to put the URL of our page of interest into the search box of the 
-[WebAIM WAVE](https://wave.webaim.org/) page, or from the same page install the 
-WebAIM WAVE tool into our browser and right-click (on Windows) to run it on any page.
+But we can also look at existing real webpages to explore accessibility issues. One of the easiest ways is to put the URL of our page of interest into the search box of the [WebAIM WAVE](https://wave.webaim.org/) page, or from the same page install the WebAIM WAVE tool into our browser and right-click (on Windows) to run it on any page.
 
 Here's a few to consider, but you could always pick your favourite pages:
 
-1. [University of Southampton Library Homepage](https://library.soton.ac.uk/homepage)
-2. [University of Southampton Library Academic Skills page](https://library.soton.ac.uk/sash)
-3. [University of Oxford Bodleian Library](https://www.bodleian.ox.ac.uk/home)
-4. [RNIB homepage](https://www.rnib.org.uk/)
+1.  [University of Southampton Library Homepage](https://library.soton.ac.uk/homepage)
+2.  [University of Southampton Library Academic Skills page](https://library.soton.ac.uk/sash)
+3.  [University of Oxford Bodleian Library](https://www.bodleian.ox.ac.uk/home)
+4.  [RNIB homepage](https://www.rnib.org.uk/)
 
-The point here is not to criticise anyone, but to illustrate the challenges in
-meeting the accessibility guidelines without any errors or warnings.
-
-
-
+The point here is not to criticise anyone, but to illustrate the challenges in meeting the accessibility guidelines without any errors or warnings.
