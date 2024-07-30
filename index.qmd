@@ -20,4 +20,4 @@ The overarching questions under consideration are:
 
 Our goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.
 
-
+[![](https://zenodo.org/badge/724236066.svg){fig-alt="DOI: 10.5281/zenodo.13133922" fig-align="left"}](https://zenodo.org/doi/10.5281/zenodo.13133922)

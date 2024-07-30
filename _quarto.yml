@@ -31,9 +31,9 @@ book:
     - example-web-pages.qmd
     - postscript.qmd
     - references.qmd
-  sidebar: 
-      logo: https://zenodo.org/badge/724236066.svg
-      logo-href: https://zenodo.org/doi/10.5281/zenodo.13133922
+  #sidebar: 
+   #   logo: https://zenodo.org/badge/724236066.svg
+   #   logo-href: https://zenodo.org/doi/10.5281/zenodo.13133922
 
 
 bibliography: references.bib
@@ -46,16 +46,16 @@ format:
       light: [cosmo, styles.scss]
       dark: [cosmo, dark.scss]
     csl: nature.csl
-    include-in-header:
-      text: |
-        <script>
-          document.addEventListener("DOMContentLoaded", function() {
-            var sidebar = document.getElementById('quarto-sidebar');
-            var logo = sidebar.getElementsByTagName('img')[0];
-
-            sidebar.appendChild(logo);
-          });
-        </script>
+    # include-in-header:
+    #   text: |
+    #     <script>
+    #       document.addEventListener("DOMContentLoaded", function() {
+    #         var sidebar = document.getElementById('quarto-sidebar');
+    #         var logo = sidebar.getElementsByTagName('img')[0];
+    # 
+    #         sidebar.appendChild(logo);
+    #       });
+    #     </script>
   
   #pdf:
     #documentclass: scrreprt
