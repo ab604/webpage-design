@@ -72,7 +72,7 @@ As discussed in @sec-the-unconsidered-webpage-is-not-worth-creating , the purpos
 
 ## Make link text informative {#sec-make-link-text-informative}
 
-When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link such as this link to [Wikipedia's photo of a domestic rabbit stretched out on a carpet](https://en.wikipedia.org/wiki/Domestic_rabbit#/media/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg).
+When linking, rather than "here", "more" or "go", use descriptive text or the page title as the link such as this link to [Wikipedia's photo of a domestic rabbit stretched out on a carpet](https://commons.wikimedia.org/wiki/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg).
 
 Links with descriptive text are helpful for anyone using a screen reader and for all users in understanding what a link leads to.
 

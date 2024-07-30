@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.537">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -139,6 +139,12 @@ div.csl-indent {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./preface.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
@@ -302,7 +308,7 @@ Summary
 </section>
 <section id="sec-make-link-text-informative" class="level2" data-number="4.2">
 <h2 data-number="4.2" class="anchored" data-anchor-id="sec-make-link-text-informative"><span class="header-section-number">4.2</span> Make link text informative</h2>
-<p>When linking, rather than “here”, “more” or “go”, use descriptive text or the page title as the link such as this link to <a href="https://en.wikipedia.org/wiki/Domestic_rabbit#/media/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg">Wikipedia’s photo of a domestic rabbit stretched out on a carpet</a>.</p>
+<p>When linking, rather than “here”, “more” or “go”, use descriptive text or the page title as the link such as this link to <a href="https://commons.wikimedia.org/wiki/File:Domestic_Rabbit_Relaxed_on_Carpet.jpg">Wikipedia’s photo of a domestic rabbit stretched out on a carpet</a>.</p>
 <p>Links with descriptive text are helpful for anyone using a screen reader and for all users in understanding what a link leads to.</p>
 </section>
 <section id="sec-editing-your-own-words" class="level2" data-number="4.3">
@@ -652,12 +658,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
+      return note.innerHTML;
     }
   }
   for (var i=0; i<xrefs.length; i++) {
