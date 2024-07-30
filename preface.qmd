@@ -1,0 +1,59 @@
+# Preface {#sec-preface .unnumbered}
+
+## Human factors in design {#sec-human-factors-in-design}
+
+Here are three human factors that are common in design and not limited to webpages. The first two relate to human cognition and the third to human behaviour.
+
+### Humans judge can be aided by comparisons {#sec-humans-judge-can-be-aided-by-comparisons}
+
+Whether it's tasting coffee or choosing clothes, comparisons can often aid our judgements.
+
+The proper colour judging game is on [No more marking](https://www.nomoremarking.com/demo?countryCode=GB), but consider the eight colours in the box below for a few seconds:
+
+::: {.callout-note collapse="true" title="Expand/collapse to see/hide the colour scale" appearance="simple"}
+![](img/eight-colours.png){style="background-color: white;"}
+:::
+
+Now close the box and expand this next one with a single colour. Without looking at the scale, can you accurately judge which colour it is?
+
+::: {.callout-note collapse="true" title="Expand to see the colour" appearance="simple"}
+![](img/single-colour.png){style="background-color: white;" width="100"}
+:::
+
+Pretty tricky, yes? However it's much easier if the question is which of these two colours is darker?
+
+::: {.callout-note collapse="true" title="Expand to see the colours" appearance="simple"}
+![](img/two-colours.png){style="background-color: white;" width="200"}
+:::
+
+There may not be an objectively best design, but by comparison it's easier to discuss what "better" and "worse" look like.
+
+### Working memory is limited {#sec-working-memory-is-limited}
+
+Broadly speaking, we have two types of memory: working memory and long term memory. Working memory is very small, capable of holding no more than a handful of pieces of information. Long term memory is effectively infinite.
+
+Section @sec-working-memory expands more on this issue, but from a design perspective the challenge is to overcome working memory limitations.
+
+For example, imagine having to remember this 16 digit number: 7591248630145829.
+
+It's difficult to read, let alone remember. But by using what we know about working memory, we re-design the problem.
+
+::: {.callout-note collapse="true" title="Expand to see a suggestion" appearance="simple"}
+It's sill not easy, but splitting a long number into working memory sized chunks makes it easier to read and remember:
+
+7591 2486 3014 5829
+:::
+
+### Our stated preferences often differ from our revealed preferences {#sec-our-stated-preferences-often-differ-from-our-revealed-preferences}
+
+*"If we compare the amount people say they drink in surveys with how much the Government data tells us is actually sold, then it turns out **we drink about 50% more than we say**."*
+
+Source: [Alcohol Change UK](https://alcoholchange.org.uk/alcohol-facts/fact-sheets/drinking-trends-in-the-uk)
+
+This is an example of the difference between stated preference and revealed preference and is why in design it's as important - if not more - to understand what people do as what they say, in order to understand their needs.
+
+Below is an example of *desire path* indicating the route preferred by users over that created by designers. We can think of desire paths as a form of revealed preference.
+
+![Source: Wikipedia - A desire path between concrete sidewalks at the Ohio State University](https://upload.wikimedia.org/wikipedia/commons/2/2e/Desire_path_-_52849400711.jpg)
+
+

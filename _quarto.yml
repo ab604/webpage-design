@@ -22,6 +22,7 @@ book:
         This book was built with <a href="https://quarto.org/">Quarto</a>.
   chapters:
     - index.qmd
+    - preface.qmd
     - what-to-read-instead.qmd
     - how-people-access-webpages.qmd
     - how-people-read-webpages.qmd
