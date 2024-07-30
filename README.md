@@ -1,4 +1,4 @@
-# Overview {.unnumbered}
+# Overview
 
 This is the repository for a short book that has been created as a resource for librarians at the University of Southampton. It aims to aggregate the most pertinent information available about how to create effective webpages for library users.
 
