@@ -33,7 +33,7 @@ Please cite this work as,
 ```bibtex 
 
 @book{bailey2024,
-    title = {Webpage {Design},
+    title = {Webpage Design},
     copyright = {Creative Commons Attribution 4.0 International},
     shorttitle = {ab604/webpage-design},
     url = {https://zenodo.org/doi/10.5281/zenodo.13133922},
