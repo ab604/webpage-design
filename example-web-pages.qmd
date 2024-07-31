@@ -75,33 +75,25 @@ Try interpreting this description to write Rule 59.
 To illustrate the effect of language on user experience I created two versions of Rule 59 based on the actual text. Are they good writing? How would you describe them?
 
 ::: {.callout-note collapse="true" title="Expand the box to read the first version:"}
-
 Vestiary accoutrements. One ought to eschew sartorial assemblages that may become entrapped within the continuous chain or rotational apparatus, or occlude the luminescent signaling devices during the act of cycling. Garments exhibiting a high degree of luminance or fluorescence can augment the perceptibility to other vehicular operators in diurnal and suboptimal illumination conditions, while attire or accessories (such as belts, arm bands, or ankle adornments) imbued with retroreflective properties can amplify one's conspicuity in conditions of nocturnal obscurity.
-</p>
-<p>
-It is advisable to don a cranial protective apparatus conforming to current regulatory mandates, exhibiting an appropriate dimensional correspondence, and securely affixed. Empirical evidence suggests that a properly fitted cranial shield can mitigate the risk of sustaining cephalic trauma in certain contingencies.</p>
 
+</p>
+
+<p>It is advisable to don a cranial protective apparatus conforming to current regulatory mandates, exhibiting an appropriate dimensional correspondence, and securely affixed. Empirical evidence suggests that a properly fitted cranial shield can mitigate the risk of sustaining cephalic trauma in certain contingencies.</p>
 :::
 
 ::: {.callout-note collapse="true" title="Expand the box to read the second version:"}
+<p>Clothing, you should avoid wearing garments that may become entangled in the bicycle chain or wheels, or that may obstruct your lights while you are cycling, thus posing a potential safety hazard. Clothing items that are light-colored or fluorescent in nature can significantly enhance your visibility to other road users under daylight conditions and in situations of poor lighting, whereas reflective clothing and accessories, such as reflective belts, arm bands, or ankle bands, can substantially increase your conspicuity and visibility in the dark, thereby reducing the risk of accidents or collisions.</p>
 
-<p>Clothing, you should avoid wearing garments that may become entangled in the bicycle chain or wheels, or that may obstruct your lights while you are cycling, thus posing a potential safety hazard. Clothing items that are light-colored or fluorescent in nature can significantly enhance your visibility to other road users under daylight conditions and in situations of poor lighting, whereas reflective clothing and accessories, such as reflective belts, arm bands, or ankle bands, can substantially increase your conspicuity and visibility in the dark, thereby reducing the risk of accidents or collisions.
-</p>
-<p>
-Furthermore, it is highly recommended that you wear a cycle helmet that conforms to the current regulations and safety standards, ensuring that it is of the correct size and securely fastened to your head, as extensive research and evidence strongly suggest that a correctly fitted and properly worn cycle helmet can significantly reduce your risk of sustaining a head injury in the event of certain circumstances or accidents that may occur while cycling.</p>
-
+<p>Furthermore, it is highly recommended that you wear a cycle helmet that conforms to the current regulations and safety standards, ensuring that it is of the correct size and securely fastened to your head, as extensive research and evidence strongly suggest that a correctly fitted and properly worn cycle helmet can significantly reduce your risk of sustaining a head injury in the event of certain circumstances or accidents that may occur while cycling.</p>
 :::
 
 ::: {.callout-note collapse="true" title="Expand the box to read the actual text from the Highway Code.<br>What makes this good writing?"}
+<p><strong>Clothing.</strong> You should avoid clothes that may get tangled in the chain, or in a wheel or may obscure your lights when you are cycling.</p>
 
-<p><strong>Clothing.</strong> You should avoid clothes that may get tangled in the chain, or in a wheel or may obscure your lights when you are cycling.
-</p>
-<p>
-Light-coloured or fluorescent clothing can help other road users to see you in daylight and poor light, while reflective clothing and/or accessories (belt, arm or ankle bands) can increase your visibility in the dark.
-</p>
-<p>
-You should wear a cycle helmet that conforms to current regulations, is the correct size and securely fastened. Evidence suggests that a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.</p>
+<p>Light-coloured or fluorescent clothing can help other road users to see you in daylight and poor light, while reflective clothing and/or accessories (belt, arm or ankle bands) can increase your visibility in the dark.</p>
 
+<p>You should wear a cycle helmet that conforms to current regulations, is the correct size and securely fastened. Evidence suggests that a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.</p>
 :::
 
 ## Accessibility

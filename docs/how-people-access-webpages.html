@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.537">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Webpage Design - 2&nbsp; How people access the web</title>
+<title>2&nbsp; How people access the web – Webpage Design</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,14 +70,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var sidebar = document.getElementById('quarto-sidebar');
-    var logo = sidebar.getElementsByTagName('img')[0];
-    
-    sidebar.appendChild(logo);
-  });
-</script>
 
 
 </head>
@@ -88,13 +80,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./how-people-access-webpages.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">How people access the web</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -104,10 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="https://zenodo.org/badge/833647778.svg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
-      </a>
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">Webpage Design</a> 
         <div class="sidebar-tools-main">
@@ -246,7 +235,7 @@ Summary
 <p>In general, when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="fig-uk-web-use" class="quarto-figure quarto-figure-center quarto-float anchored" alt="A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.">
+<div id="fig-uk-web-use" class="quarto-float quarto-figure quarto-figure-center anchored" alt="A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-uk-web-use-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="img/web-access-graph.gif" class="img-fluid figure-img" alt="A figure with two lines, one for desktop computers and the other for mobile devices showing how views of the world wide web changed in the UK from mostly desktop devices in 2011 to 50% desktop and 50% mobile devices by 2022.">
@@ -276,13 +265,13 @@ Figure&nbsp;2.1: The world wide web turned 34 years old in 2023. The grey line s
 <p>It’s impossible to anticipate every accessibility need, so an important consideration:</p>
 <p><strong>Is there a clear method by which users can contact you with accessibility issues?</strong></p>
 <p>For example, an email address or messaging service.</p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Common accessibility issues">
+<div id="accessiblity-checklist" class="callout callout-style-default callout-tip callout-titled" title="Common accessibility issues">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<a href="" id="accessiblity-checklist"></a>Common accessibility issues
+Common accessibility issues
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -293,7 +282,7 @@ Figure&nbsp;2.1: The world wide web turned 34 years old in 2023. The grey line s
 <li><p>Insufficient colour contrast</p>
 <p>Text, graphics, and user interface components must have sufficient colour contrast with the background (see the <a href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a> for required contrast ratios).</p></li>
 <li><p>Alt-text missing</p>
-<p>Images must have alt-text, unless they are decorative, in which case a null text alternative (alt=““) must be provided (See <span class="quarto-unresolved-ref">?sec-making-imagery-accessible</span> and the <a href="https://www.w3.org/WAI/tutorials/images/">WAI Images Tutorial</a>).</p></li>
+<p>Images must have alt-text, unless they are decorative, in which case a null text alternative (alt=““) must be provided (See <a href="how-to-use-imagery-and-visuals.html#sec-making-imagery-accessible" class="quarto-xref"><span>Section 5.3</span></a> and the <a href="https://www.w3.org/WAI/tutorials/images/">WAI Images Tutorial</a>).</p></li>
 <li><p>Not keyboard accessible</p>
 <p>Users must be able to navigate to navigate to all interactive components using a keyboard only (see <a href="https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html">WCAG Success Criterion 2.1.1: Keyboard (Level A)</a>).</p></li>
 </ul>
@@ -497,18 +486,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -540,7 +518,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -548,10 +548,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -595,7 +600,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -643,7 +652,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
@@ -866,12 +880,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./what-to-read-instead.html" class="pagination-link  aria-label=" &lt;span="" to="" read="" instead&lt;="" span&gt;"="">
+      <a href="./what-to-read-instead.html" class="pagination-link" aria-label="What to read instead">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">What to read instead</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./how-people-read-webpages.html" class="pagination-link" aria-label="<span class='chapter-number'>3</span>&nbsp; <span class='chapter-title'>How people read webpages</span>">
+      <a href="./how-people-read-webpages.html" class="pagination-link" aria-label="How people read webpages">
         <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">How people read webpages</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>

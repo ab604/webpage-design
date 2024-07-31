@@ -10,6 +10,26 @@
     ]
   },
   {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Human factors in design\nHere are three human factors that are common in design and not limited to webpages. The first two relate to human cognition and the third to human behaviour.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "preface.html#sec-human-factors-in-design",
+    "href": "preface.html#sec-human-factors-in-design",
+    "title": "Preface",
+    "section": "",
+    "text": "Humans judge can be aided by comparisons\nWhether it’s tasting coffee or choosing clothes, comparisons can often aid our judgements.\nThe proper colour judging game is on No more marking, but consider the eight colours in the box below for a few seconds:\n\n\n\n\n\n\nExpand/collapse to see/hide the colour scale\n\n\n\n\n\n\n\n\n\nNow close the box and expand this next one with a single colour. Without looking at the scale, can you accurately judge which colour it is?\n\n\n\n\n\n\nExpand to see the colour\n\n\n\n\n\n\n\n\n\nPretty tricky, yes? However it’s much easier if the question is which of these two colours is darker?\n\n\n\n\n\n\nExpand to see the colours\n\n\n\n\n\n\n\n\n\nThere may not be an objectively best design, but by comparison it’s easier to discuss what “better” and “worse” look like.\n\n\nWorking memory is limited\nBroadly speaking, we have two types of memory: working memory and long term memory. Working memory is very small, capable of holding no more than a handful of pieces of information. Long term memory is effectively infinite.\nSection 3.2 Working memory expands more on this issue, but from a design perspective the challenge is to overcome working memory limitations.\nFor example, imagine having to remember this 16 digit number: 7591248630145829.\nIt’s difficult to read, let alone remember. But by using what we know about working memory, we re-design the problem.\n\n\n\n\n\n\nExpand to see a suggestion\n\n\n\n\n\nIt’s sill not easy, but splitting a long number into working memory sized chunks makes it easier to read and remember:\n7591 2486 3014 5829\n\n\n\n\n\nOur stated preferences often differ from our revealed preferences\n“If we compare the amount people say they drink in surveys with how much the Government data tells us is actually sold, then it turns out we drink about 50% more than we say.”\nSource: Alcohol Change UK\nThis is an example of the difference between stated preference and revealed preference and is why in design it’s as important - if not more - to understand what people do as what they say, in order to understand their needs.\nBelow is an example of desire path indicating the route preferred by users over that created by designers. We can think of desire paths as a form of revealed preference.\n\n\n\nSource: Wikipedia - A desire path between concrete sidewalks at the Ohio State University",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
     "objectID": "what-to-read-instead.html",
     "href": "what-to-read-instead.html",
     "title": "1  What to read instead",
@@ -54,7 +74,7 @@
     "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
     "title": "2  How people access the web",
     "section": "2.3 Designing for accessibility",
-    "text": "2.3 Designing for accessibility\nIt’s impossible to anticipate every accessibility need, so an important consideration:\nIs there a clear method by which users can contact you with accessibility issues?\nFor example, an email address or messaging service.\n\n\n\n\n\n\nCommon accessibility issues\n\n\n\nThese are the most common accessibility issues encountered by Digital Scholarship’s Kiki Kuijjer:\n\nEmbedded links not distinguishable\nLinks embedded in text should be distinguishable from the surrounding text - either through styling (like an underline) or by making sure there is sufficient contrast with the surrounding text (see Accessibility Insights: Link in text block).\nInsufficient colour contrast\nText, graphics, and user interface components must have sufficient colour contrast with the background (see the WebAIM Contrast Checker for required contrast ratios).\nAlt-text missing\nImages must have alt-text, unless they are decorative, in which case a null text alternative (alt=““) must be provided (See ?sec-making-imagery-accessible and the WAI Images Tutorial).\nNot keyboard accessible\nUsers must be able to navigate to navigate to all interactive components using a keyboard only (see WCAG Success Criterion 2.1.1: Keyboard (Level A)).\n\nYou can check your page for potential issues using an accessibility checker such as the WAVE Web Accessibility Evaluation Tool.\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are the official source of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding\nThese guidelines follow four design principles that pages should be:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University of Southampton is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! Utah University host WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including the previously mentioned WAVE Web Accessibility Evaluation Tool which highlights potential issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance.\nIt may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.",
+    "text": "2.3 Designing for accessibility\nIt’s impossible to anticipate every accessibility need, so an important consideration:\nIs there a clear method by which users can contact you with accessibility issues?\nFor example, an email address or messaging service.\n\n\n\n\n\n\nCommon accessibility issues\n\n\n\nThese are the most common accessibility issues encountered by Digital Scholarship’s Kiki Kuijjer:\n\nEmbedded links not distinguishable\nLinks embedded in text should be distinguishable from the surrounding text - either through styling (like an underline) or by making sure there is sufficient contrast with the surrounding text (see Accessibility Insights: Link in text block).\nInsufficient colour contrast\nText, graphics, and user interface components must have sufficient colour contrast with the background (see the WebAIM Contrast Checker for required contrast ratios).\nAlt-text missing\nImages must have alt-text, unless they are decorative, in which case a null text alternative (alt=““) must be provided (See Section 5.3 and the WAI Images Tutorial).\nNot keyboard accessible\nUsers must be able to navigate to navigate to all interactive components using a keyboard only (see WCAG Success Criterion 2.1.1: Keyboard (Level A)).\n\nYou can check your page for potential issues using an accessibility checker such as the WAVE Web Accessibility Evaluation Tool.\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are the official source of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding\nThese guidelines follow four design principles that pages should be:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University of Southampton is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! Utah University host WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including the previously mentioned WAVE Web Accessibility Evaluation Tool which highlights potential issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance.\nIt may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
     ]
@@ -267,46 +287,6 @@
     "text": "1. Bennett, J. & Gorovitz, S. Improving\nAcademic Writing. Teaching Philosophy 20,\n105–120 (1997).\n\n\n2. Redish, Janice. Letting Go of the Words :\nWriting Web Content That Works. (Morgan Kaufmann, [Waltham,\nMA], 2012).\n\n\n3. Pernice, K., Whitenton, K. & Nielsen, J.\nHow People Read Online : The Eyetracking Evidence. (Nielsen\nNorman Group, Fremont, CA, 2021).\n\n\n4. Miller, G. A. The magical number\nseven, plus or minus two: Some limits on our capacity for processing\ninformation. Psychological Review 101,\n343–352 (1994).\n\n\n5. Ma,\nW. J., Husain, M. & Bays, P. M. Changing concepts of working\nmemory. Nature Neuroscience 17, 347–356\n(2014).\n\n\n6. Wallace, S. et al. Towards individuated reading\nexperiences: Different fonts increase reading speed for different\nindividuals. ACM Transactions on Computer-Human Interaction\n29, 38:138:56 (2022).",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "index.html#sec-human-factors-in-design",
-    "href": "index.html#sec-human-factors-in-design",
-    "title": "Webpage Design",
-    "section": "Human factors in design",
-    "text": "Human factors in design\nHere are three human factors that are common in design and not limited to webpages. The first two relate to human cognition and the third to human behaviour.\n\nHumans judge can be aided by comparisons\nWhether it’s tasting coffee or choosing clothes, comparisons can often aid our judgements.\nThe proper colour judging game is on No more marking, but consider the eight colours in the box below for a few seconds:\n\n\n\n\n\n\nExpand/collapse to see/hide the colour scale\n\n\n\n\n\n\n\n\n\nNow close the box and expand this next one with a single colour. Without looking at the scale, can you accurately judge which colour it is?\n\n\n\n\n\n\nExpand to see the colour\n\n\n\n\n\n\n\n\n\nPretty tricky, yes? However it’s much easier if the question is which of these two colours is darker?\n\n\n\n\n\n\nExpand to see the colours\n\n\n\n\n\n\n\n\n\nThere may not be an objectively best design, but by comparison it’s easier to discuss what “better” and “worse” look like.\n\n\nWorking memory is limited\nBroadly speaking, we have two types of memory: working memory and long term memory. Working memory is very small, capable of holding no more than a handful of pieces of information. Long term memory is effectively infinite.\nSection 3.2 Working memory expands more on this issue, but from a design perspective the challenge is to overcome working memory limitations.\nFor example, imagine having to remember this 16 digit number: 7591248630145829.\nIt’s difficult to read, let alone remember. But by using what we know about working memory, we re-design the problem.\n\n\n\n\n\n\nExpand to see a suggestion\n\n\n\n\n\nIt’s sill not easy, but splitting a long number into working memory sized chunks makes it easier to read and remember:\n7591 2486 3014 5829\n\n\n\n\n\nOur stated preferences often differ from our revealed preferences\n“If we compare the amount people say they drink in surveys with how much the Government data tells us is actually sold, then it turns out we drink about 50% more than we say.”\nSource: Alcohol Change UK\nThis is an example of the difference between stated preference and revealed preference and is why in design it’s as important - if not more - to understand what people do as what they say, in order to understand their needs.\nBelow is an example of desire path indicating the route preferred by users over that created by designers. We can think of desire paths as a form of revealed preference.\n\n\n\nSource: Wikipedia - A desire path between concrete sidewalks at the Ohio State University",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "preface.html",
-    "href": "preface.html",
-    "title": "Preface",
-    "section": "",
-    "text": "Human factors in design\nHere are three human factors that are common in design and not limited to webpages. The first two relate to human cognition and the third to human behaviour.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "preface.html#sec-human-factors-in-design",
-    "href": "preface.html#sec-human-factors-in-design",
-    "title": "Preface",
-    "section": "",
-    "text": "Humans judge can be aided by comparisons\nWhether it’s tasting coffee or choosing clothes, comparisons can often aid our judgements.\nThe proper colour judging game is on No more marking, but consider the eight colours in the box below for a few seconds:\n\n\n\n\n\n\nExpand/collapse to see/hide the colour scale\n\n\n\n\n\n\n\n\n\nNow close the box and expand this next one with a single colour. Without looking at the scale, can you accurately judge which colour it is?\n\n\n\n\n\n\nExpand to see the colour\n\n\n\n\n\n\n\n\n\nPretty tricky, yes? However it’s much easier if the question is which of these two colours is darker?\n\n\n\n\n\n\nExpand to see the colours\n\n\n\n\n\n\n\n\n\nThere may not be an objectively best design, but by comparison it’s easier to discuss what “better” and “worse” look like.\n\n\nWorking memory is limited\nBroadly speaking, we have two types of memory: working memory and long term memory. Working memory is very small, capable of holding no more than a handful of pieces of information. Long term memory is effectively infinite.\nSection 3.2 Working memory expands more on this issue, but from a design perspective the challenge is to overcome working memory limitations.\nFor example, imagine having to remember this 16 digit number: 7591248630145829.\nIt’s difficult to read, let alone remember. But by using what we know about working memory, we re-design the problem.\n\n\n\n\n\n\nExpand to see a suggestion\n\n\n\n\n\nIt’s sill not easy, but splitting a long number into working memory sized chunks makes it easier to read and remember:\n7591 2486 3014 5829\n\n\n\n\n\nOur stated preferences often differ from our revealed preferences\n“If we compare the amount people say they drink in surveys with how much the Government data tells us is actually sold, then it turns out we drink about 50% more than we say.”\nSource: Alcohol Change UK\nThis is an example of the difference between stated preference and revealed preference and is why in design it’s as important - if not more - to understand what people do as what they say, in order to understand their needs.\nBelow is an example of desire path indicating the route preferred by users over that created by designers. We can think of desire paths as a form of revealed preference.\n\n\n\nSource: Wikipedia - A desire path between concrete sidewalks at the Ohio State University",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Webpage Design",
-    "section": "",
-    "text": "What do we know about how users engage with webpages?\nWhat do we know about human cognition and behaviour that applies to webpage design?",
-    "crumbs": [
-      "index.html"
     ]
   }
 ]

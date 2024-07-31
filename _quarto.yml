@@ -46,22 +46,8 @@ format:
       light: [cosmo, styles.scss]
       dark: [cosmo, dark.scss]
     csl: nature.csl
-    # include-in-header:
-    #   text: |
-    #     <script>
-    #       document.addEventListener("DOMContentLoaded", function() {
-    #         var sidebar = document.getElementById('quarto-sidebar');
-    #         var logo = sidebar.getElementsByTagName('img')[0];
-    # 
-    #         sidebar.appendChild(logo);
-    #       });
-    #     </script>
-  
-  #pdf:
-    #documentclass: scrreprt
+    google-analytics: G-RXQ45LC482
     
-
-
 
 editor: visual
 
