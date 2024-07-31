@@ -2,6 +2,7 @@ project:
   type: book
   output-dir: docs
   
+  
 crossref:
   custom:
     - kind: float
@@ -14,6 +15,8 @@ book:
   date: last-modified
   date-format: "[Last Updated on] YYYY-MM-DD"
   #cover-image: cover.png
+  google-analytics:
+      tracking-id: "G-RXQ45LC482"
   reader-mode: true  
   page-footer:
       left: |
@@ -46,8 +49,6 @@ format:
       light: [cosmo, styles.scss]
       dark: [cosmo, dark.scss]
     csl: nature.csl
-    google-analytics: G-RXQ45LC482
     
-
 editor: visual
 
