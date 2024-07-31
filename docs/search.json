@@ -1,292 +1,149 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Webpage Design",
+    "objectID": "wot/uos-wot.html",
+    "href": "wot/uos-wot.html",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Overview\nThis short book has been created as a resource for librarians at the University of Southampton. It aims to aggregate the most pertinent information available about how to create effective webpages for library users.\nAs library webpages consist largely of text and links, text-based pages are the focus of this book.\nThe scope does extend to images, but not to video or other media. However, most of the considerations that apply to images, apply to videos and other media.\nThe material presented here encourages you to consider what we know about what works and why, rather than present a rigid framework that you must follow.\nThe overarching questions under consideration are:\n\nWhat do we know about how users engage with webpages?\nWhat do we know about human cognition and behaviour that applies to webpage design?\n\nOur goal is to create webpages that work for library users, and in doing so resist the temptation to design for ourselves.\n\nPlease cite this work as,\n\nBailey A, (2024). Webpage Design, https://ab604.github.io/webpage-design/\n\n\n\n\n\n\n\nBibtex citation:\n\n\n\n\n\n\n@book{bailey2024,\n    title = {Webpage Design},\n    copyright = {Creative Commons Attribution 4.0 International},\n    shorttitle = {ab604/webpage-design},\n    url = {https://zenodo.org/doi/10.5281/zenodo.13133922},\n    urldate = {2024-07-31},\n    publisher = {Zenodo},\n    author = {Alistair Bailey},\n    month = jul,\n    year = {2024},\n    doi = {10.5281/ZENODO.13133922},\n}",
-    "crumbs": [
-      "Overview"
-    ]
+    "text": "Welcome to the University of Southampton\nThe University of Southampton is a world-leading institution, renowned for its academic excellence, innovative research, and stunning campus location in the heart of Southampton. As one of the UK’s top 10 universities, we’re dedicated to providing a world-class education and a supportive community for our students. At Southampton, we’re home to five main faculties: Arts and Humanities, Business, Engineering and Physical Sciences, Environmental and Life Sciences and Medicine Each faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field. The University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole. At the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met. As a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth. The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. The Library is open 7 days a week from 0800 to 2200. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery. The library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success."
   },
   {
-    "objectID": "preface.html",
-    "href": "preface.html",
-    "title": "Preface",
+    "objectID": "sevillana/uos-sevillana.html",
+    "href": "sevillana/uos-sevillana.html",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Human factors in design\nHere are three human factors that are common in design and not limited to webpages. The first two relate to human cognition and the third to human behaviour.",
-    "crumbs": [
-      "Preface"
-    ]
+    "text": "The University of Southampton is a world-leading institution, renowned for its academic excellence, innovative research, and stunning campus location in the heart of Southampton. As one of the UK’s top 10 universities, we’re dedicated to providing a world-class education and a supportive community for our students.\n\n\nAt Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field.\n\n\n\nThe University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole.\n\n\n\nAt the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met.\n\n\n\nAs a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth.\n\n\n\nThe University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
   },
   {
-    "objectID": "preface.html#sec-human-factors-in-design",
-    "href": "preface.html#sec-human-factors-in-design",
-    "title": "Preface",
+    "objectID": "sevillana/uos-sevillana.html#our-five-faculties",
+    "href": "sevillana/uos-sevillana.html#our-five-faculties",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Humans judge can be aided by comparisons\nWhether it’s tasting coffee or choosing clothes, comparisons can often aid our judgements.\nThe proper colour judging game is on No more marking, but consider the eight colours in the box below for a few seconds:\n\n\n\n\n\n\nExpand/collapse to see/hide the colour scale\n\n\n\n\n\n\n\n\n\nNow close the box and expand this next one with a single colour. Without looking at the scale, can you accurately judge which colour it is?\n\n\n\n\n\n\nExpand to see the colour\n\n\n\n\n\n\n\n\n\nPretty tricky, yes? However it’s much easier if the question is which of these two colours is darker?\n\n\n\n\n\n\nExpand to see the colours\n\n\n\n\n\n\n\n\n\nThere may not be an objectively best design, but by comparison it’s easier to discuss what “better” and “worse” look like.\n\n\nWorking memory is limited\nBroadly speaking, we have two types of memory: working memory and long term memory. Working memory is very small, capable of holding no more than a handful of pieces of information. Long term memory is effectively infinite.\nSection 3.2 Working memory expands more on this issue, but from a design perspective the challenge is to overcome working memory limitations.\nFor example, imagine having to remember this 16 digit number: 7591248630145829.\nIt’s difficult to read, let alone remember. But by using what we know about working memory, we re-design the problem.\n\n\n\n\n\n\nExpand to see a suggestion\n\n\n\n\n\nIt’s sill not easy, but splitting a long number into working memory sized chunks makes it easier to read and remember:\n7591 2486 3014 5829\n\n\n\n\n\nOur stated preferences often differ from our revealed preferences\n“If we compare the amount people say they drink in surveys with how much the Government data tells us is actually sold, then it turns out we drink about 50% more than we say.”\nSource: Alcohol Change UK\nThis is an example of the difference between stated preference and revealed preference and is why in design it’s as important - if not more - to understand what people do as what they say, in order to understand their needs.\nBelow is an example of desire path indicating the route preferred by users over that created by designers. We can think of desire paths as a form of revealed preference.\n\n\n\nSource: Wikipedia - A desire path between concrete sidewalks at the Ohio State University",
-    "crumbs": [
-      "Preface"
-    ]
+    "text": "At Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field."
   },
   {
-    "objectID": "what-to-read-instead.html",
-    "href": "what-to-read-instead.html",
-    "title": "1  What to read instead",
+    "objectID": "sevillana/uos-sevillana.html#research-excellence",
+    "href": "sevillana/uos-sevillana.html#research-excellence",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "1.1 What’s not covered",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
-    ]
+    "text": "The University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole."
   },
   {
-    "objectID": "what-to-read-instead.html#sec-whats-not-covered",
-    "href": "what-to-read-instead.html#sec-whats-not-covered",
-    "title": "1  What to read instead",
+    "objectID": "sevillana/uos-sevillana.html#student-life",
+    "href": "sevillana/uos-sevillana.html#student-life",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "1.1.1 User testing\nIt’s worth noting that both NN/g and GOV.UK use data and user testing as part of their UX design process. This is not something we’re considering in scope here, but one would expect this to improve our webpages if we could include this too.\nIf data-driven design is of interest to you this November 2023 blog post from the GDS details how they used data from their existing pages to guide the update of GOV.UK webpages.\n\n\n1.1.2 Videos and other media\nHere the scope does extend to webpages that include images, but not to video or other media. However, most of the considerations that apply to images, apply to videos and other media (See Chapter 5).\n\n\n\n\n1. Redish, Janice. Letting Go of the Words : Writing Web Content That Works. (Morgan Kaufmann, [Waltham, MA], 2012).\n\n\n2. Pernice, K., Whitenton, K. & Nielsen, J. How People Read Online : The Eyetracking Evidence. (Nielsen Norman Group, Fremont, CA, 2021).",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What to read instead</span>"
-    ]
+    "text": "At the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met."
   },
   {
-    "objectID": "how-people-access-webpages.html",
-    "href": "how-people-access-webpages.html",
-    "title": "2  How people access the web",
+    "objectID": "sevillana/uos-sevillana.html#global-opportunities",
+    "href": "sevillana/uos-sevillana.html#global-opportunities",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "2.1 Mobile devices now account for 50% of webpage views in the UK\nFigure 2.1 shows how in the last ten years there has been a change in the way people view the world wide web. In 2011 the majority of users accessed the web using desktop/laptop computers, but by 2022 we see mobile devices such as tablets and phones accounting for half of the views.\nIn November 2023 GOV.UK reported that over 60% of their visits are from mobile devices.\nHowever, Google Analytics data for the University of Southampton Library pages shows that in the 12 months between January 2023 to January 2024 approximately 70% of visits are from devices with traditional keyboards. My assumption is that this reflects a greater proportion of users carrying out activities best suited to devices with keyboards and larger screens at the same time as they are accessing the Library website than across the web as a whole.\nIn general, when considering how to create effective webpages we need to consider how our pages work on both channels: computers with traditional keyboards and screens and mobile touch screen only devices.\nFigure 2.1: The world wide web turned 34 years old in 2023. The grey line shows the share of web views in the UK from desktop computers and the red line shows the share of web views in the UK from mobile devices.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
-    ]
+    "text": "As a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth."
   },
   {
-    "objectID": "how-people-access-webpages.html#sec-design-webpages-to-provide-a-consistent-experience-across-channels",
-    "href": "how-people-access-webpages.html#sec-design-webpages-to-provide-a-consistent-experience-across-channels",
-    "title": "2  How people access the web",
-    "section": "2.2 Design webpages to provide a consistent experience across channels",
-    "text": "2.2 Design webpages to provide a consistent experience across channels\nBroadly speaking, these are the differences between desktop and mobile web experiences:\n\nDesktops/Laptops are best for complex activities (using keyboard and mouse, multiple tabs etc.) and detail rich content (larger screens).\nMobile devices excel at on-the-go features (using GPS or camera) and media consumption (video, images, books, audio etc.), but are more compact and complex tasks can be more difficult using a touchscreen.\n\nOur data indicates users accessing library pages are more likely to be using desktops than mobile devices for any given visit, but many users have both types of device and may visit using either and different times. Therefore if we have the choice, this suggests we should aim for consistency of user experience across channels, rather than optimising for one channel or device.\nConsistency doesn’t mean identical, it means the user has the same core experience regardless of channel (and/or page).\nWhat consistency means in practice is therefore determined by our overall design aims and adapting the guidance in Chapter 3, Chapter 4 and Chapter 5 for our specific page.\nThere is of course lots more detail on the NN/g: Optimizing for Context in the Omnichannel User Experience page, including discussions on when it’s appropriate to optimise for device rather than consistency.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
-    ]
-  },
-  {
-    "objectID": "how-people-access-webpages.html#sec-designing-for-accessibility",
-    "href": "how-people-access-webpages.html#sec-designing-for-accessibility",
-    "title": "2  How people access the web",
-    "section": "2.3 Designing for accessibility",
-    "text": "2.3 Designing for accessibility\nIt’s impossible to anticipate every accessibility need, so an important consideration:\nIs there a clear method by which users can contact you with accessibility issues?\nFor example, an email address or messaging service.\n\n\n\n\n\n\nCommon accessibility issues\n\n\n\nThese are the most common accessibility issues encountered by Digital Scholarship’s Kiki Kuijjer:\n\nEmbedded links not distinguishable\nLinks embedded in text should be distinguishable from the surrounding text - either through styling (like an underline) or by making sure there is sufficient contrast with the surrounding text (see Accessibility Insights: Link in text block).\nInsufficient colour contrast\nText, graphics, and user interface components must have sufficient colour contrast with the background (see the WebAIM Contrast Checker for required contrast ratios).\nAlt-text missing\nImages must have alt-text, unless they are decorative, in which case a null text alternative (alt=““) must be provided (See Section 5.3 and the WAI Images Tutorial).\nNot keyboard accessible\nUsers must be able to navigate to navigate to all interactive components using a keyboard only (see WCAG Success Criterion 2.1.1: Keyboard (Level A)).\n\nYou can check your page for potential issues using an accessibility checker such as the WAVE Web Accessibility Evaluation Tool.\n\n\nThe World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 are the official source of recommendations for web accessibility to improve inclusion of users with impairments to their vision, hearing, mobility, thinking or understanding\nThese guidelines follow four design principles that pages should be:\n\nPerceivable\nOperable\nUnderstandable\nRobust\n\nThe University of Southampton is expected to meet the WCAG AA standard for accessibility.\nThe WCAG provide a Quick Reference which has examples, but is ironically a bit overwhelming! Utah University host WebAIM provide an in-depth WCAG 2.2. AA checklist too that is slightly easier to use.\nWebAIM also provide many tools, including the previously mentioned WAVE Web Accessibility Evaluation Tool which highlights potential issues on your page.\nAs library pages primarily consist of text and links, the University of Washington Accessibility Checklist may provide sufficiently concise guidance.\nIt may not be possible to achieve perfect accessibility due to the trade-off one encounters between competing user needs, but the important thing is to try.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How people access the web</span>"
-    ]
-  },
-  {
-    "objectID": "how-people-read-webpages.html",
-    "href": "how-people-read-webpages.html",
-    "title": "3  How people read webpages",
+    "objectID": "sevillana/uos-sevillana.html#university-library",
+    "href": "sevillana/uos-sevillana.html#university-library",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "3.1 People scan webpages\nNN/g publish a book called How People Read on the Web1 in which they detail the results of their large scale eye tracking studies.\nThis is how NN/g describe scanning versus reading1:\nThe hypothesis NN/g present for why we scan is because users are often looking for specific information when reading on the web. This is a different kind of task to reading a story or learning a subject step-wise. NN/g estimate users will only read around 20% of the text on the average webpage.\nThe behaviour is similar to that of desire lines, humans seeking out the most efficient (or lazy if you prefer) way to do things. Users have found that scanning on the web is more efficient than reading for extracting information.\nNN/g observe we scan in a variety of gaze patterns and therefore we should design and structure our pages for ease of scanning. NN/g also discuss this in their article about formatting pages for long form content.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
-    ]
+    "text": "The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
   },
   {
-    "objectID": "how-people-read-webpages.html#sec-people-scan-webpages",
-    "href": "how-people-read-webpages.html#sec-people-scan-webpages",
-    "title": "3  How people read webpages",
+    "objectID": "main/uos-example-page.html",
+    "href": "main/uos-example-page.html",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "The acts of scanning and reading are quite different. Reading includes looking at most words in chronological order in a section or on an entire page. But when scanning, people look at words, headings, or sections of pages, often out of order, fixating on only some of the words, not entire lines of text.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
-    ]
+    "text": "The University of Southampton is a world-leading institution, renowned for its academic excellence, innovative research, and stunning campus location in the heart of Southampton. As one of the UK’s top 10 universities, we’re dedicated to providing a world-class education and a supportive community for our students.\n\n\nAt Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field.\n\n\n\nThe University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole.\n\n\n\nAt the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met.\n\n\n\nAs a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth.\n\n\n\nThe University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
   },
   {
-    "objectID": "how-people-read-webpages.html#sec-working-memory",
-    "href": "how-people-read-webpages.html#sec-working-memory",
-    "title": "3  How people read webpages",
-    "section": "3.2 Working memory",
-    "text": "3.2 Working memory\nOur working memory is how we store information in the short term. George Miller famously proposed in 1956 that our working memory can hold seven plus or minus two units of information2. More recent evidence suggests that the quality as much as the quantity of the information affects our ability to retain information3.\nWhat is clear is that capacity is limited and that this relates to cognitive load in terms of the quantity and/or difficulty of the information we can retain in the short-term i.e. seconds to minutes.\nUniversity of Southampton Library webpages are predominantly text and links. A quick browse suggests that most pages contain between 600 and 1,200 words. Based on a reading speed of 300 words per minute, this equates to between 2 and 4 minutes if one were to read the entire text.\nUsers are unlikely to read entire pages, let alone retain the contents. They wish to quickly identify the 20% relevant to their visit and move on.\nPage structure, well-written content (Chapter 4) and consistency between pages can all reduce the effort required to sort, extract and retain information.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
-    ]
-  },
-  {
-    "objectID": "how-people-read-webpages.html#sec-the-unconsidered-webpage-is-not-worth-creating",
-    "href": "how-people-read-webpages.html#sec-the-unconsidered-webpage-is-not-worth-creating",
-    "title": "3  How people read webpages",
-    "section": "3.3 The unconsidered webpage is not worth creating",
-    "text": "3.3 The unconsidered webpage is not worth creating\nIn Chapter 4 I outline some practical ways to improve writing, but before creating a webpage it’s worth spending time considering:\n\nthe purpose of the page\nwhat the user will be looking for\nhow and at what level of detail to present the content to them\n\nCareful consideration increases the likelihood of creating relevant content in an appropriate form, as opposed to a long-winded page that no-one reads. (See Section 3.2 and also the postscript.)",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
-    ]
-  },
-  {
-    "objectID": "how-people-read-webpages.html#sec-how-to-structure-a-webpage-for-ease-of-scanning",
-    "href": "how-people-read-webpages.html#sec-how-to-structure-a-webpage-for-ease-of-scanning",
-    "title": "3  How people read webpages",
-    "section": "3.4 How to structure a webpage for ease of scanning",
-    "text": "3.4 How to structure a webpage for ease of scanning\n\n3.4.1 The most important information comes first\nIt might seem obvious, but putting the most popular or important information the user is likely to want at the top of the page will save them time and effort. This assumes that you have some insight into what matters to the user, but if one does then that should be the first thing the user sees.\nThe UK Government Digital Service redesigned their website to reflect their understanding of what users came to do, moving popular content to the top of pages to reduce the scrolling and scanning effort.\nHence the Summary at the start of this chapter page.\nThis approach is also reflected in the inverted pyramid strategy where the information most likely to engage the user comes first, followed by the secondary, tertiary etc. information. Those who want detail can find it further down the page, but those who are only interested in the main point are served it immediately.\n\n\n3.4.2 Use informative headings\nBecause users scan for information, headings act as markers to help users navigate. This is also true for those using screen readers. Therefore it’s worth spending time thinking about how to make each heading informative and concise.\n\n\n3.4.3 Chunks, bullets and callouts\nChunks of text, bullet or callout can be considered a unit of information we can hold in our working memory (Section 3.2).\nA chunk of text is usually a short paragraph such as this, surrounded by white space so that it is distinct and therefore easier to pick out when scanning.\nBullets or numbered lists are a way of grouping related units of information, whilst callouts such as the summary at the top of this page highlight important units of information.\n\n\n3.4.4 Bolding and highlight\nUsing bold font or highlighting text through colour and/or shape are examples of the Von Restorff effect where the isolation of the words using colour, shape or weight makes them more prominent and memorable.\nThe Von Restorff effect relies on the difference between the thing you want to isolate and everything else, so it becomes ineffective if overused.\n\n\n3.4.5 Helpful visuals\nChapter 5 discusses how to use imagery and visuals in more detail. A helpful visual is one that supports the user’s aims either by informing or orientating them.\n\n\n3.4.6 Fonts matter. But there is no best font.\nA study by Adobe using English text found reading speeds varied by around a third on average between the best and worst of 16 fonts tested4. However, they report large variation between individual user’s reading speed and each font tested, and that other factors such as age, font familiarity and size were important for reading speed. The Adobe study is summarised in NN/g Best font for online reading.\nThis study implies that to account for individual variation it would be preferable to enable users to choose their own font for reading. However that’s generally not possible on a webpage (e-readers often do facilitate font choice).\nTherefore to maximise accessibility (see Section 2.3) what matters is to choose a legible font and size.\nThere is no WCAG standard for font size or font face, but for reference the GDS use a default paragraph font size of 19px on large screens and 16px on small screens. This follows the recommendations of the British Dyslexia Society to not use fonts smaller than 12pt, approximately equivalent to 16px/1rem.\n\n\n\n\n\n\nAn aside: pt, px and rem\n\n\n\nCascading Style Sheets (CSS) specify the presentation of styling of webpages and have several ways of expressing units of length. This W3 consortium tutorial page on CSS units of length has full details and examples.\nPoints (pt) is an absolute length (for font size) originating in typography, such that a 12pt font is around 4.2 mm in size. (Try measuring the letters for a 12pt font your screen in Word or Outlook.)\nPixels (px) are absolute numbers, but a pixel is defined by the viewing device, such that 1px might be one dot on a display with few dots, but represented by multiple dots on a display comprising of many dots. So whilst 16px should be around 12pt or 4.2 mm on most screens, the screen resolution (number of dots) will determine the actual size.\nRelative to font-size of the root element (rem) means scale the font size relative to a defined absolute font size in px - the root element. So if we define a root font size of 16px, 1rem is 16px and 2rem is 32px etc. And 2rem would be around 24pt or 8.4 mm on most screens.\nTL:DR define a root font size of at least 16px (personally I’d go with 18px) and ensure all other font sizes on your page are at least 1 rem.\n\n\nSuggested fonts for legibility are sans serif fonts such as Calibri, Arial or a serif font such as Garamond, but remember to be consistent across pages on the same site4.\nHere I have set a root font size of 18px and am using the Atkinson Hyperlegible font designed by the Braille Institute.\n\n\n\n\n1. Pernice, K., Whitenton, K. & Nielsen, J. How People Read Online : The Eyetracking Evidence. (Nielsen Norman Group, Fremont, CA, 2021).\n\n\n2. Miller, G. A. The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review 101, 343–352 (1994).\n\n\n3. Ma, W. J., Husain, M. & Bays, P. M. Changing concepts of working memory. Nature Neuroscience 17, 347–356 (2014).\n\n\n4. Wallace, S. et al. Towards individuated reading experiences: Different fonts increase reading speed for different individuals. ACM Transactions on Computer-Human Interaction 29, 38:138:56 (2022).",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How people read webpages</span>"
-    ]
-  },
-  {
-    "objectID": "how-to-write-for-the-web.html",
-    "href": "how-to-write-for-the-web.html",
-    "title": "4  How to write for the web",
+    "objectID": "main/uos-example-page.html#our-five-faculties",
+    "href": "main/uos-example-page.html#our-five-faculties",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "4.1 How to write better sentences\nMy favourite resource for improving writing is a short paper by Jonathan Bennett and Samuel Gorovitz in which they describe ‘Bennett Rules’ for sentences1.\nI’ve extracted the Bennett Rules here, but I encourage you to read the whole thing as it provides greater context and explanation.\nA key point is that comparison is often the best way to understand whether we can improve a sentence.\nAs discussed in Section 3.3 , the purpose of these rules is to provide practical guidance when creating your content. You may decide a more verbose or Latin rooted construction works best. The aim is to help you think about how to write sentences that the user will find easy to read and understand.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
-    ]
+    "text": "At Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field."
   },
   {
-    "objectID": "how-to-write-for-the-web.html#sec-how-to-write-better-sentences",
-    "href": "how-to-write-for-the-web.html#sec-how-to-write-better-sentences",
-    "title": "4  How to write for the web",
+    "objectID": "main/uos-example-page.html#research-excellence",
+    "href": "main/uos-example-page.html#research-excellence",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Verbs are better than nouns. Compare:\n\nThere is a difference between waving and drowning.\n\n\nWaving differs from drowning.\n\nAdverbs are better than adjectives. Compare:\n\nShe is a clear writer.\n\n\nShe writes clearly.\n\nFavour the Anglo-Saxon. Compare:\n\nIs it possible for him to…? (possible has Latin roots)\n\n\nCan he…? (can has Anglo-Saxon roots)\n\nBanish ‘very’ and its ilk. Compare:\n\nIt’s very unlikely.\n\n\nIt’s unlikely.\n\nAbstract nouns should be fought like the devil. Compare:\n\nOur exploration of the formulations’ implications for readability reveals that each are unacceptable.\n\n\nWe explore what each formulation implies for readability and find that none are acceptable.\n\nAvoid undue repetition.\nBe careful with commas. I’d extend this rule to suggest that breaking long sentences into smaller ones is generally good advice. Sentences full of commas, semi-colons and colons are potentially more confusing and harder to read.\nAttend to the sound. Test your writing by reading it aloud.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
-    ]
+    "text": "The University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole."
   },
   {
-    "objectID": "how-to-write-for-the-web.html#sec-make-link-text-informative",
-    "href": "how-to-write-for-the-web.html#sec-make-link-text-informative",
-    "title": "4  How to write for the web",
-    "section": "4.2 Make link text informative",
-    "text": "4.2 Make link text informative\nWhen linking, rather than “here”, “more” or “go”, use descriptive text or the page title as the link such as this link to Wikipedia’s photo of a domestic rabbit stretched out on a carpet.\nLinks with descriptive text are helpful for anyone using a screen reader and for all users in understanding what a link leads to.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
-    ]
-  },
-  {
-    "objectID": "how-to-write-for-the-web.html#sec-editing-your-own-words",
-    "href": "how-to-write-for-the-web.html#sec-editing-your-own-words",
-    "title": "4  How to write for the web",
-    "section": "4.3 Editing your own words",
-    "text": "4.3 Editing your own words\nIt is difficult to edit ones own words. Over-familiarity leads to word-blindness and an inability to spot typos. And it is difficult to step outside of oneself and consider how our words come across to someone else.\nIdeally one would have an editor available to review and copy-edit our words, but this isn’t always possible. If you are unable to recruit a trusted colleague to review your writing, Hannah Boursnell has written a two part blog with advice on how to edit your own work: 10 editing hacks - Part 1 and 10 editing hacks - Part 2.\nPerhaps the key advice being:\n\nTake a break to overcome word-blindness. Take a walk or leave it overnight.\nStart editing with the big picture: overall structure, headings, formatting - with the question, Is this achieving what I set out to do? in mind.\nThen move onto finer grained edits: paragraphs, sentences, words. Returning to the question in 2.\nCheck for consistency in writing style. Both within your page and compared with other pages on the site your page will inhabit.\nBack-up or version control your writing such that you can reinstate any changes if you change your mind.\n\n\n\n\n\n1. Bennett, J. & Gorovitz, S. Improving Academic Writing. Teaching Philosophy 20, 105–120 (1997).",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to write for the web</span>"
-    ]
-  },
-  {
-    "objectID": "how-to-use-imagery-and-visuals.html",
-    "href": "how-to-use-imagery-and-visuals.html",
-    "title": "5  Using imagery and visuals",
+    "objectID": "main/uos-example-page.html#student-life",
+    "href": "main/uos-example-page.html#student-life",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "5.1 How to use images\nUsers are primarily visiting Library webpages to access information or services. Therefore images and visuals should support these aims either by informing or orientating the user.\nBe wary of using images that don’t do either of these things, and never rely on imagery alone to provide information. This will exclude users who cannot see or access the image. Likewise images that contain text are difficult for some users to read, so should be avoided if possible (See Section 2.3).\nImages can also make scanning more difficult and increase scrolling time, especially on mobile devices. Remember that users are just as likely to be accessing from a mobile device than a desktop or laptop computer (Section 2.1).\nTherefore use images carefully and consider the trade-off in either including or excluding an image or visualisation.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
-    ]
+    "text": "At the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met."
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
-    "href": "how-to-use-imagery-and-visuals.html#sec-how-to-use-images",
-    "title": "5  Using imagery and visuals",
+    "objectID": "main/uos-example-page.html#global-opportunities",
+    "href": "main/uos-example-page.html#global-opportunities",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Tip\n\n\n\nServices usually work best without relying on images. Focus on writing clear, simple content for your service first. GOV.UK Design System: Images",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
-    ]
+    "text": "As a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth."
   },
   {
-    "objectID": "how-to-use-imagery-and-visuals.html#types-of-images",
-    "href": "how-to-use-imagery-and-visuals.html#types-of-images",
-    "title": "5  Using imagery and visuals",
-    "section": "5.2 Types of images",
-    "text": "5.2 Types of images\n\n5.2.1 Informative images\n\nPhotographs: if you need to show a lifelike representation of something such as a piece of equipment or room that can be booked.\nIllustrations: useful for conveying complex processes or information that is difficult to describe.\nIcons and logos: used to represent menus, actions or objects and can orientate the user on the page as they are easy to scan. However, icons don’t have universal meaning and are open to misinterpretation. If you use icons, ensure they are consistent across pages.\nInfographics and data visualisations: as the name implies, these are images used to summarise data, usually to show a trend or pattern of complex information in a simplified form. Good visualisations have informative titles and annotations to clarify their purpose.\n\n\n\n5.2.2 Decorative images\nDecorative imagery are images which are used to create ambiance and should be marked as decorative so that they are ignored by screen readers.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
-    ]
-  },
-  {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-making-imagery-accessible",
-    "href": "how-to-use-imagery-and-visuals.html#sec-making-imagery-accessible",
-    "title": "5  Using imagery and visuals",
-    "section": "5.3 Making imagery accessible",
-    "text": "5.3 Making imagery accessible\nAlternative text, or alt text is read aloud by screen readers or displayed when an image fails to load. All images should include alt text that explains the meaning and the context of the image to the user.\n\n\n\n\n\n\nWriting good alt text\n\n\n\nGood alt text:\n\ntells people what information the image provides\ndescribes the content and function of the image\nis specific, meaningful and concise\n\nUse normal punctuation, like commas and full stops, so the text is easy to read and understand.\nGenerally, aim for no more than 2 sentences of alt text. GOV.UK Design System: Images\n\n\nYou will need to consult the documentation for the tool you are using to create your webpage for the instructions on how to add alt text to your image.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
-    ]
-  },
-  {
-    "objectID": "how-to-use-imagery-and-visuals.html#sec-further-reading",
-    "href": "how-to-use-imagery-and-visuals.html#sec-further-reading",
-    "title": "5  Using imagery and visuals",
-    "section": "5.4 Further reading",
-    "text": "5.4 Further reading\nThe use of imagery is a topic in itself that I encourage the reader to explore. In this book we are only considering webpages that comprise of largely text and links. The GDS have detailed guidance for these type of webpages in their style guide for images and content guide for images.\nNN/g cover a broader set of uses in their article on their research into using imagery in visual design.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using imagery and visuals</span>"
-    ]
-  },
-  {
-    "objectID": "example-web-pages.html",
-    "href": "example-web-pages.html",
-    "title": "6  Example webpages",
+    "objectID": "main/uos-example-page.html#university-library",
+    "href": "main/uos-example-page.html#university-library",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "6.1 Structure and Appearance Examples\nThis section demonstrates how webpage structure alters user experience.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
-    ]
+    "text": "The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
   },
   {
-    "objectID": "example-web-pages.html#structure-and-appearance-examples",
-    "href": "example-web-pages.html#structure-and-appearance-examples",
-    "title": "6  Example webpages",
+    "objectID": "font-comparison/font-comparison.html",
+    "href": "font-comparison/font-comparison.html",
+    "title": "BBC News: Cheeky boar leaves nudist grunting in laptop chase",
     "section": "",
-    "text": "6.1.1 Baseline\nThis Baseline Welcome Page follows the principles discussed in previous chapters.\nIt’s not intended to be perfect either in form or content, but to provide a baseline for comparison to the variations below.\nCompare and contrast the structure of the baseline design to these first two examples:\n\n\n6.1.2 Variation 1\nWelcome Page Variation 1\n\n\n6.1.3 Variation 2\nWelcome Page Variation 2\nThe next two examples illustrate the effect of appearance on user experience:\n\n\n6.1.4 Variation 3\nWelcome Page Variation 3\n\n\n6.1.5 Variation 4\nWelcome Page Variation 4\nImagine we discovered that the most important things to users in order of popularity were:\n\nStudent Life\nLibrary\nResearch\n\nHow might we use this knowledge to improve our baseline webpage?",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
-    ]
+    "text": "Figure 1: Photo by Adele landauer\n\n\n\n\n\nCheeky boar leaves nudist grunting in laptop chase\n\nA nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.  The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.  Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.  “Nature strikes back!” she wrote, adding that the man laughed it all off.  “He gave it his all”, with not a stitch on, she reported. “I then showed the photos to the man, he laughed soundly and authorised me to make them public.”\n\n\n\n\n\n\nExpand to see font name\n\n\n\n\n\nPDF Font: EB Garamond Most preferred 32/350\n\n\n\n\nCheeky boar leaves nudist grunting in laptop chase\n\nA nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.  The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.  Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.  “Nature strikes back!” she wrote, adding that the man laughed it all off.  “He gave it his all”, with not a stitch on, she reported. “I then showed the photos to the man, he laughed soundly and authorised me to make them public.”\n\n\n\n\n\n\nExpand to see font name\n\n\n\n\n\nNewsprint Font: Franklin Gothic Most preferred by 3 out 350 people (the worst score).\n\n\n\n\nCheeky boar leaves nudist grunting in laptop chase\n\nA nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.  The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.  Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.  “Nature strikes back!” she wrote, adding that the man laughed it all off.  “He gave it his all”, with not a stitch on, she reported. “I then showed the photos to the man, he laughed soundly and authorised me to make them public.”\n\n\n\n\n\n\nExpand to see font name\n\n\n\n\n\nWeb Font: Oswald Most preferred 10/350\n\n\n\n\nCheeky boar leaves nudist grunting in laptop chase\n\nA nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.  The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.  Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.  “Nature strikes back!” she wrote, adding that the man laughed it all off.  “He gave it his all”, with not a stitch on, she reported. “I then showed the photos to the man, he laughed soundly and authorised me to make them public.”\n\n\n\n\n\n\nExpand to see font name\n\n\n\n\n\nWeb Font: Roboto Most preferred 13/350\n\n\n\n\nCheeky boar leaves nudist grunting in laptop chase\n\nA nudist in Berlin got too close to nature for comfort when a wild boar snatched his plastic bag - which had his laptop inside.  The naked man gave chase to the boar and her two piglets - much to the amusement of fellow sunbathers.  Adele Landauer, an actor and life coach, took photos of the chase at Teufelssee - a popular bathing spot - and put them on Facebook.  “Nature strikes back!” she wrote, adding that the man laughed it all off.  “He gave it his all”, with not a stitch on, she reported. “I then showed the photos to the man, he laughed soundly and authorised me to make them public.”\n\n\n\n\n\n\nExpand to see font name\n\n\n\n\n\nReadability Font: Noto Sans Most preferred 52/350 (Joint winner with Times)"
   },
   {
-    "objectID": "example-web-pages.html#font-comparison",
-    "href": "example-web-pages.html#font-comparison",
-    "title": "6  Example webpages",
-    "section": "6.2 Font comparison",
-    "text": "6.2 Font comparison\nThe next page compares five of 16 fonts previously tested on 350 participants to see how they changed reading experience.\nThe key findings were that the font does affect reading speed, but different people preferred different fonts, and font preference didn’t necessarily mean it was the fastest to read. Reading speed was most affected by age of the reader.\nThey cite a study that found using a font size of 18 point improved reading speed and comprehension, but this would be equivalent to 24px and 37% bigger than the text you are currently reading, so would have a big impact on the amount of text visible on the screen and the amount of scrolling required to read the text.\nSee which one you prefer and compare your preferences to the study participants.\nFont comparison webpage",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
-    ]
-  },
-  {
-    "objectID": "example-web-pages.html#language-example",
-    "href": "example-web-pages.html#language-example",
-    "title": "6  Example webpages",
-    "section": "6.3 Language Example",
-    "text": "6.3 Language Example\nI asked Claude Sonnet to describe Rule 59 of the Highway Code. This was the response:\n\nRule 59 of the Highway Code provides guidance on proper clothing and protective gear for cyclists. It states the following:\nYou should avoid wearing clothes that could get tangled in the bicycle’s chain or wheels, or that might obscure your lights while cycling. This could include loose or flowing garments, items with dangling straps or cords, or any clothing that is overly baggy or ill-fitting.\nThe rule recommends wearing light-colored or fluorescent clothing during the day and in poor light conditions, as this can help other road users see you more easily. Reflective clothing and accessories, such as reflective belts, arm or ankle bands, are also advised for increased visibility at night or in low-light situations.\nAdditionally, Rule 59 emphasizes the importance of wearing a cycle helmet that conforms to current regulations and safety standards. The helmet should be the correct size and properly fastened to ensure a secure fit. Research suggests that a correctly fitted helmet can significantly reduce the risk of sustaining a head injury in certain circumstances or accidents while cycling.\nIn summary, Rule 59 advises cyclists to wear appropriate clothing that does not pose an entanglement hazard, choose visible and reflective garments for increased conspicuity, and always wear a properly fitted and approved cycle helmet to protect against head injuries.\n\nTry interpreting this description to write Rule 59.\nTo illustrate the effect of language on user experience I created two versions of Rule 59 based on the actual text. Are they good writing? How would you describe them?\n\n\n\n\n\n\nExpand the box to read the first version:\n\n\n\n\n\nVestiary accoutrements. One ought to eschew sartorial assemblages that may become entrapped within the continuous chain or rotational apparatus, or occlude the luminescent signaling devices during the act of cycling. Garments exhibiting a high degree of luminance or fluorescence can augment the perceptibility to other vehicular operators in diurnal and suboptimal illumination conditions, while attire or accessories (such as belts, arm bands, or ankle adornments) imbued with retroreflective properties can amplify one’s conspicuity in conditions of nocturnal obscurity.\n\n\nIt is advisable to don a cranial protective apparatus conforming to current regulatory mandates, exhibiting an appropriate dimensional correspondence, and securely affixed. Empirical evidence suggests that a properly fitted cranial shield can mitigate the risk of sustaining cephalic trauma in certain contingencies.\n\n\n\n\n\n\n\n\n\n\nExpand the box to read the second version:\n\n\n\n\n\n\nClothing, you should avoid wearing garments that may become entangled in the bicycle chain or wheels, or that may obstruct your lights while you are cycling, thus posing a potential safety hazard. Clothing items that are light-colored or fluorescent in nature can significantly enhance your visibility to other road users under daylight conditions and in situations of poor lighting, whereas reflective clothing and accessories, such as reflective belts, arm bands, or ankle bands, can substantially increase your conspicuity and visibility in the dark, thereby reducing the risk of accidents or collisions.\n\n\nFurthermore, it is highly recommended that you wear a cycle helmet that conforms to the current regulations and safety standards, ensuring that it is of the correct size and securely fastened to your head, as extensive research and evidence strongly suggest that a correctly fitted and properly worn cycle helmet can significantly reduce your risk of sustaining a head injury in the event of certain circumstances or accidents that may occur while cycling.\n\n\n\n\n\n\n\n\n\n\nExpand the box to read the actual text from the Highway Code.What makes this good writing?\n\n\n\n\n\n\nClothing. You should avoid clothes that may get tangled in the chain, or in a wheel or may obscure your lights when you are cycling.\n\n\nLight-coloured or fluorescent clothing can help other road users to see you in daylight and poor light, while reflective clothing and/or accessories (belt, arm or ankle bands) can increase your visibility in the dark.\n\n\nYou should wear a cycle helmet that conforms to current regulations, is the correct size and securely fastened. Evidence suggests that a correctly fitted helmet will reduce your risk of sustaining a head injury in certain circumstances.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
-    ]
-  },
-  {
-    "objectID": "example-web-pages.html#accessibility",
-    "href": "example-web-pages.html#accessibility",
-    "title": "6  Example webpages",
-    "section": "6.4 Accessibility",
-    "text": "6.4 Accessibility\nWe already touched on accessibility throughout, but let’s just look at how to identify issues in practice.\nUtah State University host WebAIM. They are separate from the official body which is part of the world wide web consortium W3C Web Accessibility Initiative (WAI), but have a long standing involvement with accessibility on the web.\nI’ve created a deliberately inaccessible version of a Library homepage:\nWelcome Page Variation 5\nBut we can also look at existing real webpages to explore accessibility issues. One of the easiest ways is to put the URL of our page of interest into the search box of the WebAIM WAVE page, or from the same page install the WebAIM WAVE tool into our browser and right-click (on Windows) to run it on any page.\nHere’s a few to consider, but you could always pick your favourite pages:\n\nUniversity of Southampton Library Homepage\nUniversity of Southampton Library Academic Skills page\nUniversity of Oxford Bodleian Library\nRNIB homepage\n\nThe point here is not to criticise anyone, but to illustrate the challenges in meeting the accessibility guidelines without any errors or warnings.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Example webpages</span>"
-    ]
-  },
-  {
-    "objectID": "postscript.html",
-    "href": "postscript.html",
-    "title": "Postscript",
+    "objectID": "more-than-text/uos-mtt.html",
+    "href": "more-than-text/uos-mtt.html",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "Whilst putting these materials together I encountered a Tim Harford article in the Financial Times about Subtraction Neglect Bias (Link only accessible to FT subscribers.) .\nSubtraction Neglect Bias is the cognitive bias humans have towards problem solving of adding instead of subtracting.\nI experience this bias all the time, either in my own behaviour or observing other people.\nObviously, adding something to an existing situation is often the right way to solve a problem, but frequently removing something would be a better solution.\nI assume there is something cognitively painful about subtraction as compared with a cognitive reward of addition that biases us towards addition. A form of loss aversion?\nAnyhow, if you are reading this you may be wondering what that’s got to do with webpage design? Everything, I’d say. But it also has a lot to do with lots of other things we do at work or at home so I thought I’d mention it here as a general issue.\nFor example: PowerPoint slide design. Many presentations have too many slides and/or slide(s) too with much information on each one. Which I assume is a result of successive additions aimed at improving the presentation, when in fact it has the opposite effect. The result is slides that are difficult to read or understand, especially when the presenter is also talking. Most, if not all, presentations and slides would be strengthened by having less in them.\nSo when you next create a webpage, are writing, scheduling meetings, cooking, planning your weekend etc. consider removing words, slides, sections, ingredients, commitments or activities and see if it improves things, rather than adding more.\n\n\n\n\n\n\nAntoine de Saint-Exupéry, 1939\n\n\n\n“…perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away…”\nSource: Tim Harford, Financial Times, 2024-01-05",
-    "crumbs": [
-      "Postscript"
-    ]
+    "text": "Welcome to the University of Southampton\n\nThe University of Southampton is a world-leading institution, renowned for its academic excellence, innovative research, and stunning campus location in the heart of Southampton. As one of the UK’s top 10 universities, we’re dedicated to providing a world-class education and a supportive community for our students.\n\nAt Southampton, we’re home to five main faculties: Arts and Humanities, Business, Engineering and Physical Sciences, Environmental and Life Sciences and Medicine Each faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field. The University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole. At the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met. As a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth. The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. The Library is open 7 days a week from 0800 to 2200. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery. The library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "tiny-font/uos-tiny.html",
+    "href": "tiny-font/uos-tiny.html",
+    "title": "Welcome to the University of Southampton",
     "section": "",
-    "text": "1. Bennett, J. & Gorovitz, S. Improving\nAcademic Writing. Teaching Philosophy 20,\n105–120 (1997).\n\n\n2. Redish, Janice. Letting Go of the Words :\nWriting Web Content That Works. (Morgan Kaufmann, [Waltham,\nMA], 2012).\n\n\n3. Pernice, K., Whitenton, K. & Nielsen, J.\nHow People Read Online : The Eyetracking Evidence. (Nielsen\nNorman Group, Fremont, CA, 2021).\n\n\n4. Miller, G. A. The magical number\nseven, plus or minus two: Some limits on our capacity for processing\ninformation. Psychological Review 101,\n343–352 (1994).\n\n\n5. Ma,\nW. J., Husain, M. & Bays, P. M. Changing concepts of working\nmemory. Nature Neuroscience 17, 347–356\n(2014).\n\n\n6. Wallace, S. et al. Towards individuated reading\nexperiences: Different fonts increase reading speed for different\nindividuals. ACM Transactions on Computer-Human Interaction\n29, 38:138:56 (2022).",
-    "crumbs": [
-      "References"
-    ]
+    "text": "The University of Southampton is a world-leading institution, renowned for its academic excellence, innovative research, and stunning campus location in the heart of Southampton. As one of the UK’s top 10 universities, we’re dedicated to providing a world-class education and a supportive community for our students.\n\n\nAt Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field.\n\n\n\nThe University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole.\n\n\n\nAt the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met.\n\n\n\nAs a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth.\n\n\n\nThe University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
+  },
+  {
+    "objectID": "tiny-font/uos-tiny.html#our-five-faculties",
+    "href": "tiny-font/uos-tiny.html#our-five-faculties",
+    "title": "Welcome to the University of Southampton",
+    "section": "",
+    "text": "At Southampton, we’re home to five main faculties:\n\nArts and Humanities\nBusiness\nEngineering and Physical Sciences\nEnvironmental and Life Sciences\nMedicine\n\nEach faculty offers a range of undergraduate and postgraduate programs, tailored to your interests and career aspirations. With cutting-edge facilities and expert staff, you’ll get the skills and knowledge needed to succeed in your chosen field."
+  },
+  {
+    "objectID": "tiny-font/uos-tiny.html#research-excellence",
+    "href": "tiny-font/uos-tiny.html#research-excellence",
+    "title": "Welcome to the University of Southampton",
+    "section": "",
+    "text": "The University of Southampton is a research powerhouse, with an impressive track record of pushing boundaries and making a real difference. Our researchers are tackling the world’s biggest challenges, from climate change and sustainable energy to cancer and dementia. By working with industry experts and the local community, our research has real-world impact, driving positive change and benefiting society as a whole."
+  },
+  {
+    "objectID": "tiny-font/uos-tiny.html#student-life",
+    "href": "tiny-font/uos-tiny.html#student-life",
+    "title": "Welcome to the University of Southampton",
+    "section": "",
+    "text": "At the heart of everything we do is our commitment to student life. Our campus is a bustling hub of activity, with a range of clubs, societies, and sports teams. From music and dance to debate and volunteering, there’s something for everyone. Our student union is student-led and student-focused, working tirelessly to ensure your voice is heard and your needs are met."
+  },
+  {
+    "objectID": "tiny-font/uos-tiny.html#global-opportunities",
+    "href": "tiny-font/uos-tiny.html#global-opportunities",
+    "title": "Welcome to the University of Southampton",
+    "section": "",
+    "text": "As a University of Southampton student, you’re part of a global community, with opportunities to study abroad, participate in internships, and take part in international projects. Our strong connections with international partners and industry leaders provide endless opportunities for networking, skill-building, and personal growth."
+  },
+  {
+    "objectID": "tiny-font/uos-tiny.html#university-library",
+    "href": "tiny-font/uos-tiny.html#university-library",
+    "title": "Welcome to the University of Southampton",
+    "section": "",
+    "text": "The University Library is a vital component of the academic community, providing access to a vast array of resources and services that support student learning, research, and professional development. Located at the heart of the university campus, the library offers a welcoming and inclusive environment that fosters collaboration, creativity, and discovery.\n\nThe Library is open 7 days a week from 0800 to 2200.\n\n\n\nThe library collection includes over 1 million items, including books, journals, databases, and digital resources. The library also offers a range of services to support students, faculty, and staff, including research assistance, inter-library loan services, and course reserves. Additionally, the library provides study spaces, group study rooms, and collaborative workspaces to support student learning and academic success.\n\n\n\nThe University Campus. The Library is Building 36."
   }
 ]
